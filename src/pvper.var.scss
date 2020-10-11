@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+// pvper palette
+$pvper-bg: #181818;
+$pvper-fg: #f8f8f2;
+$pvper-selected: #44475a;
+$pvper-blue: #69f;
+$pvper-green: #393;
+$pvper-orange: #ff9117;
+$pvper-red: #e02929;
+$pvper-yellow: #ffd100;
+
+$deep-black: #0a0a0a;
+
+$primary: lighten($pvper-bg, 5%);
+
+$link: $pvper-fg;
+$link-hover: lighten($pvper-fg, 5%);
+$link-hover-border: lighten($pvper-fg, 5%);
+$link-focus: darken($pvper-fg, 5%);
+$link-focus-border: darken($pvper-fg, 5%);
+$link-active: lighten($pvper-fg, 5%);
+$link-active-border: lighten($pvper-fg, 5%);
+
+$info: $pvper-blue;
+$success: $pvper-green;
+$warning: $pvper-yellow;
+$danger: $pvper-red;
+$dark: $pvper-selected;
+$grey: $pvper-fg;
+
+$text: $pvper-fg;
+$text-light: lighten($pvper-fg, 5%);
+$text-strong: darken($pvper-fg, 5%);
+
+$background: $pvper-bg;
+
+$green-invert: $pvper-bg;
+$success-invert: $pvper-bg;
+
+// Update some of Bulma's component variables
+$title-color: $pvper-fg;
+$subtitle-color: $pvper-fg;
+$subtitle-strong-color: darken($pvper-fg, 5%);
+
+$body-background-color: $pvper-bg;
+$footer-background-color: $pvper-bg;
+
+$code-background: $pvper-selected;
+$label-color: $pvper-fg;
+$card-color: $pvper-bg;
+
+// button
+$button-color: $pvper-bg;
+$button-static-color: $pvper-bg;
+
+// message
+$message-body-color: $pvper-bg;
+
+// form
+$input-placeholder-color: lighten($pvper-selected, 20%);
+$input-color: $pvper-selected;
+$input-icon-color: lighten($pvper-selected, 20%);
+$input-icon-active-color: $pvper-selected;
+
+// form -- select
+$input-hover-color: $pvper-fg;
+
+// form -- radio
+// $input-hover-color: $pvper-fg;
+
+// table
+$table-background-color: $pvper-bg;
+
+$table-head-background-color: $deep-black;
+$table-foot-background-color: $deep-black;
+
+$table-row-hover-background-color: lighten($pvper-selected, 10%);
+$table-row-active-background-color: $pvper-selected;
+$table-striped-row-even-background-color: $pvper-selected;
+$table-striped-row-even-hover-background-color: lighten($pvper-selected, 10%);
+
+// box
+$box-background-color: $deep-black;
+
+// media
+$media-border-color: $pvper-fg;

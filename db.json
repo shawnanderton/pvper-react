@@ -1,0 +1,4581 @@
+{
+	"leaderboard": [
+		{
+			"blizzardId": 171108875,
+			"name": "Drizzymeow",
+			"faction": "alliance",
+			"realm": "draenor",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 135,
+			"title": "Dread Gladiator",
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Human",
+			"region": "us",
+			"id": "176bfc37-83c5-aa69-7db1-59fa67f5bb7f",
+			"_rid": "By1iAP-66w8IAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8IAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee6854c01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 1,
+					"rating": 3559,
+					"played": 2890,
+					"won": 1872,
+					"lost": 1018
+				},
+				{
+					"name": "2v2",
+					"rank": 1,
+					"rating": 3559,
+					"played": 2890,
+					"won": 1872,
+					"lost": 1018
+				},
+				{
+					"name": "RGB",
+					"rank": 1,
+					"rating": 3559,
+					"played": 2890,
+					"won": 1872,
+					"lost": 1018
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 174454355,
+			"name": "Brainmeow",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 480,
+			"title": "Ferocious Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"guild": "dog squad",
+			"region": "us",
+			"id": "e083c9a8-cffd-f30e-1453-a34f865b4a3b",
+			"_rid": "By1iAP-66w8JAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8JAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee6fa6f01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 2,
+					"rating": 3555,
+					"played": 1729,
+					"won": 1133,
+					"lost": 596
+				},
+				{
+					"name": "2v2",
+					"rank": 2,
+					"rating": 3555,
+					"played": 1729,
+					"won": 1133,
+					"lost": 596
+				},
+				{
+					"name": "RGB",
+					"rank": 2,
+					"rating": 3555,
+					"played": 1729,
+					"won": 1133,
+					"lost": 596
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 173337326,
+			"name": "Ceraliumeow",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Corrupted Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Human",
+			"guild": "dog squad",
+			"region": "us",
+			"id": "71ed6627-cc34-1972-f85d-33a8002e1fa9",
+			"_rid": "By1iAP-66w8KAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8KAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee74d6e01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 3,
+					"rating": 3551,
+					"played": 2788,
+					"won": 1863,
+					"lost": 925
+				},
+				{
+					"name": "2v2",
+					"rank": 3,
+					"rating": 3551,
+					"played": 2788,
+					"won": 1863,
+					"lost": 925
+				},
+				{
+					"name": "RGB",
+					"rank": 3,
+					"rating": 3551,
+					"played": 2788,
+					"won": 1863,
+					"lost": 925
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 174628032,
+			"name": "Korliczx",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Notorious Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"guild": "dog squad",
+			"region": "us",
+			"id": "c34313a7-ef5f-7abb-1586-bc5714d2f184",
+			"_rid": "By1iAP-66w8LAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8LAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee79a1201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 4,
+					"rating": 3550,
+					"played": 2124,
+					"won": 1485,
+					"lost": 639
+				},
+				{
+					"name": "2v2",
+					"rank": 4,
+					"rating": 3550,
+					"played": 2124,
+					"won": 1485,
+					"lost": 639
+				},
+				{
+					"name": "RGB",
+					"rank": 4,
+					"rating": 3550,
+					"played": 2124,
+					"won": 1485,
+					"lost": 639
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 213566532,
+			"name": "Nicktherogue",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Demonic Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Night Elf",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "eef8df8c-d35e-45d6-48d7-1cbd0c879b34",
+			"_rid": "By1iAP-66w8MAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8MAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee7e5b201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 5,
+					"rating": 3534,
+					"played": 934,
+					"won": 663,
+					"lost": 271
+				},
+				{
+					"name": "2v2",
+					"rank": 5,
+					"rating": 3534,
+					"played": 934,
+					"won": 663,
+					"lost": 271
+				},
+				{
+					"name": "RGB",
+					"rank": 5,
+					"rating": 3534,
+					"played": 934,
+					"won": 663,
+					"lost": 271
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 209515063,
+			"name": "Tickix",
+			"faction": "horde",
+			"realm": "bleeding-hollow",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Undead",
+			"guild": "Octopals",
+			"region": "us",
+			"id": "2c272653-8880-2a26-acd6-34904d44fe2d",
+			"_rid": "By1iAP-66w8NAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8NAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee840fd01d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 5,
+					"rating": 3534,
+					"played": 2281,
+					"won": 1301,
+					"lost": 980
+				},
+				{
+					"name": "2v2",
+					"rank": 5,
+					"rating": 3534,
+					"played": 2281,
+					"won": 1301,
+					"lost": 980
+				},
+				{
+					"name": "RGB",
+					"rank": 5,
+					"rating": 3534,
+					"played": 2281,
+					"won": 1301,
+					"lost": 980
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 192693353,
+			"name": "Prev",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"class": "Druid",
+			"spec": "Balance",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "b1ed76ba-b2bf-7906-f931-eab5cfa3ec6d",
+			"_rid": "By1iAP-66w8OAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8OAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee89e2501d6\"",
+			"_attachments": "attachments/",
+			"title": "Demonic Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 7,
+					"rating": 3532,
+					"played": 575,
+					"won": 375,
+					"lost": 200
+				},
+				{
+					"name": "2v2",
+					"rank": 7,
+					"rating": 3532,
+					"played": 575,
+					"won": 375,
+					"lost": 200
+				},
+				{
+					"name": "RGB",
+					"rank": 7,
+					"rating": 3532,
+					"played": 575,
+					"won": 375,
+					"lost": 200
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 205181839,
+			"name": "Nessper",
+			"faction": "horde",
+			"realm": "bleeding-hollow",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Notorious Gladiator",
+			"class": "Rogue",
+			"spec": "Assassination",
+			"race": "Blood Elf",
+			"guild": "Octopals",
+			"region": "us",
+			"id": "aec50b3a-ccdf-4d8c-d40e-c5bc04e2a5f1",
+			"_rid": "By1iAP-66w8PAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8PAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee8fb7001d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 8,
+					"rating": 3515,
+					"played": 2759,
+					"won": 1576,
+					"lost": 1183
+				},
+				{
+					"name": "2v2",
+					"rank": 8,
+					"rating": 3515,
+					"played": 2759,
+					"won": 1576,
+					"lost": 1183
+				},
+				{
+					"name": "RGB",
+					"rank": 8,
+					"rating": 3515,
+					"played": 2759,
+					"won": 1576,
+					"lost": 1183
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 173182483,
+			"name": "Wmx",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Wild Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Human",
+			"region": "us",
+			"id": "b9db4764-4ec1-ec08-d54c-c7c5e73ae6a1",
+			"_rid": "By1iAP-66w8QAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8QAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee9578801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 9,
+					"rating": 3504,
+					"played": 458,
+					"won": 380,
+					"lost": 78
+				},
+				{
+					"name": "2v2",
+					"rank": 9,
+					"rating": 3504,
+					"played": 458,
+					"won": 380,
+					"lost": 78
+				},
+				{
+					"name": "RGB",
+					"rank": 9,
+					"rating": 3504,
+					"played": 458,
+					"won": 380,
+					"lost": 78
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 198094658,
+			"name": "Idiotferal",
+			"faction": "alliance",
+			"realm": "proudmoore",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Druid",
+			"spec": "Feral",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "3b072530-21dd-0492-6802-0c19599e7b13",
+			"_rid": "By1iAP-66w8RAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8RAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aee9ae6901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 10,
+					"rating": 3503,
+					"played": 621,
+					"won": 407,
+					"lost": 214
+				},
+				{
+					"name": "2v2",
+					"rank": 10,
+					"rating": 3503,
+					"played": 621,
+					"won": 407,
+					"lost": 214
+				},
+				{
+					"name": "RGB",
+					"rank": 10,
+					"rating": 3503,
+					"played": 621,
+					"won": 407,
+					"lost": 214
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 213116212,
+			"name": "Floormat",
+			"faction": "horde",
+			"realm": "medivh",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Fearless Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Human",
+			"region": "us",
+			"id": "61708148-0744-4f33-9b44-0a8ca0b4ceb0",
+			"_rid": "By1iAP-66w8SAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8SAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de7bb97701d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 10,
+					"rating": 3503,
+					"played": 1676,
+					"won": 1021,
+					"lost": 655
+				},
+				{
+					"name": "2v2",
+					"rank": 10,
+					"rating": 3503,
+					"played": 1676,
+					"won": 1021,
+					"lost": 655
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 194167965,
+			"name": "Andrxw",
+			"faction": "horde",
+			"realm": "illidan",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 124,
+			"title": "Notorious Gladiator",
+			"class": "Demon Hunter",
+			"spec": "Havoc",
+			"race": "Night Elf",
+			"guild": "Raiding Rainbows",
+			"region": "us",
+			"id": "e4105568-3f39-145d-45da-2bcf86ae3fc5",
+			"_rid": "By1iAP-66w8TAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8TAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de7bf66b01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 10,
+					"rating": 3503,
+					"played": 1636,
+					"won": 922,
+					"lost": 714
+				},
+				{
+					"name": "2v2",
+					"rank": 10,
+					"rating": 3503,
+					"played": 1636,
+					"won": 922,
+					"lost": 714
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 175102748,
+			"name": "Vellido",
+			"faction": "horde",
+			"realm": "emerald-dream",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Primal Gladiator",
+			"class": "Death Knight",
+			"spec": "Unholy",
+			"race": "Orc",
+			"guild": "The Frog Squad",
+			"region": "us",
+			"id": "71342aba-cde9-bd5f-f7a0-af892e4c2472",
+			"_rid": "By1iAP-66w8UAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8UAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeeab9f801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 13,
+					"rating": 3502,
+					"played": 2549,
+					"won": 1447,
+					"lost": 1102
+				},
+				{
+					"name": "2v2",
+					"rank": 13,
+					"rating": 3502,
+					"played": 2549,
+					"won": 1447,
+					"lost": 1102
+				},
+				{
+					"name": "RGB",
+					"rank": 13,
+					"rating": 3502,
+					"played": 2549,
+					"won": 1447,
+					"lost": 1102
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 194046107,
+			"name": "Zhangbeihai",
+			"faction": "horde",
+			"realm": "illidan",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 128,
+			"class": "Shaman",
+			"spec": "Restoration",
+			"race": "Orc",
+			"guild": "Cherry Pink",
+			"region": "us",
+			"id": "13b21e23-ec3e-63e6-7fcf-f2c6d42bd78e",
+			"_rid": "By1iAP-66w8VAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8VAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeeb14ab01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 14,
+					"rating": 3495,
+					"played": 1256,
+					"won": 716,
+					"lost": 540
+				},
+				{
+					"name": "2v2",
+					"rank": 14,
+					"rating": 3495,
+					"played": 1256,
+					"won": 716,
+					"lost": 540
+				},
+				{
+					"name": "RGB",
+					"rank": 14,
+					"rating": 3495,
+					"played": 1256,
+					"won": 716,
+					"lost": 540
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 181528180,
+			"name": "Zenli",
+			"faction": "horde",
+			"realm": "malganis",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Warmongering Gladiator",
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Orc",
+			"guild": "didnt ask",
+			"region": "us",
+			"id": "e715e2cd-9c1b-c7a8-4c1c-e06dad7d8b75",
+			"_rid": "By1iAP-66w8WAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8WAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de7cac6f01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 15,
+					"rating": 3489,
+					"played": 2199,
+					"won": 1427,
+					"lost": 772
+				},
+				{
+					"name": "2v2",
+					"rank": 15,
+					"rating": 3489,
+					"played": 2199,
+					"won": 1427,
+					"lost": 772
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 174946454,
+			"name": "Bhadbhabiex",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 135,
+			"title": "the Fabulous",
+			"class": "Warlock",
+			"spec": "Affliction",
+			"race": "Human",
+			"guild": "Fellowship of AuntyB",
+			"region": "us",
+			"id": "523381f2-4f34-28a4-0090-8a7eb4258c5f",
+			"_rid": "By1iAP-66w8XAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8XAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeebaff101d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 16,
+					"rating": 3481,
+					"played": 3577,
+					"won": 2357,
+					"lost": 1220
+				},
+				{
+					"name": "2v2",
+					"rank": 16,
+					"rating": 3481,
+					"played": 3577,
+					"won": 2357,
+					"lost": 1220
+				},
+				{
+					"name": "RGB",
+					"rank": 16,
+					"rating": 3481,
+					"played": 3577,
+					"won": 2357,
+					"lost": 1220
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 187934883,
+			"name": "Tmpikaboo",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 124,
+			"title": "Malevolent Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Orc",
+			"guild": "THE MOVE",
+			"region": "us",
+			"id": "9a462f5b-ba5b-9884-c8fc-fea3950e0416",
+			"_rid": "By1iAP-66w8YAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8YAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeec079601d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 17,
+					"rating": 3479,
+					"played": 1589,
+					"won": 1074,
+					"lost": 515
+				},
+				{
+					"name": "2v2",
+					"rank": 17,
+					"rating": 3479,
+					"played": 1589,
+					"won": 1074,
+					"lost": 515
+				},
+				{
+					"name": "RGB",
+					"rank": 17,
+					"rating": 3479,
+					"played": 1589,
+					"won": 1074,
+					"lost": 515
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 209317994,
+			"name": "Burñx",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 134,
+			"title": "Corrupted Gladiator",
+			"class": "Warlock",
+			"spec": "Destruction",
+			"race": "Human",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "0e4263ca-8265-1f42-f3f3-b4fe2cb63115",
+			"_rid": "By1iAP-66w8ZAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8ZAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeec60be01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 17,
+					"rating": 3479,
+					"played": 2213,
+					"won": 1427,
+					"lost": 786
+				},
+				{
+					"name": "2v2",
+					"rank": 17,
+					"rating": 3479,
+					"played": 2213,
+					"won": 1427,
+					"lost": 786
+				},
+				{
+					"name": "RGB",
+					"rank": 17,
+					"rating": 3479,
+					"played": 2213,
+					"won": 1427,
+					"lost": 786
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 215758214,
+			"name": "Theronpaul",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "47f2641b-9f22-7b53-399e-fa93a9b46c83",
+			"_rid": "By1iAP-66w8aAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8aAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeecb77a01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 19,
+					"rating": 3466,
+					"played": 2267,
+					"won": 1293,
+					"lost": 974
+				},
+				{
+					"name": "2v2",
+					"rank": 19,
+					"rating": 3466,
+					"played": 2267,
+					"won": 1293,
+					"lost": 974
+				},
+				{
+					"name": "RGB",
+					"rank": 19,
+					"rating": 3466,
+					"played": 2267,
+					"won": 1293,
+					"lost": 974
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 191377436,
+			"name": "Gékz",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 126,
+			"title": "Tyrannical Gladiator",
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Human",
+			"region": "us",
+			"id": "5b491a95-8782-4a76-d890-2b08ef91e5b9",
+			"_rid": "By1iAP-66w8bAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8bAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeed124201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 20,
+					"rating": 3454,
+					"played": 1292,
+					"won": 747,
+					"lost": 545
+				},
+				{
+					"name": "2v2",
+					"rank": 20,
+					"rating": 3454,
+					"played": 1292,
+					"won": 747,
+					"lost": 545
+				},
+				{
+					"name": "RGB",
+					"rank": 20,
+					"rating": 3454,
+					"played": 1292,
+					"won": 747,
+					"lost": 545
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 156220561,
+			"name": "Dillon",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"class": "Hunter",
+			"spec": "Survival",
+			"race": "Human",
+			"guild": "Speed For The Boys",
+			"region": "us",
+			"id": "6acdad56-cc87-71f4-e0c6-ba0486e14f9f",
+			"_rid": "By1iAP-66w8cAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8cAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeededd201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 20,
+					"rating": 3454,
+					"played": 1058,
+					"won": 600,
+					"lost": 458
+				},
+				{
+					"name": "2v2",
+					"rank": 20,
+					"rating": 3454,
+					"played": 1058,
+					"won": 600,
+					"lost": 458
+				},
+				{
+					"name": "RGB",
+					"rank": 20,
+					"rating": 3454,
+					"played": 1058,
+					"won": 600,
+					"lost": 458
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 185417077,
+			"name": "Ssds",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 136,
+			"title": "Corrupted Gladiator",
+			"class": "Hunter",
+			"spec": "Marksmanship",
+			"race": "Human",
+			"guild": "Automatic Repairs",
+			"region": "us",
+			"id": "fb9d28f6-714b-5cc5-cd03-f4073b755f0b",
+			"_rid": "By1iAP-66w8dAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8dAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeee49b301d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 22,
+					"rating": 3452,
+					"played": 1611,
+					"won": 944,
+					"lost": 667
+				},
+				{
+					"name": "2v2",
+					"rank": 22,
+					"rating": 3452,
+					"played": 1611,
+					"won": 944,
+					"lost": 667
+				},
+				{
+					"name": "RGB",
+					"rank": 22,
+					"rating": 3452,
+					"played": 1611,
+					"won": 944,
+					"lost": 667
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 146146353,
+			"name": "Wodferal",
+			"faction": "alliance",
+			"realm": "arathor",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Druid",
+			"spec": "Feral",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "95027478-a244-a70e-b312-e0fc2ccb6e5a",
+			"_rid": "By1iAP-66w8eAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8eAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeeea79201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 23,
+					"rating": 3448,
+					"played": 1136,
+					"won": 728,
+					"lost": 408
+				},
+				{
+					"name": "2v2",
+					"rank": 23,
+					"rating": 3448,
+					"played": 1136,
+					"won": 728,
+					"lost": 408
+				},
+				{
+					"name": "RGB",
+					"rank": 23,
+					"rating": 3448,
+					"played": 1136,
+					"won": 728,
+					"lost": 408
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 203123724,
+			"name": "Mìkâsa",
+			"faction": "horde",
+			"realm": "illidan",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Corrupted Gladiator",
+			"class": "Demon Hunter",
+			"spec": "Havoc",
+			"race": "Blood Elf",
+			"guild": "Imperial Guard",
+			"region": "us",
+			"id": "2a7640b3-d6f8-03b2-0687-c0ae07cd481f",
+			"_rid": "By1iAP-66w8fAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8fAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de7f0d0401d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 24,
+					"rating": 3447,
+					"played": 1923,
+					"won": 1053,
+					"lost": 870
+				},
+				{
+					"name": "2v2",
+					"rank": 24,
+					"rating": 3447,
+					"played": 1923,
+					"won": 1053,
+					"lost": 870
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 190854906,
+			"name": "Zerxios",
+			"faction": "horde",
+			"realm": "illidan",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Notorious Gladiator",
+			"class": "Monk",
+			"spec": "Mistweaver",
+			"race": "Orc",
+			"guild": "bigwelds waiting room",
+			"region": "us",
+			"id": "b341bd33-73d0-4ea1-51af-e23a898bb5db",
+			"_rid": "By1iAP-66w8gAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8gAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de7f549201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 24,
+					"rating": 3447,
+					"played": 2100,
+					"won": 1137,
+					"lost": 963
+				},
+				{
+					"name": "2v2",
+					"rank": 24,
+					"rating": 3447,
+					"played": 2100,
+					"won": 1137,
+					"lost": 963
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 230125301,
+			"name": "Mesx",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 135,
+			"title": "Wrathful Gladiator",
+			"class": "Death Knight",
+			"spec": "Unholy",
+			"race": "Orc",
+			"guild": "Tsu",
+			"region": "us",
+			"id": "f132696d-b4d9-b20d-5b63-077c345becc1",
+			"_rid": "By1iAP-66w8hAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8hAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeef8d5701d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 26,
+					"rating": 3439,
+					"played": 3401,
+					"won": 1867,
+					"lost": 1534
+				},
+				{
+					"name": "2v2",
+					"rank": 26,
+					"rating": 3439,
+					"played": 3401,
+					"won": 1867,
+					"lost": 1534
+				},
+				{
+					"name": "RGB",
+					"rank": 26,
+					"rating": 3439,
+					"played": 3401,
+					"won": 1867,
+					"lost": 1534
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 198786773,
+			"name": "Auntynikki",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"region": "us",
+			"id": "0c0cdc81-2591-e037-ce11-1462c549f3d4",
+			"_rid": "By1iAP-66w8iAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8iAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeeffc0101d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 27,
+					"rating": 3436,
+					"played": 355,
+					"won": 232,
+					"lost": 123
+				},
+				{
+					"name": "2v2",
+					"rank": 27,
+					"rating": 3436,
+					"played": 355,
+					"won": 232,
+					"lost": 123
+				},
+				{
+					"name": "RGB",
+					"rank": 27,
+					"rating": 3436,
+					"played": 355,
+					"won": 232,
+					"lost": 123
+				}
+			],
+			"title": "Corrupted Gladiator",
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 147089559,
+			"name": "Çyra",
+			"faction": "alliance",
+			"realm": "stormscale",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 132,
+			"title": "Warmongering Gladiator",
+			"class": "Druid",
+			"spec": "Feral",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "1c1b8921-c8bd-508c-adf5-bd760792694a",
+			"_rid": "By1iAP-66w8jAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8jAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef0760a01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 27,
+					"rating": 3436,
+					"played": 1304,
+					"won": 724,
+					"lost": 580
+				},
+				{
+					"name": "2v2",
+					"rank": 27,
+					"rating": 3436,
+					"played": 1304,
+					"won": 724,
+					"lost": 580
+				},
+				{
+					"name": "RGB",
+					"rank": 27,
+					"rating": 3436,
+					"played": 1304,
+					"won": 724,
+					"lost": 580
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 170313741,
+			"name": "Foxsy",
+			"faction": "alliance",
+			"realm": "darrowmere",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Fearless Gladiator",
+			"class": "Druid",
+			"spec": "Feral",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "f349dacb-fe6d-e195-1fc7-8a2843744e30",
+			"_rid": "By1iAP-66w8kAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8kAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef0f5f401d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 29,
+					"rating": 3433,
+					"played": 1108,
+					"won": 651,
+					"lost": 457
+				},
+				{
+					"name": "2v2",
+					"rank": 29,
+					"rating": 3433,
+					"played": 1108,
+					"won": 651,
+					"lost": 457
+				},
+				{
+					"name": "RGB",
+					"rank": 29,
+					"rating": 3433,
+					"played": 1108,
+					"won": 651,
+					"lost": 457
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 184560548,
+			"name": "Clawmcgraww",
+			"faction": "alliance",
+			"realm": "kelthuzad",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Warmongering Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Draenei",
+			"guild": "hi",
+			"region": "us",
+			"id": "1f628724-6883-690d-68ed-ff84caf2b6c4",
+			"_rid": "By1iAP-66w8lAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8lAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef16b6101d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 30,
+					"rating": 3431,
+					"played": 714,
+					"won": 460,
+					"lost": 254
+				},
+				{
+					"name": "2v2",
+					"rank": 30,
+					"rating": 3431,
+					"played": 714,
+					"won": 460,
+					"lost": 254
+				},
+				{
+					"name": "RGB",
+					"rank": 30,
+					"rating": 3431,
+					"played": 714,
+					"won": 460,
+					"lost": 254
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 213982173,
+			"name": "Angrycubanx",
+			"faction": "alliance",
+			"realm": "black-dragonflight",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"guild": "Vice",
+			"region": "us",
+			"id": "27a02254-3297-d454-718c-6b9e2e1a9588",
+			"_rid": "By1iAP-66w8mAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8mAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef1d27a01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 31,
+					"rating": 3427,
+					"played": 3218,
+					"won": 1902,
+					"lost": 1316
+				},
+				{
+					"name": "2v2",
+					"rank": 31,
+					"rating": 3427,
+					"played": 3218,
+					"won": 1902,
+					"lost": 1316
+				},
+				{
+					"name": "RGB",
+					"rank": 31,
+					"rating": 3427,
+					"played": 3218,
+					"won": 1902,
+					"lost": 1316
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 214521615,
+			"name": "Jahmillicfx",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Brutal Gladiator",
+			"class": "Mage",
+			"spec": "Arcane",
+			"race": "Human",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "1e46bfa3-0d6a-bacc-bba1-5dfe48c4783f",
+			"_rid": "By1iAP-66w8nAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8nAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef22dcd01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 32,
+					"rating": 3426,
+					"played": 2497,
+					"won": 1451,
+					"lost": 1046
+				},
+				{
+					"name": "2v2",
+					"rank": 32,
+					"rating": 3426,
+					"played": 2497,
+					"won": 1451,
+					"lost": 1046
+				},
+				{
+					"name": "RGB",
+					"rank": 32,
+					"rating": 3426,
+					"played": 2497,
+					"won": 1451,
+					"lost": 1046
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 181597940,
+			"name": "Cmd",
+			"faction": "alliance",
+			"realm": "frostmourne",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"title": "Sinister Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Human",
+			"guild": "Honestly",
+			"region": "us",
+			"id": "53a14798-6579-fb03-0b48-7f1d38284cdd",
+			"_rid": "By1iAP-66w8oAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8oAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef2850101d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 33,
+					"rating": 3420,
+					"played": 3024,
+					"won": 1803,
+					"lost": 1221
+				},
+				{
+					"name": "2v2",
+					"rank": 33,
+					"rating": 3420,
+					"played": 3024,
+					"won": 1803,
+					"lost": 1221
+				},
+				{
+					"name": "RGB",
+					"rank": 33,
+					"rating": 3420,
+					"played": 3024,
+					"won": 1803,
+					"lost": 1221
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 174077651,
+			"name": "Cmg",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Grievous Gladiator",
+			"class": "Priest",
+			"spec": "Shadow",
+			"race": "Human",
+			"guild": "dog squad",
+			"region": "us",
+			"id": "d7a452cc-96de-787e-70a3-2b00eef6bef6",
+			"_rid": "By1iAP-66w8pAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8pAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef2e21f01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 34,
+					"rating": 3416,
+					"played": 1125,
+					"won": 658,
+					"lost": 467
+				},
+				{
+					"name": "2v2",
+					"rank": 34,
+					"rating": 3416,
+					"played": 1125,
+					"won": 658,
+					"lost": 467
+				},
+				{
+					"name": "RGB",
+					"rank": 34,
+					"rating": 3416,
+					"played": 1125,
+					"won": 658,
+					"lost": 467
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 198722285,
+			"name": "Cbrewx",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Monk",
+			"spec": "Mistweaver",
+			"race": "Orc",
+			"region": "us",
+			"id": "19c8fd28-90a8-8a21-2d44-18407cd842fe",
+			"_rid": "By1iAP-66w8qAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8qAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef3374a01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 35,
+					"rating": 3412,
+					"played": 2942,
+					"won": 1645,
+					"lost": 1297
+				},
+				{
+					"name": "2v2",
+					"rank": 35,
+					"rating": 3412,
+					"played": 2942,
+					"won": 1645,
+					"lost": 1297
+				},
+				{
+					"name": "RGB",
+					"rank": 35,
+					"rating": 3412,
+					"played": 2942,
+					"won": 1645,
+					"lost": 1297
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 229908381,
+			"name": "Vùltz",
+			"faction": "horde",
+			"realm": "bleeding-hollow",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Sinister Gladiator",
+			"class": "Mage",
+			"spec": "Arcane",
+			"race": "Vulpera",
+			"guild": "Octopals",
+			"region": "us",
+			"id": "fa1e1585-8f3d-da32-df62-08e83e0b481a",
+			"_rid": "By1iAP-66w8rAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8rAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef389e601d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 36,
+					"rating": 3409,
+					"played": 2471,
+					"won": 1362,
+					"lost": 1109
+				},
+				{
+					"name": "2v2",
+					"rank": 36,
+					"rating": 3409,
+					"played": 2471,
+					"won": 1362,
+					"lost": 1109
+				},
+				{
+					"name": "RGB",
+					"rank": 36,
+					"rating": 3409,
+					"played": 2471,
+					"won": 1362,
+					"lost": 1109
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 197479901,
+			"name": "Nicklol",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Human",
+			"guild": "Epic Gamers",
+			"region": "us",
+			"id": "9c994b69-b5c7-b7f3-8ab3-ba5b47189e15",
+			"_rid": "By1iAP-66w8sAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8sAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef3f95801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 37,
+					"rating": 3407,
+					"played": 311,
+					"won": 231,
+					"lost": 80
+				},
+				{
+					"name": "2v2",
+					"rank": 37,
+					"rating": 3407,
+					"played": 311,
+					"won": 231,
+					"lost": 80
+				},
+				{
+					"name": "RGB",
+					"rank": 37,
+					"rating": 3407,
+					"played": 311,
+					"won": 231,
+					"lost": 80
+				}
+			],
+			"title": "Corrupted Gladiator",
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 169377121,
+			"name": "Xaryu",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Undead",
+			"guild": "THE MOVE",
+			"region": "us",
+			"id": "0365799f-1f81-474d-7b75-a4d0647abc9c",
+			"_rid": "By1iAP-66w8tAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8tAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef4778801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 38,
+					"rating": 3402,
+					"played": 713,
+					"won": 486,
+					"lost": 227
+				},
+				{
+					"name": "2v2",
+					"rank": 38,
+					"rating": 3402,
+					"played": 713,
+					"won": 486,
+					"lost": 227
+				},
+				{
+					"name": "RGB",
+					"rank": 38,
+					"rating": 3402,
+					"played": 713,
+					"won": 486,
+					"lost": 227
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 108790770,
+			"name": "Eròs",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Dread Gladiator",
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Human",
+			"guild": "Vulgar",
+			"region": "us",
+			"id": "efaa9840-7fd9-252c-34af-2e7ccdff84e8",
+			"_rid": "By1iAP-66w8uAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8uAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef4ea0201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 38,
+					"rating": 3402,
+					"played": 1597,
+					"won": 977,
+					"lost": 620
+				},
+				{
+					"name": "2v2",
+					"rank": 38,
+					"rating": 3402,
+					"played": 1597,
+					"won": 977,
+					"lost": 620
+				},
+				{
+					"name": "RGB",
+					"rank": 38,
+					"rating": 3402,
+					"played": 1597,
+					"won": 977,
+					"lost": 620
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 166603546,
+			"name": "Xar",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Notorious Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Human",
+			"region": "us",
+			"id": "ce8d8c0a-389a-e572-3abd-0da38ec9442f",
+			"_rid": "By1iAP-66w8vAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8vAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef55f8901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 40,
+					"rating": 3401,
+					"played": 1005,
+					"won": 628,
+					"lost": 377
+				},
+				{
+					"name": "2v2",
+					"rank": 40,
+					"rating": 3401,
+					"played": 1005,
+					"won": 628,
+					"lost": 377
+				},
+				{
+					"name": "RGB",
+					"rank": 40,
+					"rating": 3401,
+					"played": 1005,
+					"won": 628,
+					"lost": 377
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 175238034,
+			"name": "Petkick",
+			"faction": "horde",
+			"realm": "sargeras",
+			"region": "us",
+			"id": "bc7ae577-98a4-7bde-e823-36706db7dedc",
+			"_rid": "By1iAP-66w8wAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8wAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef5d60e01d6\"",
+			"_attachments": "attachments/",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 132,
+			"title": "Corrupted Gladiator",
+			"class": "Death Knight",
+			"spec": "Unholy",
+			"race": "Blood Elf",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 41,
+					"rating": 3400,
+					"played": 1368,
+					"won": 816,
+					"lost": 552
+				},
+				{
+					"name": "2v2",
+					"rank": 41,
+					"rating": 3400,
+					"played": 1368,
+					"won": 816,
+					"lost": 552
+				},
+				{
+					"name": "RGB",
+					"rank": 41,
+					"rating": 3400,
+					"played": 1368,
+					"won": 816,
+					"lost": 552
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 146050889,
+			"name": "Goreckj",
+			"faction": "horde",
+			"realm": "mugthol",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Wild Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Tauren",
+			"region": "us",
+			"id": "bb40e586-8526-2ef2-b9f6-47d58fc58358",
+			"_rid": "By1iAP-66w8xAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8xAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef63d8301d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 42,
+					"rating": 3394,
+					"played": 1613,
+					"won": 986,
+					"lost": 627
+				},
+				{
+					"name": "2v2",
+					"rank": 42,
+					"rating": 3394,
+					"played": 1613,
+					"won": 986,
+					"lost": 627
+				},
+				{
+					"name": "RGB",
+					"rank": 42,
+					"rating": 3394,
+					"played": 1613,
+					"won": 986,
+					"lost": 627
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 185230688,
+			"name": "Insanity",
+			"faction": "horde",
+			"realm": "bloodhoof",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Druid",
+			"spec": "Feral",
+			"race": "Tauren",
+			"region": "us",
+			"id": "33d27dc5-9b7f-44ea-171d-4de8302fa72f",
+			"_rid": "By1iAP-66w8yAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8yAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef68b0901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 43,
+					"rating": 3388,
+					"played": 947,
+					"won": 585,
+					"lost": 362
+				},
+				{
+					"name": "2v2",
+					"rank": 43,
+					"rating": 3388,
+					"played": 947,
+					"won": 585,
+					"lost": 362
+				},
+				{
+					"name": "RGB",
+					"rank": 43,
+					"rating": 3388,
+					"played": 947,
+					"won": 585,
+					"lost": 362
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 175542184,
+			"name": "Blindgator",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Dread Gladiator",
+			"class": "Monk",
+			"spec": "Mistweaver",
+			"race": "Human",
+			"region": "us",
+			"id": "f79807e4-4f6a-41a4-70a1-711093d2627f",
+			"_rid": "By1iAP-66w8zAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8zAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef6d92001d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 44,
+					"rating": 3387,
+					"played": 1286,
+					"won": 888,
+					"lost": 398
+				},
+				{
+					"name": "2v2",
+					"rank": 44,
+					"rating": 3387,
+					"played": 1286,
+					"won": 888,
+					"lost": 398
+				},
+				{
+					"name": "RGB",
+					"rank": 44,
+					"rating": 3387,
+					"played": 1286,
+					"won": 888,
+					"lost": 398
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 211602465,
+			"name": "Maxlol",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"title": "Notorious Gladiator",
+			"class": "Rogue",
+			"spec": "Assassination",
+			"race": "Night Elf",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "9f5c726f-d5de-0fb1-ebd9-a7e2e00bb2f8",
+			"_rid": "By1iAP-66w80AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w80AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef7293201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 44,
+					"rating": 3387,
+					"played": 1056,
+					"won": 596,
+					"lost": 460
+				},
+				{
+					"name": "2v2",
+					"rank": 44,
+					"rating": 3387,
+					"played": 1056,
+					"won": 596,
+					"lost": 460
+				},
+				{
+					"name": "RGB",
+					"rank": 44,
+					"rating": 3387,
+					"played": 1056,
+					"won": 596,
+					"lost": 460
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 233358884,
+			"name": "Elenakoshka",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Priest",
+			"spec": "Shadow",
+			"race": "Void Elf",
+			"region": "us",
+			"id": "c5ff5abb-83c2-fba6-4951-1ff154ff3614",
+			"_rid": "By1iAP-66w81AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w81AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef772e301d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 46,
+					"rating": 3386,
+					"played": 3454,
+					"won": 1950,
+					"lost": 1504
+				},
+				{
+					"name": "2v2",
+					"rank": 46,
+					"rating": 3386,
+					"played": 3454,
+					"won": 1950,
+					"lost": 1504
+				},
+				{
+					"name": "RGB",
+					"rank": 46,
+					"rating": 3386,
+					"played": 3454,
+					"won": 1950,
+					"lost": 1504
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 209840260,
+			"name": "Max",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"region": "us",
+			"id": "7f92149a-7c3a-58bc-91bc-392815d93313",
+			"_rid": "By1iAP-66w82AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w82AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef7be1e01d6\"",
+			"_attachments": "attachments/",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Sinister Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Human",
+			"guild": "ad hoc",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 47,
+					"rating": 3383,
+					"played": 1336,
+					"won": 769,
+					"lost": 567
+				},
+				{
+					"name": "2v2",
+					"rank": 47,
+					"rating": 3383,
+					"played": 1336,
+					"won": 769,
+					"lost": 567
+				},
+				{
+					"name": "RGB",
+					"rank": 47,
+					"rating": 3383,
+					"played": 1336,
+					"won": 769,
+					"lost": 567
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 139521418,
+			"name": "Stungodx",
+			"faction": "alliance",
+			"realm": "shuhalo",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Sinister Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Human",
+			"guild": "The Xar Cookbook",
+			"region": "us",
+			"id": "1549c3cf-44d0-6151-3028-a7ccea30d63d",
+			"_rid": "By1iAP-66w83AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w83AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef80aa801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2565,
+					"won": 1537,
+					"lost": 1028
+				},
+				{
+					"name": "2v2",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2565,
+					"won": 1537,
+					"lost": 1028
+				},
+				{
+					"name": "RGB",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2565,
+					"won": 1537,
+					"lost": 1028
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 197807395,
+			"name": "Axtin",
+			"faction": "alliance",
+			"realm": "stormreaver",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"class": "Druid",
+			"spec": "Feral",
+			"race": "Night Elf",
+			"guild": "Regulators",
+			"region": "us",
+			"id": "9211e3f6-918b-4b4f-3932-63ccafe8fb95",
+			"_rid": "By1iAP-66w84AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w84AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef8568f01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2709,
+					"won": 1435,
+					"lost": 1274
+				},
+				{
+					"name": "2v2",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2709,
+					"won": 1435,
+					"lost": 1274
+				},
+				{
+					"name": "RGB",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2709,
+					"won": 1435,
+					"lost": 1274
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 163571968,
+			"name": "Xiuni",
+			"faction": "alliance",
+			"realm": "shadowmoon",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 126,
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Human",
+			"guild": "Ceo of Bigotry",
+			"region": "us",
+			"id": "deff01b2-8ac7-f449-0325-c9652a601c21",
+			"_rid": "By1iAP-66w85AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w85AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef8aeb701d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2651,
+					"won": 1385,
+					"lost": 1266
+				},
+				{
+					"name": "2v2",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2651,
+					"won": 1385,
+					"lost": 1266
+				},
+				{
+					"name": "RGB",
+					"rank": 48,
+					"rating": 3375,
+					"played": 2651,
+					"won": 1385,
+					"lost": 1266
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 211221014,
+			"name": "Durkiobtw",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 126,
+			"class": "Monk",
+			"spec": "Mistweaver",
+			"race": "Night Elf",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "33554433-5264-744c-4856-fd5aa3540767",
+			"_rid": "By1iAP-66w86AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w86AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef8fa8501d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 51,
+					"rating": 3374,
+					"played": 667,
+					"won": 419,
+					"lost": 248
+				},
+				{
+					"name": "2v2",
+					"rank": 51,
+					"rating": 3374,
+					"played": 667,
+					"won": 419,
+					"lost": 248
+				},
+				{
+					"name": "RGB",
+					"rank": 51,
+					"rating": 3374,
+					"played": 667,
+					"won": 419,
+					"lost": 248
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 163003921,
+			"name": "Tmborn",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Malevolent Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Zandalari Troll",
+			"guild": "THE MOVE",
+			"region": "us",
+			"id": "432712c7-11af-045e-b9ea-2c5da3469084",
+			"_rid": "By1iAP-66w87AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w87AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef944cf01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 52,
+					"rating": 3373,
+					"played": 1335,
+					"won": 762,
+					"lost": 573
+				},
+				{
+					"name": "2v2",
+					"rank": 52,
+					"rating": 3373,
+					"played": 1335,
+					"won": 762,
+					"lost": 573
+				},
+				{
+					"name": "RGB",
+					"rank": 52,
+					"rating": 3373,
+					"played": 1335,
+					"won": 762,
+					"lost": 573
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 173847533,
+			"name": "Abrua",
+			"faction": "horde",
+			"realm": "area-52",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Demonic Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Orc",
+			"guild": "Obsidian Sky",
+			"region": "us",
+			"id": "2e27a0fb-98a9-6ae6-706e-af9718a1549f",
+			"_rid": "By1iAP-66w88AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w88AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aef9898101d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 52,
+					"rating": 3373,
+					"played": 578,
+					"won": 321,
+					"lost": 257
+				},
+				{
+					"name": "2v2",
+					"rank": 52,
+					"rating": 3373,
+					"played": 578,
+					"won": 321,
+					"lost": 257
+				},
+				{
+					"name": "RGB",
+					"rank": 52,
+					"rating": 3373,
+					"played": 578,
+					"won": 321,
+					"lost": 257
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 220470195,
+			"name": "Daddysquibbs",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 475,
+			"title": "Demonic Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Draenei",
+			"guild": "No Bolt Nozom",
+			"region": "us",
+			"id": "4af8b9cc-5052-f082-4c61-7ca71fc6f82d",
+			"_rid": "By1iAP-66w89AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w89AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de86b62501d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 54,
+					"rating": 3372,
+					"played": 2740,
+					"won": 1307,
+					"lost": 1433
+				},
+				{
+					"name": "2v2",
+					"rank": 54,
+					"rating": 3372,
+					"played": 2740,
+					"won": 1307,
+					"lost": 1433
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 210328867,
+			"name": "Nickthemage",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"region": "us",
+			"id": "f6014da8-60d5-17d0-31a2-84a084530ccd",
+			"_rid": "By1iAP-66w8+AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8+AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefa1ba201d6\"",
+			"_attachments": "attachments/",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Sinister Gladiator",
+			"class": "Mage",
+			"spec": "Arcane",
+			"race": "Human",
+			"guild": "ad hoc",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 55,
+					"rating": 3371,
+					"played": 401,
+					"won": 242,
+					"lost": 159
+				},
+				{
+					"name": "2v2",
+					"rank": 55,
+					"rating": 3371,
+					"played": 401,
+					"won": 242,
+					"lost": 159
+				},
+				{
+					"name": "RGB",
+					"rank": 55,
+					"rating": 3371,
+					"played": 401,
+					"won": 242,
+					"lost": 159
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 173144874,
+			"name": "Zachley",
+			"faction": "horde",
+			"realm": "emerald-dream",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 125,
+			"title": "Warmongering Gladiator",
+			"class": "Paladin",
+			"spec": "Retribution",
+			"race": "Blood Elf",
+			"guild": "Never Lucky",
+			"region": "us",
+			"id": "abe18c1d-a626-8243-3bb9-3bacccd167a9",
+			"_rid": "By1iAP-66w8-AAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8-AAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefa881201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 56,
+					"rating": 3368,
+					"played": 1571,
+					"won": 930,
+					"lost": 641
+				},
+				{
+					"name": "2v2",
+					"rank": 56,
+					"rating": 3368,
+					"played": 1571,
+					"won": 930,
+					"lost": 641
+				},
+				{
+					"name": "RGB",
+					"rank": 56,
+					"rating": 3368,
+					"played": 1571,
+					"won": 930,
+					"lost": 641
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 177499368,
+			"name": "Romanticcat",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 132,
+			"title": "Vicious Gladiator",
+			"class": "Death Knight",
+			"spec": "Unholy",
+			"race": "Orc",
+			"region": "us",
+			"id": "6a41c1c9-5735-edfe-85c3-3e2a11adbec9",
+			"_rid": "By1iAP-66w9AAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9AAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefada4e01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 56,
+					"rating": 3368,
+					"played": 652,
+					"won": 363,
+					"lost": 289
+				},
+				{
+					"name": "2v2",
+					"rank": 56,
+					"rating": 3368,
+					"played": 652,
+					"won": 363,
+					"lost": 289
+				},
+				{
+					"name": "RGB",
+					"rank": 56,
+					"rating": 3368,
+					"played": 652,
+					"won": 363,
+					"lost": 289
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 211253266,
+			"name": "Nickdub",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Corrupted Gladiator",
+			"class": "Warrior",
+			"spec": "Arms",
+			"race": "Dwarf",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "340edce4-266a-260c-a2f6-0e3e75652187",
+			"_rid": "By1iAP-66w9BAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9BAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefb377b01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 58,
+					"rating": 3367,
+					"played": 324,
+					"won": 190,
+					"lost": 134
+				},
+				{
+					"name": "2v2",
+					"rank": 58,
+					"rating": 3367,
+					"played": 324,
+					"won": 190,
+					"lost": 134
+				},
+				{
+					"name": "RGB",
+					"rank": 58,
+					"rating": 3367,
+					"played": 324,
+					"won": 190,
+					"lost": 134
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 213373998,
+			"name": "Inviablelotv",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Combatant",
+			"class": "Demon Hunter",
+			"spec": "Havoc",
+			"race": "Night Elf",
+			"guild": "Cliché",
+			"region": "us",
+			"id": "bd733c14-763a-e99f-0ca7-cd43f30874bf",
+			"_rid": "By1iAP-66w9CAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9CAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefb84f901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 59,
+					"rating": 3366,
+					"played": 269,
+					"won": 172,
+					"lost": 97
+				},
+				{
+					"name": "2v2",
+					"rank": 59,
+					"rating": 3366,
+					"played": 269,
+					"won": 172,
+					"lost": 97
+				},
+				{
+					"name": "RGB",
+					"rank": 59,
+					"rating": 3366,
+					"played": 269,
+					"won": 172,
+					"lost": 97
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 215523123,
+			"name": "Korlington",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Human",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "a32dd36f-9ce4-b907-200b-d2f6cc771d81",
+			"_rid": "By1iAP-66w9DAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9DAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefbd27501d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 60,
+					"rating": 3365,
+					"played": 263,
+					"won": 153,
+					"lost": 110
+				},
+				{
+					"name": "2v2",
+					"rank": 60,
+					"rating": 3365,
+					"played": 263,
+					"won": 153,
+					"lost": 110
+				},
+				{
+					"name": "RGB",
+					"rank": 60,
+					"rating": 3365,
+					"played": 263,
+					"won": 153,
+					"lost": 110
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 171089622,
+			"name": "Neighbors",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Notorious Gladiator",
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Human",
+			"region": "us",
+			"id": "ef03322f-658c-22e7-f6b9-e14e4f124f0a",
+			"_rid": "By1iAP-66w9EAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9EAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefc299f01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 61,
+					"rating": 3359,
+					"played": 688,
+					"won": 390,
+					"lost": 298
+				},
+				{
+					"name": "2v2",
+					"rank": 61,
+					"rating": 3359,
+					"played": 688,
+					"won": 390,
+					"lost": 298
+				},
+				{
+					"name": "RGB",
+					"rank": 61,
+					"rating": 3359,
+					"played": 688,
+					"won": 390,
+					"lost": 298
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 121477615,
+			"name": "Tibbag",
+			"faction": "alliance",
+			"realm": "kelthuzad",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Notorious Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"guild": "has no vocal cords",
+			"region": "us",
+			"id": "3dd2d0e4-a753-2f11-601c-c4b5f391cddf",
+			"_rid": "By1iAP-66w9FAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9FAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefc765701d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 61,
+					"rating": 3359,
+					"played": 572,
+					"won": 321,
+					"lost": 251
+				},
+				{
+					"name": "2v2",
+					"rank": 61,
+					"rating": 3359,
+					"played": 572,
+					"won": 321,
+					"lost": 251
+				},
+				{
+					"name": "RGB",
+					"rank": 61,
+					"rating": 3359,
+					"played": 572,
+					"won": 321,
+					"lost": 251
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 180239526,
+			"name": "Ztuns",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Dominant Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "a0b99032-3e73-d08c-6de4-816f08d69c50",
+			"_rid": "By1iAP-66w9GAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9GAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefcc2f201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 63,
+					"rating": 3358,
+					"played": 1361,
+					"won": 892,
+					"lost": 469
+				},
+				{
+					"name": "2v2",
+					"rank": 63,
+					"rating": 3358,
+					"played": 1361,
+					"won": 892,
+					"lost": 469
+				},
+				{
+					"name": "RGB",
+					"rank": 63,
+					"rating": 3358,
+					"played": 1361,
+					"won": 892,
+					"lost": 469
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 183082352,
+			"name": "Oxyp",
+			"faction": "alliance",
+			"realm": "frostmourne",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Cruel Gladiator",
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Human",
+			"guild": "Ethical",
+			"region": "us",
+			"id": "c3b90bd6-ab2a-e5dc-3b2e-728357b8530c",
+			"_rid": "By1iAP-66w9HAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9HAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefd163b01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 63,
+					"rating": 3358,
+					"played": 1922,
+					"won": 1183,
+					"lost": 739
+				},
+				{
+					"name": "2v2",
+					"rank": 63,
+					"rating": 3358,
+					"played": 1922,
+					"won": 1183,
+					"lost": 739
+				},
+				{
+					"name": "RGB",
+					"rank": 63,
+					"rating": 3358,
+					"played": 1922,
+					"won": 1183,
+					"lost": 739
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 168569537,
+			"name": "Fíve",
+			"faction": "horde",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Notorious Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Orc",
+			"region": "us",
+			"id": "759d9a92-84d9-78cc-e732-24f4fb6ebc97",
+			"_rid": "By1iAP-66w9IAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9IAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefd761901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 65,
+					"rating": 3356,
+					"played": 1854,
+					"won": 1081,
+					"lost": 773
+				},
+				{
+					"name": "2v2",
+					"rank": 65,
+					"rating": 3356,
+					"played": 1854,
+					"won": 1081,
+					"lost": 773
+				},
+				{
+					"name": "RGB",
+					"rank": 65,
+					"rating": 3356,
+					"played": 1854,
+					"won": 1081,
+					"lost": 773
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 133108825,
+			"name": "Redemption",
+			"faction": "alliance",
+			"realm": "mugthol",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"region": "us",
+			"id": "37802dc0-8c2f-26cc-77bd-a55d0f2e1925",
+			"_rid": "By1iAP-66w9JAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9JAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefdd11901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 65,
+					"rating": 3356,
+					"played": 487,
+					"won": 275,
+					"lost": 212
+				},
+				{
+					"name": "2v2",
+					"rank": 65,
+					"rating": 3356,
+					"played": 487,
+					"won": 275,
+					"lost": 212
+				},
+				{
+					"name": "RGB",
+					"rank": 65,
+					"rating": 3356,
+					"played": 487,
+					"won": 275,
+					"lost": 212
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 222940232,
+			"name": "Cultxo",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"title": "Corrupted Gladiator",
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Human",
+			"region": "us",
+			"id": "12bcbf92-9f64-b9bc-8719-396594abefa8",
+			"_rid": "By1iAP-66w9KAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9KAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefe1b5801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 65,
+					"rating": 3356,
+					"played": 2110,
+					"won": 1125,
+					"lost": 985
+				},
+				{
+					"name": "2v2",
+					"rank": 65,
+					"rating": 3356,
+					"played": 2110,
+					"won": 1125,
+					"lost": 985
+				},
+				{
+					"name": "RGB",
+					"rank": 65,
+					"rating": 3356,
+					"played": 2110,
+					"won": 1125,
+					"lost": 985
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 213855480,
+			"name": "Maxww",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 134,
+			"title": "Corrupted Gladiator",
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Human",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "af754f5a-25db-2550-8d7a-ac92c440a256",
+			"_rid": "By1iAP-66w9LAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9LAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefe70db01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 68,
+					"rating": 3351,
+					"played": 605,
+					"won": 335,
+					"lost": 270
+				},
+				{
+					"name": "2v2",
+					"rank": 68,
+					"rating": 3351,
+					"played": 605,
+					"won": 335,
+					"lost": 270
+				},
+				{
+					"name": "RGB",
+					"rank": 68,
+					"rating": 3351,
+					"played": 605,
+					"won": 335,
+					"lost": 270
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 206818937,
+			"name": "Domineww",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Corrupted Gladiator",
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Human",
+			"guild": "ad hoc",
+			"region": "us",
+			"id": "800f9099-bc74-cac1-11a0-6219533b107f",
+			"_rid": "By1iAP-66w9MAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9MAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefeaf5201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 69,
+					"rating": 3347,
+					"played": 1704,
+					"won": 908,
+					"lost": 796
+				},
+				{
+					"name": "2v2",
+					"rank": 69,
+					"rating": 3347,
+					"played": 1704,
+					"won": 908,
+					"lost": 796
+				},
+				{
+					"name": "RGB",
+					"rank": 69,
+					"rating": 3347,
+					"played": 1704,
+					"won": 908,
+					"lost": 796
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 168558157,
+			"name": "Flashxx",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 133,
+			"title": "Notorious Gladiator",
+			"class": "Warlock",
+			"spec": "Affliction",
+			"race": "Human",
+			"guild": "i love slicedbaka",
+			"region": "us",
+			"id": "342d8e7b-b243-42d1-0c5f-05274b458466",
+			"_rid": "By1iAP-66w9NAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9NAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefeecbd01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 70,
+					"rating": 3346,
+					"played": 1462,
+					"won": 825,
+					"lost": 637
+				},
+				{
+					"name": "2v2",
+					"rank": 70,
+					"rating": 3346,
+					"played": 1462,
+					"won": 825,
+					"lost": 637
+				},
+				{
+					"name": "RGB",
+					"rank": 70,
+					"rating": 3346,
+					"played": 1462,
+					"won": 825,
+					"lost": 637
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 184147148,
+			"name": "Sheepgodx",
+			"faction": "alliance",
+			"realm": "malganis",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"title": "Notorious Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Human",
+			"region": "us",
+			"id": "a50ffcab-aaa8-c9fe-7d87-f56bc1bf1283",
+			"_rid": "By1iAP-66w9OAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9OAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeff329401d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 71,
+					"rating": 3344,
+					"played": 1391,
+					"won": 792,
+					"lost": 599
+				},
+				{
+					"name": "2v2",
+					"rank": 71,
+					"rating": 3344,
+					"played": 1391,
+					"won": 792,
+					"lost": 599
+				},
+				{
+					"name": "RGB",
+					"rank": 71,
+					"rating": 3344,
+					"played": 1391,
+					"won": 792,
+					"lost": 599
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 209109733,
+			"name": "Sanctify",
+			"faction": "alliance",
+			"realm": "onyxia",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Draenei",
+			"region": "us",
+			"id": "7db91d6b-4f87-9b81-bd88-9aeff6df4d40",
+			"_rid": "By1iAP-66w9PAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9PAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeff71ce01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 72,
+					"rating": 3342,
+					"played": 658,
+					"won": 359,
+					"lost": 299
+				},
+				{
+					"name": "2v2",
+					"rank": 72,
+					"rating": 3342,
+					"played": 658,
+					"won": 359,
+					"lost": 299
+				},
+				{
+					"name": "RGB",
+					"rank": 72,
+					"rating": 3342,
+					"played": 658,
+					"won": 359,
+					"lost": 299
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 155686106,
+			"name": "Flop",
+			"faction": "alliance",
+			"realm": "bronzebeard",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "the Fabulous",
+			"class": "Druid",
+			"spec": "Restoration",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "e8864240-57e7-24c2-0b31-02a0a7dd0ff7",
+			"_rid": "By1iAP-66w9QAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9QAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aeffb31501d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 73,
+					"rating": 3341,
+					"played": 1570,
+					"won": 901,
+					"lost": 669
+				},
+				{
+					"name": "2v2",
+					"rank": 73,
+					"rating": 3341,
+					"played": 1570,
+					"won": 901,
+					"lost": 669
+				},
+				{
+					"name": "RGB",
+					"rank": 73,
+					"rating": 3341,
+					"played": 1570,
+					"won": 901,
+					"lost": 669
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 196193968,
+			"name": "Aidenr",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Demonic Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Undead",
+			"guild": "Blur",
+			"region": "us",
+			"id": "697b32a5-fd1c-8f87-a329-8443b52af039",
+			"_rid": "By1iAP-66w9RAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9RAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-aefffc6e01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 73,
+					"rating": 3341,
+					"played": 593,
+					"won": 333,
+					"lost": 260
+				},
+				{
+					"name": "2v2",
+					"rank": 73,
+					"rating": 3341,
+					"played": 593,
+					"won": 333,
+					"lost": 260
+				},
+				{
+					"name": "RGB",
+					"rank": 73,
+					"rating": 3341,
+					"played": 593,
+					"won": 333,
+					"lost": 260
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 198703245,
+			"name": "Nickthepala",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Notorious Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Tauren",
+			"region": "us",
+			"id": "ad5aae25-c9c9-c35b-3654-96cfe39bba50",
+			"_rid": "By1iAP-66w9SAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9SAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af003b2001d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 75,
+					"rating": 3340,
+					"played": 572,
+					"won": 353,
+					"lost": 219
+				},
+				{
+					"name": "2v2",
+					"rank": 75,
+					"rating": 3340,
+					"played": 572,
+					"won": 353,
+					"lost": 219
+				},
+				{
+					"name": "RGB",
+					"rank": 75,
+					"rating": 3340,
+					"played": 572,
+					"won": 353,
+					"lost": 219
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 191603715,
+			"name": "Weàlthymàn",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"region": "us",
+			"id": "86a793b8-dd4f-1c22-5d9b-7bc9282d593a",
+			"_rid": "By1iAP-66w9TAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9TAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af0078d401d6\"",
+			"_attachments": "attachments/",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Dominant Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Night Elf",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 75,
+					"rating": 3340,
+					"played": 1268,
+					"won": 763,
+					"lost": 505
+				},
+				{
+					"name": "2v2",
+					"rank": 75,
+					"rating": 3340,
+					"played": 1268,
+					"won": 763,
+					"lost": 505
+				},
+				{
+					"name": "RGB",
+					"rank": 75,
+					"rating": 3340,
+					"played": 1268,
+					"won": 763,
+					"lost": 505
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 214053342,
+			"name": "Reddingtonx",
+			"faction": "horde",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"class": "Priest",
+			"spec": "Discipline",
+			"race": "Undead",
+			"region": "us",
+			"id": "359238d5-8b10-14d7-e912-338e6bc78924",
+			"_rid": "By1iAP-66w9UAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9UAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af00cc8301d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 75,
+					"rating": 3340,
+					"played": 567,
+					"won": 323,
+					"lost": 244
+				},
+				{
+					"name": "2v2",
+					"rank": 75,
+					"rating": 3340,
+					"played": 567,
+					"won": 323,
+					"lost": 244
+				},
+				{
+					"name": "RGB",
+					"rank": 75,
+					"rating": 3340,
+					"played": 567,
+					"won": 323,
+					"lost": 244
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 197253396,
+			"name": "Aáng",
+			"faction": "horde",
+			"realm": "illidan",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Corrupted Gladiator",
+			"class": "Mage",
+			"spec": "Frost",
+			"race": "Night Elf",
+			"guild": "CthUwU",
+			"region": "us",
+			"id": "a7d98eeb-50ff-7a23-1fb3-2d8339b14f23",
+			"_rid": "By1iAP-66w9VAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9VAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de8d647901d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 75,
+					"rating": 3340,
+					"played": 1633,
+					"won": 887,
+					"lost": 746
+				},
+				{
+					"name": "2v2",
+					"rank": 75,
+					"rating": 3340,
+					"played": 1633,
+					"won": 887,
+					"lost": 746
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 194204921,
+			"name": "Nornn",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Corrupted Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Human",
+			"guild": "ddosed",
+			"region": "us",
+			"id": "f81af558-5078-41fc-3764-30a8c00d0f0b",
+			"_rid": "By1iAP-66w9WAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9WAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af0155ca01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 79,
+					"rating": 3339,
+					"played": 1231,
+					"won": 704,
+					"lost": 527
+				},
+				{
+					"name": "2v2",
+					"rank": 79,
+					"rating": 3339,
+					"played": 1231,
+					"won": 704,
+					"lost": 527
+				},
+				{
+					"name": "RGB",
+					"rank": 79,
+					"rating": 3339,
+					"played": 1231,
+					"won": 704,
+					"lost": 527
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 221628103,
+			"name": "Heliotko",
+			"faction": "alliance",
+			"realm": "nazjatar",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"guild": "who are you talkin to",
+			"region": "us",
+			"id": "21819071-8170-9736-8c6f-3dbe84f983e9",
+			"_rid": "By1iAP-66w9XAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9XAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af0199f601d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 79,
+					"rating": 3339,
+					"played": 945,
+					"won": 508,
+					"lost": 437
+				},
+				{
+					"name": "2v2",
+					"rank": 79,
+					"rating": 3339,
+					"played": 945,
+					"won": 508,
+					"lost": 437
+				},
+				{
+					"name": "RGB",
+					"rank": 79,
+					"rating": 3339,
+					"played": 945,
+					"won": 508,
+					"lost": 437
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 221631210,
+			"name": "Noz",
+			"faction": "alliance",
+			"realm": "nazjatar",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Corrupted Gladiator",
+			"class": "Warlock",
+			"spec": "Destruction",
+			"race": "Dwarf",
+			"guild": "who are you talkin to",
+			"region": "us",
+			"id": "412561f1-646a-26a3-c8d5-bfff6c0f10d1",
+			"_rid": "By1iAP-66w9YAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9YAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af01d68401d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 81,
+					"rating": 3338,
+					"played": 1264,
+					"won": 691,
+					"lost": 573
+				},
+				{
+					"name": "2v2",
+					"rank": 81,
+					"rating": 3338,
+					"played": 1264,
+					"won": 691,
+					"lost": 573
+				},
+				{
+					"name": "RGB",
+					"rank": 81,
+					"rating": 3338,
+					"played": 1264,
+					"won": 691,
+					"lost": 573
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 79164745,
+			"name": "Lightsbäne",
+			"faction": "alliance",
+			"realm": "darkspear",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Holy",
+			"race": "Human",
+			"region": "us",
+			"id": "5b3eacd3-093d-247c-45a8-5d3a6b839f43",
+			"_rid": "By1iAP-66w9ZAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9ZAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af02117201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 82,
+					"rating": 3337,
+					"played": 477,
+					"won": 296,
+					"lost": 181
+				},
+				{
+					"name": "2v2",
+					"rank": 82,
+					"rating": 3337,
+					"played": 477,
+					"won": 296,
+					"lost": 181
+				},
+				{
+					"name": "RGB",
+					"rank": 82,
+					"rating": 3337,
+					"played": 477,
+					"won": 296,
+					"lost": 181
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 198617207,
+			"name": "Vanguards",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 129,
+			"title": "Corrupted Gladiator",
+			"class": "Paladin",
+			"spec": "Retribution",
+			"race": "Zandalari Troll",
+			"guild": "THE MOVE",
+			"region": "us",
+			"id": "43fb5438-e51b-e83f-3c4b-c0b6ef316c41",
+			"_rid": "By1iAP-66w9aAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9aAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af0264eb01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 82,
+					"rating": 3337,
+					"played": 1794,
+					"won": 1039,
+					"lost": 755
+				},
+				{
+					"name": "2v2",
+					"rank": 82,
+					"rating": 3337,
+					"played": 1794,
+					"won": 1039,
+					"lost": 755
+				},
+				{
+					"name": "RGB",
+					"rank": 82,
+					"rating": 3337,
+					"played": 1794,
+					"won": 1039,
+					"lost": 755
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 198744517,
+			"name": "Dyllbar",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 128,
+			"title": "Dread Gladiator",
+			"class": "Shaman",
+			"spec": "Restoration",
+			"race": "Orc",
+			"region": "us",
+			"id": "0df9ea53-c9a2-2191-763f-e7c3ee1d551f",
+			"_rid": "By1iAP-66w9bAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9bAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af02a29b01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2102,
+					"won": 1148,
+					"lost": 954
+				},
+				{
+					"name": "2v2",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2102,
+					"won": 1148,
+					"lost": 954
+				},
+				{
+					"name": "RGB",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2102,
+					"won": 1148,
+					"lost": 954
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 155781199,
+			"name": "Kãppã",
+			"faction": "alliance",
+			"realm": "kelthuzad",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 132,
+			"title": "Corrupted Gladiator",
+			"class": "Demon Hunter",
+			"spec": "Havoc",
+			"race": "Night Elf",
+			"guild": "In The Clouds",
+			"region": "us",
+			"id": "6b84f588-d908-863f-f95a-7a06a918f5ab",
+			"_rid": "By1iAP-66w9cAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9cAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af02fab201d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2018,
+					"won": 1087,
+					"lost": 931
+				},
+				{
+					"name": "2v2",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2018,
+					"won": 1087,
+					"lost": 931
+				},
+				{
+					"name": "RGB",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2018,
+					"won": 1087,
+					"lost": 931
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 178385980,
+			"name": "Shuux",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 135,
+			"class": "Death Knight",
+			"spec": "Frost",
+			"race": "Human",
+			"region": "us",
+			"id": "368bd5fd-ab91-e22a-68ad-9217bb7776a1",
+			"_rid": "By1iAP-66w9dAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9dAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af03572801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2488,
+					"won": 1313,
+					"lost": 1175
+				},
+				{
+					"name": "2v2",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2488,
+					"won": 1313,
+					"lost": 1175
+				},
+				{
+					"name": "RGB",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2488,
+					"won": 1313,
+					"lost": 1175
+				}
+			],
+			"title": "Corrupted Gladiator",
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 170518199,
+			"name": "Vieli",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Corrupted Gladiator",
+			"class": "Monk",
+			"spec": "Mistweaver",
+			"race": "Human",
+			"guild": "The Bread Winners",
+			"region": "us",
+			"id": "dff5e13b-99d1-e3f9-ad38-e2f459baafbc",
+			"_rid": "By1iAP-66w9eAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9eAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af03a60301d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2432,
+					"won": 1279,
+					"lost": 1153
+				},
+				{
+					"name": "2v2",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2432,
+					"won": 1279,
+					"lost": 1153
+				},
+				{
+					"name": "RGB",
+					"rank": 82,
+					"rating": 3337,
+					"played": 2432,
+					"won": 1279,
+					"lost": 1153
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 197922671,
+			"name": "Smexxin",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Relentless Gladiator",
+			"class": "Warrior",
+			"spec": "Arms",
+			"race": "Orc",
+			"guild": "THE MOVE",
+			"region": "us",
+			"id": "a0fea61d-85cc-811e-acc1-0e75c935fecf",
+			"_rid": "By1iAP-66w9fAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9fAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af03f27e01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 88,
+					"rating": 3336,
+					"played": 1862,
+					"won": 1100,
+					"lost": 762
+				},
+				{
+					"name": "2v2",
+					"rank": 88,
+					"rating": 3336,
+					"played": 1862,
+					"won": 1100,
+					"lost": 762
+				},
+				{
+					"name": "RGB",
+					"rank": 88,
+					"rating": 3336,
+					"played": 1862,
+					"won": 1100,
+					"lost": 762
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 175980749,
+			"name": "Floormatz",
+			"faction": "horde",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"class": "Warlock",
+			"spec": "Affliction",
+			"race": "Human",
+			"region": "us",
+			"id": "01fdca4c-8116-c5ba-92f4-f4fc78b1c4c4",
+			"_rid": "By1iAP-66w9gAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9gAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de91f8df01d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 89,
+					"rating": 3335,
+					"played": 1110,
+					"won": 657,
+					"lost": 453
+				},
+				{
+					"name": "2v2",
+					"rank": 89,
+					"rating": 3335,
+					"played": 1110,
+					"won": 657,
+					"lost": 453
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 199105138,
+			"name": "Orig",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 134,
+			"class": "Priest",
+			"spec": "Shadow",
+			"race": "Human",
+			"guild": "ddosed",
+			"region": "us",
+			"id": "335fa5d0-4f34-0eb0-5a99-09592da185e7",
+			"_rid": "By1iAP-66w9hAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9hAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af046bd701d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 89,
+					"rating": 3335,
+					"played": 1300,
+					"won": 705,
+					"lost": 595
+				},
+				{
+					"name": "2v2",
+					"rank": 89,
+					"rating": 3335,
+					"played": 1300,
+					"won": 705,
+					"lost": 595
+				},
+				{
+					"name": "RGB",
+					"rank": 89,
+					"rating": 3335,
+					"played": 1300,
+					"won": 705,
+					"lost": 595
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 227317777,
+			"name": "Zugrug",
+			"faction": "horde",
+			"realm": "stormrage",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 477,
+			"title": "Notorious Gladiator",
+			"class": "Rogue",
+			"spec": "Assassination",
+			"race": "Orc",
+			"guild": "Akatsukï",
+			"region": "us",
+			"id": "05a59b1a-a339-a4eb-7bc3-39de1542aecf",
+			"_rid": "By1iAP-66w9iAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9iAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-aca7-de928bb801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 91,
+					"rating": 3334,
+					"played": 1109,
+					"won": 620,
+					"lost": 489
+				},
+				{
+					"name": "2v2",
+					"rank": 91,
+					"rating": 3334,
+					"played": 1109,
+					"won": 620,
+					"lost": 489
+				}
+			],
+			"_ts": 1603834004
+		},
+		{
+			"blizzardId": 198722255,
+			"name": "Cdew",
+			"faction": "horde",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Corrupted Gladiator",
+			"class": "Shaman",
+			"spec": "Restoration",
+			"race": "Orc",
+			"region": "us",
+			"id": "5d86cefc-b725-24c0-2123-dce559a345ef",
+			"_rid": "By1iAP-66w9jAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9jAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af04f57b01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 91,
+					"rating": 3334,
+					"played": 1289,
+					"won": 691,
+					"lost": 598
+				},
+				{
+					"name": "2v2",
+					"rank": 91,
+					"rating": 3334,
+					"played": 1289,
+					"won": 691,
+					"lost": 598
+				},
+				{
+					"name": "RGB",
+					"rank": 91,
+					"rating": 3334,
+					"played": 1289,
+					"won": 691,
+					"lost": 598
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 230621639,
+			"name": "Ntr",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Notorious Gladiator",
+			"class": "Rogue",
+			"spec": "Subtlety",
+			"race": "Night Elf",
+			"region": "us",
+			"id": "72e02490-0e55-8f1a-ff06-b226059b8806",
+			"_rid": "By1iAP-66w9kAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9kAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af054db801d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 93,
+					"rating": 3332,
+					"played": 422,
+					"won": 237,
+					"lost": 185
+				},
+				{
+					"name": "2v2",
+					"rank": 93,
+					"rating": 3332,
+					"played": 422,
+					"won": 237,
+					"lost": 185
+				},
+				{
+					"name": "RGB",
+					"rank": 93,
+					"rating": 3332,
+					"played": 422,
+					"won": 237,
+					"lost": 185
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 207826589,
+			"name": "Imgone",
+			"faction": "alliance",
+			"realm": "azgalor",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 131,
+			"class": "Warlock",
+			"spec": "Affliction",
+			"race": "Dwarf",
+			"guild": "Freedom through Violence",
+			"region": "us",
+			"id": "32c05c17-3c9f-c86b-fc7e-393269fe43a9",
+			"_rid": "By1iAP-66w9lAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9lAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af05a34b01d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 93,
+					"rating": 3332,
+					"played": 2943,
+					"won": 1648,
+					"lost": 1295
+				},
+				{
+					"name": "2v2",
+					"rank": 93,
+					"rating": 3332,
+					"played": 2943,
+					"won": 1648,
+					"lost": 1295
+				},
+				{
+					"name": "RGB",
+					"rank": 93,
+					"rating": 3332,
+					"played": 2943,
+					"won": 1648,
+					"lost": 1295
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 233671124,
+			"name": "Mattycat",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 124,
+			"title": "Corrupted Gladiator",
+			"class": "Priest",
+			"spec": "Shadow",
+			"race": "Void Elf",
+			"guild": "Power Word",
+			"region": "us",
+			"id": "d6c9b602-28d6-2d05-b1b8-45bde1eb88f3",
+			"_rid": "By1iAP-66w9mAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9mAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af0604e401d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 93,
+					"rating": 3332,
+					"played": 1164,
+					"won": 647,
+					"lost": 517
+				},
+				{
+					"name": "2v2",
+					"rank": 93,
+					"rating": 3332,
+					"played": 1164,
+					"won": 647,
+					"lost": 517
+				},
+				{
+					"name": "RGB",
+					"rank": 93,
+					"rating": 3332,
+					"played": 1164,
+					"won": 647,
+					"lost": 517
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 229858596,
+			"name": "Uncleozzwald",
+			"faction": "alliance",
+			"realm": "tichondrius",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 125,
+			"class": "Shaman",
+			"spec": "Elemental",
+			"race": "Dwarf",
+			"region": "us",
+			"id": "75cbcf61-f782-a63d-de10-6fffbfe8fbca",
+			"_rid": "By1iAP-66w9nAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9nAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af065e3c01d6\"",
+			"_attachments": "attachments/",
+			"title": "Corrupted Gladiator",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 96,
+					"rating": 3331,
+					"played": 1228,
+					"won": 710,
+					"lost": 518
+				},
+				{
+					"name": "2v2",
+					"rank": 96,
+					"rating": 3331,
+					"played": 1228,
+					"won": 710,
+					"lost": 518
+				},
+				{
+					"name": "RGB",
+					"rank": 96,
+					"rating": 3331,
+					"played": 1228,
+					"won": 710,
+					"lost": 518
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 213113600,
+			"name": "Wydstepsis",
+			"faction": "horde",
+			"realm": "exodar",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 127,
+			"title": "Corrupted Gladiator",
+			"class": "Druid",
+			"spec": "Balance",
+			"race": "Troll",
+			"guild": "rest easy criter",
+			"region": "us",
+			"id": "5809bd64-bab4-40f9-cbcb-1d6ae360c0fc",
+			"_rid": "By1iAP-66w9oAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9oAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af06af1c01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 96,
+					"rating": 3331,
+					"played": 2565,
+					"won": 1344,
+					"lost": 1221
+				},
+				{
+					"name": "2v2",
+					"rank": 96,
+					"rating": 3331,
+					"played": 2565,
+					"won": 1344,
+					"lost": 1221
+				},
+				{
+					"name": "RGB",
+					"rank": 96,
+					"rating": 3331,
+					"played": 2565,
+					"won": 1344,
+					"lost": 1221
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 175381079,
+			"name": "Unclevell",
+			"faction": "horde",
+			"realm": "emerald-dream",
+			"gender": "Male",
+			"level": 50,
+			"itemLevel": 131,
+			"title": "Corrupted Gladiator",
+			"class": "Shaman",
+			"spec": "Elemental",
+			"race": "Tauren",
+			"region": "us",
+			"id": "c7dde25c-4109-dd6b-3ea1-36e53e060ff1",
+			"_rid": "By1iAP-66w9pAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9pAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af070e7b01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 98,
+					"rating": 3330,
+					"played": 751,
+					"won": 426,
+					"lost": 325
+				},
+				{
+					"name": "2v2",
+					"rank": 98,
+					"rating": 3330,
+					"played": 751,
+					"won": 426,
+					"lost": 325
+				},
+				{
+					"name": "RGB",
+					"rank": 98,
+					"rating": 3330,
+					"played": 751,
+					"won": 426,
+					"lost": 325
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 176290976,
+			"name": "Babycakez",
+			"faction": "alliance",
+			"realm": "sargeras",
+			"gender": "Female",
+			"level": 50,
+			"itemLevel": 130,
+			"title": "Vindictive Gladiator",
+			"class": "Monk",
+			"spec": "Windwalker",
+			"race": "Human",
+			"guild": "dog squad",
+			"region": "us",
+			"id": "40d792e4-0dd5-d0ca-84c7-18811f06208e",
+			"_rid": "By1iAP-66w9qAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9qAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af07660e01d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 98,
+					"rating": 3330,
+					"played": 4458,
+					"won": 2404,
+					"lost": 2054
+				},
+				{
+					"name": "2v2",
+					"rank": 98,
+					"rating": 3330,
+					"played": 4458,
+					"won": 2404,
+					"lost": 2054
+				},
+				{
+					"name": "RGB",
+					"rank": 98,
+					"rating": 3330,
+					"played": 4458,
+					"won": 2404,
+					"lost": 2054
+				}
+			],
+			"_ts": 1603838219
+		},
+		{
+			"blizzardId": 203948436,
+			"name": "Radomilia",
+			"faction": "alliance",
+			"realm": "stormrage",
+			"region": "us",
+			"id": "7784db0b-60c1-b9f4-10cc-2129aa9bd962",
+			"_rid": "By1iAP-66w9rAAAAAAAAAA==",
+			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9rAAAAAAAAAA==/",
+			"_etag": "\"00000000-0000-0000-acb1-af07c10701d6\"",
+			"_attachments": "attachments/",
+			"brackets": [
+				{
+					"name": "3v3",
+					"rank": 98,
+					"rating": 3330,
+					"played": 2113,
+					"won": 1119,
+					"lost": 994
+				},
+				{
+					"name": "2v2",
+					"rank": 98,
+					"rating": 3330,
+					"played": 2113,
+					"won": 1119,
+					"lost": 994
+				},
+				{
+					"name": "RGB",
+					"rank": 98,
+					"rating": 3330,
+					"played": 2113,
+					"won": 1119,
+					"lost": 994
+				}
+			],
+			"_ts": 1603838219
+		}
+	]
+}

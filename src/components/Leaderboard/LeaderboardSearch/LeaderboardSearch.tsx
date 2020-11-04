@@ -1,16 +1,49 @@
-import React from 'react';
-import IconSelect from '../../shared/IconSelect/IconSelect';
+import React, { useState } from 'react';
+import { getLeaderBoardSearch } from '../../../services/leaderboardSearchService';
+import { getRegions } from '../../../services/regionService';
+import CheckboxImageGroup from '../../shared/CheckboxImageGroup/CheckboxImageGroup';
 
 export default function LeaderboardSearch() {
+	const search = getLeaderBoardSearch();
+	const [regions, setRegions] = useState(search.regions);
+	const [classes, setClasses] = useState(search.classes);
+
+	function handleRegionChange(id: number): void {
+		const index = regions.findIndex((r) => r.id === id);
+		regions[index].isChecked = !regions[index].isChecked;
+		setRegions([...regions]);
+	}
+
+	function handleRegionSelectAll() {
+		regions.forEach((r) => (r.isChecked = true));
+		setRegions([...regions]);
+	}
+	function handleClassChange(id: number): void {
+		setClasses((items) => {
+			return items.map((i) =>
+				i.id === id ? { ...i, isChecked: !i.isChecked } : i,
+			);
+		});
+	}
+
+	function handleClassSelectAll() {
+		setClasses((items) => {
+			return items.map((i) => {
+				return { ...i, isChecked: true };
+			});
+		});
+	}
 	return (
 		<section className="section">
 			<div className="columns is-0 is-justify-content-center">
 				<div className="column">
 					<div>
 						<p className="heading has-text-centered">Region</p>
-						<div className="columns is-1 is-justify-content-center">
-							<IconSelect names={['/images/region_us', '/images/region_eu']} type="png" />
-						</div>
+						<CheckboxImageGroup
+							options={regions}
+							onChange={handleRegionChange}
+							onSelectAll={handleRegionSelectAll}
+						/>
 					</div>
 				</div>
 				<div className="column">
@@ -28,6 +61,11 @@ export default function LeaderboardSearch() {
 				</div>
 				<div className="column">
 					<p className="heading has-text-centered">Classes</p>
+					<CheckboxImageGroup
+						options={classes}
+						onChange={handleClassChange}
+						onSelectAll={handleClassSelectAll}
+					/>
 				</div>
 				<div className="column">
 					<p className="heading has-text-centered">Specs</p>

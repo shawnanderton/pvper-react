@@ -20,13 +20,13 @@ $color-light-alliance: #69f !important;
 
 $primary: lighten($pvper-bg, 5%);
 
-$link: $pvper-fg;
-$link-hover: lighten($pvper-fg, 5%);
-$link-hover-border: lighten($pvper-fg, 5%);
-$link-focus: darken($pvper-fg, 5%);
-$link-focus-border: darken($pvper-fg, 5%);
-$link-active: lighten($pvper-fg, 5%);
-$link-active-border: lighten($pvper-fg, 5%);
+$link: $pvper-red;
+$link-hover: lighten($pvper-red, 5%);
+$link-hover-border: lighten($pvper-red, 5%);
+$link-focus: darken($pvper-red, 5%);
+$link-focus-border: darken($pvper-red, 5%);
+$link-active: lighten($pvper-red, 5%);
+$link-active-border: lighten($pvper-red, 5%);
 
 $info: $pvper-blue;
 $success: $pvper-green;

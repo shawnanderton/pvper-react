@@ -16,19 +16,25 @@ export default function Leaderboard() {
 	if (!characters || characters.length === 0) return <PageNotFound />;
 
 	return (
-		<article className="panel is-primary">
-			<p className="panel-heading">Leaderboard</p>
-			<LeaderboardSearch />
-			<p className="panel-tabs is-size-5">
-				<a className="is-active" href="!#">
-					2v2
-				</a>
-				<a href="!#">3v3</a>
-				<a href="!#">RBG</a>
-			</p>
-			<div className="panel-block">
-				<LeaderboardTable characters={characters} />{' '}
+		<section className="section">
+			<div className="container">
+				<h1 className="title">Leaderboard</h1>
+				<LeaderboardSearch />
+				<div className="tabs is-centered">
+					<ul>
+						<li className="is-active">
+							<a href="/">2v2</a>
+						</li>
+						<li>
+							<a href="/">3v3</a>
+						</li>
+						<li>
+							<a href="/">RGB</a>
+						</li>
+					</ul>
+				</div>
+				<LeaderboardTable characters={characters} />
 			</div>
-		</article>
+		</section>
 	);
 }

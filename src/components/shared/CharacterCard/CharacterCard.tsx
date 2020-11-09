@@ -1,19 +1,17 @@
 import React from 'react';
 import ICharacter from '../../../interfaces/ICharacter';
+import Image from '../Image/Image';
 
-export default function CharacterCard({
-	character,
-	imagePath,
-	backgroundColor,
-}: IProps) {
+import './character-card.scss';
+
+export default function CharacterCard({ character, backgroundColor }: IProps) {
+	const imageName = character.class.toLowerCase().replace(/\s+/g, '');
 	return (
-		<div className={`card ${backgroundColor}`}>
+		<div className={`card character-card ${backgroundColor}`}>
 			<div className="card-content">
 				<div className="media">
 					<div className="media-left">
-						<figure className="image is-36x36">
-							<img alt="character icon" src={imagePath} />
-						</figure>
+						<Image filename={imageName} type="jpg" size={32} />
 					</div>
 					<div className="media-content character-name has-right-border">
 						<small className="is-6 has-text-white">{character.title}</small>
@@ -39,6 +37,5 @@ export default function CharacterCard({
 
 interface IProps {
 	character: ICharacter;
-	imagePath: string;
 	backgroundColor: string;
 }

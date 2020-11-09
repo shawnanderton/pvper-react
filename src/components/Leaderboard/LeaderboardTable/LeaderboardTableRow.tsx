@@ -11,17 +11,16 @@ export default function LeaderboardTableRow({ character }: IProps) {
 			<td width="50px" className="has-text-centered has-text-vertical-middle ">
 				{bracket?.rank}
 			</td>
-			<td width="600px">
+			<td width="500px">
 				<CharacterCard
 					character={character}
-					imagePath="https://wow.zamimg.com/images/wow/icons/tiny/class_hunter.gif"
 					backgroundColor={backgroundColor}
 				/>
 			</td>
 			<td>
 				<PvpProgressBar bracket={bracket} />
 			</td>
-			<td width="50px" className="has-text-centered has-text-vertical-middle ">
+			<td width="200px" className="has-text-centered has-text-vertical-middle ">
 				{bracket?.rating}
 			</td>
 		</tr>

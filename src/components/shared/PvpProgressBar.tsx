@@ -6,7 +6,8 @@ export default function PvpProgressBar({ bracket }: IProps) {
 	return (
 		<>
 			<div>
-				<span className="has-text-success">{bracket?.won}</span>/
+				<span className="has-text-success">{bracket?.won}</span>
+				{' / '}
 				<span className="has-text-danger">{bracket?.lost}</span>
 				<span className="is-pulled-right">{bracket?.played}</span>
 			</div>

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { getLeaderBoardSearch } from '../../../services/leaderboardSearchService';
-import { getRegions } from '../../../services/regionService';
 import CheckboxImageGroup from '../../shared/CheckboxImageGroup/CheckboxImageGroup';
+import InputRange from '../../shared/InputRange/InputRange';
 
 export default function LeaderboardSearch() {
 	const search = getLeaderBoardSearch();
@@ -68,10 +68,8 @@ export default function LeaderboardSearch() {
 					/>
 				</div>
 				<div className="column">
-					<p className="heading has-text-centered">Specs</p>
-				</div>
-				<div className="column">
 					<p className="heading has-text-centered">Rating</p>
+					<InputRange min={0} max={4000} value={0} />
 				</div>
 			</div>
 		</section>

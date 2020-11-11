@@ -1,10 +1,12 @@
 import React from 'react';
+import { PVPBRACKETS } from '../../enums/blizzard';
 import ICharacter from '../../interfaces/ICharacter';
 import useFetch from '../../services/useFetch';
 import PageNotFound from '../core/PageNotFound';
 import Spinner from '../shared/Spinner';
 import LeaderboardSearch from './LeaderboardSearch/LeaderboardSearch';
 import LeaderboardTable from './LeaderboardTable/LeaderboardTable';
+import LeaderboardTabs from './LeaderboardTabs/LeaderboardTabs';
 
 export default function Leaderboard() {
 	const { data: characters = [], loading, error } = useFetch<ICharacter[]>(
@@ -17,22 +19,11 @@ export default function Leaderboard() {
 
 	return (
 		<section className="section">
-			<div className="container">
+			<div className="container is-fullHD">
 				<h1 className="title">Leaderboard</h1>
+				<LeaderboardTabs activeBracket={PVPBRACKETS.ARENA_2v2} />
+
 				<LeaderboardSearch />
-				<div className="tabs is-centered">
-					<ul>
-						<li className="is-active">
-							<a href="/">2v2</a>
-						</li>
-						<li>
-							<a href="/">3v3</a>
-						</li>
-						<li>
-							<a href="/">RGB</a>
-						</li>
-					</ul>
-				</div>
 				<LeaderboardTable characters={characters} />
 			</div>
 		</section>

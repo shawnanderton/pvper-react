@@ -6,7 +6,7 @@ export default function LeaderboardTableBody({ characters }: Props) {
 	return (
 		<tbody>
 			{characters.map((character: ICharacter) => {
-				return <LeaderboardTableRow character={character}></LeaderboardTableRow>;
+				return <LeaderboardTableRow key={character.blizzardId} character={character}></LeaderboardTableRow>;
 			})}
 		</tbody>
 	);

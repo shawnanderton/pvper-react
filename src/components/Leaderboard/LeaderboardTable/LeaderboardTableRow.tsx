@@ -7,7 +7,7 @@ export default function LeaderboardTableRow({ character }: IProps) {
 	const bracket = character.brackets?.find((b) => b.name === '3v3');
 	const backgroundColor = `has-background-${character.faction}-color`;
 	return (
-		<tr key={character.blizzardId} className={backgroundColor}>
+		<tr className={backgroundColor}>
 			<td width="50px" className="has-text-centered has-text-vertical-middle ">
 				{bracket?.rank}
 			</td>

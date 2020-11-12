@@ -7,6 +7,7 @@ export default function LeaderboardSearch() {
 	const search = getLeaderBoardSearch();
 	const [regions, setRegions] = useState(search.regions);
 	const [classes, setClasses] = useState(search.classes);
+	const [rating, setRating] = useState(search.rating);
 
 	function handleRegionChange(id: number): void {
 		const index = regions.findIndex((r) => r.id === id);
@@ -24,6 +25,10 @@ export default function LeaderboardSearch() {
 				i.id === id ? { ...i, isChecked: !i.isChecked } : i,
 			);
 		});
+	}
+
+	function handleRangeChange(event: React.ChangeEvent<HTMLInputElement>) {
+		setRating(parseInt(event.target.value));
 	}
 
 	function handleClassSelectAll() {
@@ -68,8 +73,13 @@ export default function LeaderboardSearch() {
 					/>
 				</div>
 				<div className="column">
-					<p className="heading has-text-centered">Rating</p>
-					<InputRange min={0} max={4000} value={0} />
+					<InputRange
+						min={0}
+						max={4000}
+						value={rating}
+						label="Rating"
+						onChange={handleRangeChange}
+					/>
 				</div>
 			</div>
 		</section>

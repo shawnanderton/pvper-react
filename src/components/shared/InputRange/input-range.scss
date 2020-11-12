@@ -1,16 +1,15 @@
+
 input[type='range'] {
 	-webkit-appearance: none;
     height: 20px;
     width: 100%;
-	background-color: #44475a;
 	border-radius: 4px;
 	cursor: pointer;
 
 	&::-webkit-slider-thumb {
 		-webkit-appearance: none;
 		width: 30px;
-		height: 20px;
-		background-color:  #e02929;
+        height: 20px;
 		border-radius: 4px;
 		cursor: pointer;
 	}

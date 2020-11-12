@@ -89,9 +89,6 @@ export function getLeaderBoardSearch() {
 			},
 		],
 		realms: [],
-		rating: {
-			start: null,
-			end: null,
-		},
+		rating: 0
 	};
 }

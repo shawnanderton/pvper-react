@@ -91,3 +91,12 @@ $box-background-color: $deep-black;
 
 // media
 $media-border-color: $pvper-fg;
+
+.range-input {
+	background-color: $pvper-bg;
+	> input[type='range'] {
+		&::-webkit-slider-thumb {
+			background-color: $pvper-red;
+		}
+	}
+}

@@ -3,6 +3,8 @@ import { getLeaderBoardSearch } from '../../../services/leaderboardSearchService
 import CheckboxImageGroup from '../../shared/CheckboxImageGroup/CheckboxImageGroup';
 import InputRange from '../../shared/InputRange/InputRange';
 
+import './leaderboard-search.scss';
+
 export default function LeaderboardSearch() {
 	const search = getLeaderBoardSearch();
 	const [regions, setRegions] = useState(search.regions);
@@ -39,8 +41,8 @@ export default function LeaderboardSearch() {
 		});
 	}
 	return (
-		<section className="section">
-			<div className="columns is-0 is-justify-content-center">
+		<section style={{height: 200}} className="section">
+			<div className="columns">
 				<div className="column">
 					<div>
 						<p className="heading has-text-centered">Region</p>

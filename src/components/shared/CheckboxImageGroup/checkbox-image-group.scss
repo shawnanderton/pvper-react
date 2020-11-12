@@ -1,0 +1,22 @@
+.checkbox-image-group {
+    height: 70px;
+	--gap: .5rem;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+	flex-wrap: wrap;
+	margin: calc(-1 * var(--gap)) 0 0 calc(-1 * var(--gap));
+	width: calc(100% + var(--gap));
+	.checkbox-image {
+        margin: var(--gap) 0 0 var(--gap);
+	}
+
+	.all {
+        margin: var(--gap) 0 0 var(--gap);
+        padding: 10px;
+        font-size: 1.2rem;
+        font-weight: bolder;
+	}
+}

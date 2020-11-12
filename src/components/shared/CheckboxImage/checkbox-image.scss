@@ -1,8 +1,13 @@
-input[type='checkbox'] {
-	display: none;
-	&:checked + label {
+.checkbox-image {
+	input[type='checkbox'] {
+		display: none;
+		&:checked + label {
+			img {
+				border: 1px solid white;
+			}
+		}
 		img {
-			border: 1px solid white;
+			padding: .5rem;
 		}
 	}
 }

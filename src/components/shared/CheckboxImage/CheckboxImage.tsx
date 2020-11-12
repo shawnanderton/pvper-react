@@ -4,7 +4,7 @@ import './checkbox-image.scss';
 
 export default function Checkbox({ option, onChange }: IProps) {
 	return (
-		<div key={option.id} className="column is-narrow is-2">
+		<div key={option.id} className="checkbox-image">
 			<input
 				onChange={() => onChange(option.id)}
 				type="checkbox"
@@ -13,7 +13,7 @@ export default function Checkbox({ option, onChange }: IProps) {
 				checked={option.isChecked}
 			/>
 			<label htmlFor={`checkbox-${option.value}`}>
-				<figure className="image is-24x24">
+				<figure className={`image is-${option.size}`}>
 					<img
 						style={{ verticalAlign: 'middle' }}
 						src={option.img}
@@ -29,6 +29,7 @@ export interface IOption {
 	id: number;
 	value: string;
 	img: string;
+	size: string;
 	isChecked: boolean;
 }
 interface IProps {

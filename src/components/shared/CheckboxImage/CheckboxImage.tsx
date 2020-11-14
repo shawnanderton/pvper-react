@@ -2,23 +2,19 @@ import React from 'react';
 
 import './checkbox-image.scss';
 
-export default function Checkbox({ option, onChange }: IProps) {
+export default function Checkbox({ option, isChecked, onChange }: IProps) {
 	return (
-		<div key={option.id} className="checkbox-image">
+		<div key={option.value} className="checkbox-image column">
 			<input
-				onChange={() => onChange(option.id)}
+				onChange={onChange}
 				type="checkbox"
 				value={option.value}
-				id={`checkbox-${option.value}`}
-				checked={option.isChecked}
+				id={`checkbox-${option.name}`}
+				checked={isChecked}
 			/>
-			<label htmlFor={`checkbox-${option.value}`}>
+			<label htmlFor={`checkbox-${option.name}`}>
 				<figure className={`image is-${option.size}`}>
-					<img
-						style={{ verticalAlign: 'middle' }}
-						src={option.img}
-						alt="region us"
-					/>
+					<img src={option.img} alt="region us" />
 				</figure>
 			</label>
 		</div>
@@ -26,13 +22,14 @@ export default function Checkbox({ option, onChange }: IProps) {
 }
 
 export interface IOption {
-	id: number;
-	value: string;
+	value: number;
+	name: string;
 	img: string;
 	size: string;
 	isChecked: boolean;
 }
 interface IProps {
 	option: IOption;
-	onChange(id: number): void;
+	isChecked: boolean;
+	onChange(event: React.ChangeEvent<HTMLInputElement>): void;
 }

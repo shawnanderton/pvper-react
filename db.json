@@ -13,7 +13,7 @@
 			"spec": "Windwalker",
 			"race": "Human",
 			"region": "us",
-			"id": "176bfc37-83c5-aa69-7db1-59fa67f5bb7f",
+			"value": "176bfc37-83c5-aa69-7db1-59fa67f5bb7f",
 			"_rid": "By1iAP-66w8IAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8IAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee6854c01d6\"",
@@ -60,7 +60,7 @@
 			"race": "Human",
 			"guild": "dog squad",
 			"region": "us",
-			"id": "e083c9a8-cffd-f30e-1453-a34f865b4a3b",
+			"value": "e083c9a8-cffd-f30e-1453-a34f865b4a3b",
 			"_rid": "By1iAP-66w8JAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8JAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee6fa6f01d6\"",
@@ -107,7 +107,7 @@
 			"race": "Human",
 			"guild": "dog squad",
 			"region": "us",
-			"id": "71ed6627-cc34-1972-f85d-33a8002e1fa9",
+			"value": "71ed6627-cc34-1972-f85d-33a8002e1fa9",
 			"_rid": "By1iAP-66w8KAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8KAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee74d6e01d6\"",
@@ -154,7 +154,7 @@
 			"race": "Human",
 			"guild": "dog squad",
 			"region": "us",
-			"id": "c34313a7-ef5f-7abb-1586-bc5714d2f184",
+			"value": "c34313a7-ef5f-7abb-1586-bc5714d2f184",
 			"_rid": "By1iAP-66w8LAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8LAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee79a1201d6\"",
@@ -201,7 +201,7 @@
 			"race": "Night Elf",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "eef8df8c-d35e-45d6-48d7-1cbd0c879b34",
+			"value": "eef8df8c-d35e-45d6-48d7-1cbd0c879b34",
 			"_rid": "By1iAP-66w8MAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8MAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee7e5b201d6\"",
@@ -247,7 +247,7 @@
 			"race": "Undead",
 			"guild": "Octopals",
 			"region": "us",
-			"id": "2c272653-8880-2a26-acd6-34904d44fe2d",
+			"value": "2c272653-8880-2a26-acd6-34904d44fe2d",
 			"_rid": "By1iAP-66w8NAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8NAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee840fd01d6\"",
@@ -293,7 +293,7 @@
 			"spec": "Balance",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "b1ed76ba-b2bf-7906-f931-eab5cfa3ec6d",
+			"value": "b1ed76ba-b2bf-7906-f931-eab5cfa3ec6d",
 			"_rid": "By1iAP-66w8OAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8OAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee89e2501d6\"",
@@ -341,7 +341,7 @@
 			"race": "Blood Elf",
 			"guild": "Octopals",
 			"region": "us",
-			"id": "aec50b3a-ccdf-4d8c-d40e-c5bc04e2a5f1",
+			"value": "aec50b3a-ccdf-4d8c-d40e-c5bc04e2a5f1",
 			"_rid": "By1iAP-66w8PAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8PAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee8fb7001d6\"",
@@ -387,7 +387,7 @@
 			"spec": "Frost",
 			"race": "Human",
 			"region": "us",
-			"id": "b9db4764-4ec1-ec08-d54c-c7c5e73ae6a1",
+			"value": "b9db4764-4ec1-ec08-d54c-c7c5e73ae6a1",
 			"_rid": "By1iAP-66w8QAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8QAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee9578801d6\"",
@@ -433,7 +433,7 @@
 			"spec": "Feral",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "3b072530-21dd-0492-6802-0c19599e7b13",
+			"value": "3b072530-21dd-0492-6802-0c19599e7b13",
 			"_rid": "By1iAP-66w8RAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8RAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aee9ae6901d6\"",
@@ -479,7 +479,7 @@
 			"spec": "Frost",
 			"race": "Human",
 			"region": "us",
-			"id": "61708148-0744-4f33-9b44-0a8ca0b4ceb0",
+			"value": "61708148-0744-4f33-9b44-0a8ca0b4ceb0",
 			"_rid": "By1iAP-66w8SAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8SAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de7bb97701d6\"",
@@ -518,7 +518,7 @@
 			"race": "Night Elf",
 			"guild": "Raiding Rainbows",
 			"region": "us",
-			"id": "e4105568-3f39-145d-45da-2bcf86ae3fc5",
+			"value": "e4105568-3f39-145d-45da-2bcf86ae3fc5",
 			"_rid": "By1iAP-66w8TAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8TAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de7bf66b01d6\"",
@@ -557,7 +557,7 @@
 			"race": "Orc",
 			"guild": "The Frog Squad",
 			"region": "us",
-			"id": "71342aba-cde9-bd5f-f7a0-af892e4c2472",
+			"value": "71342aba-cde9-bd5f-f7a0-af892e4c2472",
 			"_rid": "By1iAP-66w8UAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8UAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeeab9f801d6\"",
@@ -603,7 +603,7 @@
 			"race": "Orc",
 			"guild": "Cherry Pink",
 			"region": "us",
-			"id": "13b21e23-ec3e-63e6-7fcf-f2c6d42bd78e",
+			"value": "13b21e23-ec3e-63e6-7fcf-f2c6d42bd78e",
 			"_rid": "By1iAP-66w8VAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8VAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeeb14ab01d6\"",
@@ -650,7 +650,7 @@
 			"race": "Orc",
 			"guild": "didnt ask",
 			"region": "us",
-			"id": "e715e2cd-9c1b-c7a8-4c1c-e06dad7d8b75",
+			"value": "e715e2cd-9c1b-c7a8-4c1c-e06dad7d8b75",
 			"_rid": "By1iAP-66w8WAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8WAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de7cac6f01d6\"",
@@ -689,7 +689,7 @@
 			"race": "Human",
 			"guild": "Fellowship of AuntyB",
 			"region": "us",
-			"id": "523381f2-4f34-28a4-0090-8a7eb4258c5f",
+			"value": "523381f2-4f34-28a4-0090-8a7eb4258c5f",
 			"_rid": "By1iAP-66w8XAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8XAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeebaff101d6\"",
@@ -736,7 +736,7 @@
 			"race": "Orc",
 			"guild": "THE MOVE",
 			"region": "us",
-			"id": "9a462f5b-ba5b-9884-c8fc-fea3950e0416",
+			"value": "9a462f5b-ba5b-9884-c8fc-fea3950e0416",
 			"_rid": "By1iAP-66w8YAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8YAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeec079601d6\"",
@@ -783,7 +783,7 @@
 			"race": "Human",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "0e4263ca-8265-1f42-f3f3-b4fe2cb63115",
+			"value": "0e4263ca-8265-1f42-f3f3-b4fe2cb63115",
 			"_rid": "By1iAP-66w8ZAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8ZAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeec60be01d6\"",
@@ -830,7 +830,7 @@
 			"race": "Human",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "47f2641b-9f22-7b53-399e-fa93a9b46c83",
+			"value": "47f2641b-9f22-7b53-399e-fa93a9b46c83",
 			"_rid": "By1iAP-66w8aAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8aAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeecb77a01d6\"",
@@ -876,7 +876,7 @@
 			"spec": "Discipline",
 			"race": "Human",
 			"region": "us",
-			"id": "5b491a95-8782-4a76-d890-2b08ef91e5b9",
+			"value": "5b491a95-8782-4a76-d890-2b08ef91e5b9",
 			"_rid": "By1iAP-66w8bAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8bAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeed124201d6\"",
@@ -922,7 +922,7 @@
 			"race": "Human",
 			"guild": "Speed For The Boys",
 			"region": "us",
-			"id": "6acdad56-cc87-71f4-e0c6-ba0486e14f9f",
+			"value": "6acdad56-cc87-71f4-e0c6-ba0486e14f9f",
 			"_rid": "By1iAP-66w8cAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8cAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeededd201d6\"",
@@ -969,7 +969,7 @@
 			"race": "Human",
 			"guild": "Automatic Repairs",
 			"region": "us",
-			"id": "fb9d28f6-714b-5cc5-cd03-f4073b755f0b",
+			"value": "fb9d28f6-714b-5cc5-cd03-f4073b755f0b",
 			"_rid": "By1iAP-66w8dAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8dAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeee49b301d6\"",
@@ -1015,7 +1015,7 @@
 			"spec": "Feral",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "95027478-a244-a70e-b312-e0fc2ccb6e5a",
+			"value": "95027478-a244-a70e-b312-e0fc2ccb6e5a",
 			"_rid": "By1iAP-66w8eAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8eAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeeea79201d6\"",
@@ -1062,7 +1062,7 @@
 			"race": "Blood Elf",
 			"guild": "Imperial Guard",
 			"region": "us",
-			"id": "2a7640b3-d6f8-03b2-0687-c0ae07cd481f",
+			"value": "2a7640b3-d6f8-03b2-0687-c0ae07cd481f",
 			"_rid": "By1iAP-66w8fAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8fAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de7f0d0401d6\"",
@@ -1101,7 +1101,7 @@
 			"race": "Orc",
 			"guild": "bigwelds waiting room",
 			"region": "us",
-			"id": "b341bd33-73d0-4ea1-51af-e23a898bb5db",
+			"value": "b341bd33-73d0-4ea1-51af-e23a898bb5db",
 			"_rid": "By1iAP-66w8gAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8gAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de7f549201d6\"",
@@ -1140,7 +1140,7 @@
 			"race": "Orc",
 			"guild": "Tsu",
 			"region": "us",
-			"id": "f132696d-b4d9-b20d-5b63-077c345becc1",
+			"value": "f132696d-b4d9-b20d-5b63-077c345becc1",
 			"_rid": "By1iAP-66w8hAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8hAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeef8d5701d6\"",
@@ -1185,7 +1185,7 @@
 			"spec": "Holy",
 			"race": "Human",
 			"region": "us",
-			"id": "0c0cdc81-2591-e037-ce11-1462c549f3d4",
+			"value": "0c0cdc81-2591-e037-ce11-1462c549f3d4",
 			"_rid": "By1iAP-66w8iAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8iAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeeffc0101d6\"",
@@ -1232,7 +1232,7 @@
 			"spec": "Feral",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "1c1b8921-c8bd-508c-adf5-bd760792694a",
+			"value": "1c1b8921-c8bd-508c-adf5-bd760792694a",
 			"_rid": "By1iAP-66w8jAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8jAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef0760a01d6\"",
@@ -1278,7 +1278,7 @@
 			"spec": "Feral",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "f349dacb-fe6d-e195-1fc7-8a2843744e30",
+			"value": "f349dacb-fe6d-e195-1fc7-8a2843744e30",
 			"_rid": "By1iAP-66w8kAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8kAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef0f5f401d6\"",
@@ -1325,7 +1325,7 @@
 			"race": "Draenei",
 			"guild": "hi",
 			"region": "us",
-			"id": "1f628724-6883-690d-68ed-ff84caf2b6c4",
+			"value": "1f628724-6883-690d-68ed-ff84caf2b6c4",
 			"_rid": "By1iAP-66w8lAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8lAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef16b6101d6\"",
@@ -1372,7 +1372,7 @@
 			"race": "Human",
 			"guild": "Vice",
 			"region": "us",
-			"id": "27a02254-3297-d454-718c-6b9e2e1a9588",
+			"value": "27a02254-3297-d454-718c-6b9e2e1a9588",
 			"_rid": "By1iAP-66w8mAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8mAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef1d27a01d6\"",
@@ -1419,7 +1419,7 @@
 			"race": "Human",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "1e46bfa3-0d6a-bacc-bba1-5dfe48c4783f",
+			"value": "1e46bfa3-0d6a-bacc-bba1-5dfe48c4783f",
 			"_rid": "By1iAP-66w8nAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8nAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef22dcd01d6\"",
@@ -1466,7 +1466,7 @@
 			"race": "Human",
 			"guild": "Honestly",
 			"region": "us",
-			"id": "53a14798-6579-fb03-0b48-7f1d38284cdd",
+			"value": "53a14798-6579-fb03-0b48-7f1d38284cdd",
 			"_rid": "By1iAP-66w8oAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8oAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef2850101d6\"",
@@ -1513,7 +1513,7 @@
 			"race": "Human",
 			"guild": "dog squad",
 			"region": "us",
-			"id": "d7a452cc-96de-787e-70a3-2b00eef6bef6",
+			"value": "d7a452cc-96de-787e-70a3-2b00eef6bef6",
 			"_rid": "By1iAP-66w8pAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8pAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef2e21f01d6\"",
@@ -1559,7 +1559,7 @@
 			"spec": "Mistweaver",
 			"race": "Orc",
 			"region": "us",
-			"id": "19c8fd28-90a8-8a21-2d44-18407cd842fe",
+			"value": "19c8fd28-90a8-8a21-2d44-18407cd842fe",
 			"_rid": "By1iAP-66w8qAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8qAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef3374a01d6\"",
@@ -1606,7 +1606,7 @@
 			"race": "Vulpera",
 			"guild": "Octopals",
 			"region": "us",
-			"id": "fa1e1585-8f3d-da32-df62-08e83e0b481a",
+			"value": "fa1e1585-8f3d-da32-df62-08e83e0b481a",
 			"_rid": "By1iAP-66w8rAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8rAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef389e601d6\"",
@@ -1652,7 +1652,7 @@
 			"race": "Human",
 			"guild": "Epic Gamers",
 			"region": "us",
-			"id": "9c994b69-b5c7-b7f3-8ab3-ba5b47189e15",
+			"value": "9c994b69-b5c7-b7f3-8ab3-ba5b47189e15",
 			"_rid": "By1iAP-66w8sAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8sAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef3f95801d6\"",
@@ -1699,7 +1699,7 @@
 			"race": "Undead",
 			"guild": "THE MOVE",
 			"region": "us",
-			"id": "0365799f-1f81-474d-7b75-a4d0647abc9c",
+			"value": "0365799f-1f81-474d-7b75-a4d0647abc9c",
 			"_rid": "By1iAP-66w8tAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8tAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef4778801d6\"",
@@ -1746,7 +1746,7 @@
 			"race": "Human",
 			"guild": "Vulgar",
 			"region": "us",
-			"id": "efaa9840-7fd9-252c-34af-2e7ccdff84e8",
+			"value": "efaa9840-7fd9-252c-34af-2e7ccdff84e8",
 			"_rid": "By1iAP-66w8uAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8uAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef4ea0201d6\"",
@@ -1792,7 +1792,7 @@
 			"spec": "Frost",
 			"race": "Human",
 			"region": "us",
-			"id": "ce8d8c0a-389a-e572-3abd-0da38ec9442f",
+			"value": "ce8d8c0a-389a-e572-3abd-0da38ec9442f",
 			"_rid": "By1iAP-66w8vAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8vAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef55f8901d6\"",
@@ -1831,7 +1831,7 @@
 			"faction": "horde",
 			"realm": "sargeras",
 			"region": "us",
-			"id": "bc7ae577-98a4-7bde-e823-36706db7dedc",
+			"value": "bc7ae577-98a4-7bde-e823-36706db7dedc",
 			"_rid": "By1iAP-66w8wAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8wAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef5d60e01d6\"",
@@ -1884,7 +1884,7 @@
 			"spec": "Holy",
 			"race": "Tauren",
 			"region": "us",
-			"id": "bb40e586-8526-2ef2-b9f6-47d58fc58358",
+			"value": "bb40e586-8526-2ef2-b9f6-47d58fc58358",
 			"_rid": "By1iAP-66w8xAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8xAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef63d8301d6\"",
@@ -1930,7 +1930,7 @@
 			"spec": "Feral",
 			"race": "Tauren",
 			"region": "us",
-			"id": "33d27dc5-9b7f-44ea-171d-4de8302fa72f",
+			"value": "33d27dc5-9b7f-44ea-171d-4de8302fa72f",
 			"_rid": "By1iAP-66w8yAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8yAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef68b0901d6\"",
@@ -1976,7 +1976,7 @@
 			"spec": "Mistweaver",
 			"race": "Human",
 			"region": "us",
-			"id": "f79807e4-4f6a-41a4-70a1-711093d2627f",
+			"value": "f79807e4-4f6a-41a4-70a1-711093d2627f",
 			"_rid": "By1iAP-66w8zAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8zAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef6d92001d6\"",
@@ -2023,7 +2023,7 @@
 			"race": "Night Elf",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "9f5c726f-d5de-0fb1-ebd9-a7e2e00bb2f8",
+			"value": "9f5c726f-d5de-0fb1-ebd9-a7e2e00bb2f8",
 			"_rid": "By1iAP-66w80AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w80AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef7293201d6\"",
@@ -2069,7 +2069,7 @@
 			"spec": "Shadow",
 			"race": "Void Elf",
 			"region": "us",
-			"id": "c5ff5abb-83c2-fba6-4951-1ff154ff3614",
+			"value": "c5ff5abb-83c2-fba6-4951-1ff154ff3614",
 			"_rid": "By1iAP-66w81AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w81AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef772e301d6\"",
@@ -2108,7 +2108,7 @@
 			"faction": "alliance",
 			"realm": "stormrage",
 			"region": "us",
-			"id": "7f92149a-7c3a-58bc-91bc-392815d93313",
+			"value": "7f92149a-7c3a-58bc-91bc-392815d93313",
 			"_rid": "By1iAP-66w82AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w82AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef7be1e01d6\"",
@@ -2163,7 +2163,7 @@
 			"race": "Human",
 			"guild": "The Xar Cookbook",
 			"region": "us",
-			"id": "1549c3cf-44d0-6151-3028-a7ccea30d63d",
+			"value": "1549c3cf-44d0-6151-3028-a7ccea30d63d",
 			"_rid": "By1iAP-66w83AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w83AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef80aa801d6\"",
@@ -2209,7 +2209,7 @@
 			"race": "Night Elf",
 			"guild": "Regulators",
 			"region": "us",
-			"id": "9211e3f6-918b-4b4f-3932-63ccafe8fb95",
+			"value": "9211e3f6-918b-4b4f-3932-63ccafe8fb95",
 			"_rid": "By1iAP-66w84AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w84AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef8568f01d6\"",
@@ -2255,7 +2255,7 @@
 			"race": "Human",
 			"guild": "Ceo of Bigotry",
 			"region": "us",
-			"id": "deff01b2-8ac7-f449-0325-c9652a601c21",
+			"value": "deff01b2-8ac7-f449-0325-c9652a601c21",
 			"_rid": "By1iAP-66w85AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w85AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef8aeb701d6\"",
@@ -2301,7 +2301,7 @@
 			"race": "Night Elf",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "33554433-5264-744c-4856-fd5aa3540767",
+			"value": "33554433-5264-744c-4856-fd5aa3540767",
 			"_rid": "By1iAP-66w86AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w86AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef8fa8501d6\"",
@@ -2349,7 +2349,7 @@
 			"race": "Zandalari Troll",
 			"guild": "THE MOVE",
 			"region": "us",
-			"id": "432712c7-11af-045e-b9ea-2c5da3469084",
+			"value": "432712c7-11af-045e-b9ea-2c5da3469084",
 			"_rid": "By1iAP-66w87AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w87AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef944cf01d6\"",
@@ -2396,7 +2396,7 @@
 			"race": "Orc",
 			"guild": "Obsidian Sky",
 			"region": "us",
-			"id": "2e27a0fb-98a9-6ae6-706e-af9718a1549f",
+			"value": "2e27a0fb-98a9-6ae6-706e-af9718a1549f",
 			"_rid": "By1iAP-66w88AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w88AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aef9898101d6\"",
@@ -2443,7 +2443,7 @@
 			"race": "Draenei",
 			"guild": "No Bolt Nozom",
 			"region": "us",
-			"id": "4af8b9cc-5052-f082-4c61-7ca71fc6f82d",
+			"value": "4af8b9cc-5052-f082-4c61-7ca71fc6f82d",
 			"_rid": "By1iAP-66w89AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w89AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de86b62501d6\"",
@@ -2474,7 +2474,7 @@
 			"faction": "alliance",
 			"realm": "stormrage",
 			"region": "us",
-			"id": "f6014da8-60d5-17d0-31a2-84a084530ccd",
+			"value": "f6014da8-60d5-17d0-31a2-84a084530ccd",
 			"_rid": "By1iAP-66w8+AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8+AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefa1ba201d6\"",
@@ -2529,7 +2529,7 @@
 			"race": "Blood Elf",
 			"guild": "Never Lucky",
 			"region": "us",
-			"id": "abe18c1d-a626-8243-3bb9-3bacccd167a9",
+			"value": "abe18c1d-a626-8243-3bb9-3bacccd167a9",
 			"_rid": "By1iAP-66w8-AAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w8-AAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefa881201d6\"",
@@ -2575,7 +2575,7 @@
 			"spec": "Unholy",
 			"race": "Orc",
 			"region": "us",
-			"id": "6a41c1c9-5735-edfe-85c3-3e2a11adbec9",
+			"value": "6a41c1c9-5735-edfe-85c3-3e2a11adbec9",
 			"_rid": "By1iAP-66w9AAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9AAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefada4e01d6\"",
@@ -2622,7 +2622,7 @@
 			"race": "Dwarf",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "340edce4-266a-260c-a2f6-0e3e75652187",
+			"value": "340edce4-266a-260c-a2f6-0e3e75652187",
 			"_rid": "By1iAP-66w9BAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9BAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefb377b01d6\"",
@@ -2669,7 +2669,7 @@
 			"race": "Night Elf",
 			"guild": "Cliché",
 			"region": "us",
-			"id": "bd733c14-763a-e99f-0ca7-cd43f30874bf",
+			"value": "bd733c14-763a-e99f-0ca7-cd43f30874bf",
 			"_rid": "By1iAP-66w9CAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9CAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefb84f901d6\"",
@@ -2715,7 +2715,7 @@
 			"race": "Human",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "a32dd36f-9ce4-b907-200b-d2f6cc771d81",
+			"value": "a32dd36f-9ce4-b907-200b-d2f6cc771d81",
 			"_rid": "By1iAP-66w9DAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9DAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefbd27501d6\"",
@@ -2762,7 +2762,7 @@
 			"spec": "Windwalker",
 			"race": "Human",
 			"region": "us",
-			"id": "ef03322f-658c-22e7-f6b9-e14e4f124f0a",
+			"value": "ef03322f-658c-22e7-f6b9-e14e4f124f0a",
 			"_rid": "By1iAP-66w9EAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9EAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefc299f01d6\"",
@@ -2809,7 +2809,7 @@
 			"race": "Human",
 			"guild": "has no vocal cords",
 			"region": "us",
-			"id": "3dd2d0e4-a753-2f11-601c-c4b5f391cddf",
+			"value": "3dd2d0e4-a753-2f11-601c-c4b5f391cddf",
 			"_rid": "By1iAP-66w9FAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9FAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefc765701d6\"",
@@ -2855,7 +2855,7 @@
 			"spec": "Subtlety",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "a0b99032-3e73-d08c-6de4-816f08d69c50",
+			"value": "a0b99032-3e73-d08c-6de4-816f08d69c50",
 			"_rid": "By1iAP-66w9GAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9GAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefcc2f201d6\"",
@@ -2902,7 +2902,7 @@
 			"race": "Human",
 			"guild": "Ethical",
 			"region": "us",
-			"id": "c3b90bd6-ab2a-e5dc-3b2e-728357b8530c",
+			"value": "c3b90bd6-ab2a-e5dc-3b2e-728357b8530c",
 			"_rid": "By1iAP-66w9HAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9HAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefd163b01d6\"",
@@ -2948,7 +2948,7 @@
 			"spec": "Subtlety",
 			"race": "Orc",
 			"region": "us",
-			"id": "759d9a92-84d9-78cc-e732-24f4fb6ebc97",
+			"value": "759d9a92-84d9-78cc-e732-24f4fb6ebc97",
 			"_rid": "By1iAP-66w9IAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9IAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefd761901d6\"",
@@ -2994,7 +2994,7 @@
 			"spec": "Holy",
 			"race": "Human",
 			"region": "us",
-			"id": "37802dc0-8c2f-26cc-77bd-a55d0f2e1925",
+			"value": "37802dc0-8c2f-26cc-77bd-a55d0f2e1925",
 			"_rid": "By1iAP-66w9JAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9JAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefdd11901d6\"",
@@ -3040,7 +3040,7 @@
 			"spec": "Discipline",
 			"race": "Human",
 			"region": "us",
-			"id": "12bcbf92-9f64-b9bc-8719-396594abefa8",
+			"value": "12bcbf92-9f64-b9bc-8719-396594abefa8",
 			"_rid": "By1iAP-66w9KAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9KAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefe1b5801d6\"",
@@ -3087,7 +3087,7 @@
 			"race": "Human",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "af754f5a-25db-2550-8d7a-ac92c440a256",
+			"value": "af754f5a-25db-2550-8d7a-ac92c440a256",
 			"_rid": "By1iAP-66w9LAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9LAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefe70db01d6\"",
@@ -3134,7 +3134,7 @@
 			"race": "Human",
 			"guild": "ad hoc",
 			"region": "us",
-			"id": "800f9099-bc74-cac1-11a0-6219533b107f",
+			"value": "800f9099-bc74-cac1-11a0-6219533b107f",
 			"_rid": "By1iAP-66w9MAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9MAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefeaf5201d6\"",
@@ -3181,7 +3181,7 @@
 			"race": "Human",
 			"guild": "i love slicedbaka",
 			"region": "us",
-			"id": "342d8e7b-b243-42d1-0c5f-05274b458466",
+			"value": "342d8e7b-b243-42d1-0c5f-05274b458466",
 			"_rid": "By1iAP-66w9NAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9NAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefeecbd01d6\"",
@@ -3227,7 +3227,7 @@
 			"spec": "Frost",
 			"race": "Human",
 			"region": "us",
-			"id": "a50ffcab-aaa8-c9fe-7d87-f56bc1bf1283",
+			"value": "a50ffcab-aaa8-c9fe-7d87-f56bc1bf1283",
 			"_rid": "By1iAP-66w9OAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9OAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeff329401d6\"",
@@ -3273,7 +3273,7 @@
 			"spec": "Holy",
 			"race": "Draenei",
 			"region": "us",
-			"id": "7db91d6b-4f87-9b81-bd88-9aeff6df4d40",
+			"value": "7db91d6b-4f87-9b81-bd88-9aeff6df4d40",
 			"_rid": "By1iAP-66w9PAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9PAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeff71ce01d6\"",
@@ -3319,7 +3319,7 @@
 			"spec": "Restoration",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "e8864240-57e7-24c2-0b31-02a0a7dd0ff7",
+			"value": "e8864240-57e7-24c2-0b31-02a0a7dd0ff7",
 			"_rid": "By1iAP-66w9QAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9QAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aeffb31501d6\"",
@@ -3366,7 +3366,7 @@
 			"race": "Undead",
 			"guild": "Blur",
 			"region": "us",
-			"id": "697b32a5-fd1c-8f87-a329-8443b52af039",
+			"value": "697b32a5-fd1c-8f87-a329-8443b52af039",
 			"_rid": "By1iAP-66w9RAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9RAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-aefffc6e01d6\"",
@@ -3412,7 +3412,7 @@
 			"spec": "Holy",
 			"race": "Tauren",
 			"region": "us",
-			"id": "ad5aae25-c9c9-c35b-3654-96cfe39bba50",
+			"value": "ad5aae25-c9c9-c35b-3654-96cfe39bba50",
 			"_rid": "By1iAP-66w9SAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9SAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af003b2001d6\"",
@@ -3451,7 +3451,7 @@
 			"faction": "alliance",
 			"realm": "tichondrius",
 			"region": "us",
-			"id": "86a793b8-dd4f-1c22-5d9b-7bc9282d593a",
+			"value": "86a793b8-dd4f-1c22-5d9b-7bc9282d593a",
 			"_rid": "By1iAP-66w9TAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9TAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af0078d401d6\"",
@@ -3503,7 +3503,7 @@
 			"spec": "Discipline",
 			"race": "Undead",
 			"region": "us",
-			"id": "359238d5-8b10-14d7-e912-338e6bc78924",
+			"value": "359238d5-8b10-14d7-e912-338e6bc78924",
 			"_rid": "By1iAP-66w9UAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9UAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af00cc8301d6\"",
@@ -3551,7 +3551,7 @@
 			"race": "Night Elf",
 			"guild": "CthUwU",
 			"region": "us",
-			"id": "a7d98eeb-50ff-7a23-1fb3-2d8339b14f23",
+			"value": "a7d98eeb-50ff-7a23-1fb3-2d8339b14f23",
 			"_rid": "By1iAP-66w9VAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9VAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de8d647901d6\"",
@@ -3590,7 +3590,7 @@
 			"race": "Human",
 			"guild": "ddosed",
 			"region": "us",
-			"id": "f81af558-5078-41fc-3764-30a8c00d0f0b",
+			"value": "f81af558-5078-41fc-3764-30a8c00d0f0b",
 			"_rid": "By1iAP-66w9WAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9WAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af0155ca01d6\"",
@@ -3637,7 +3637,7 @@
 			"race": "Human",
 			"guild": "who are you talkin to",
 			"region": "us",
-			"id": "21819071-8170-9736-8c6f-3dbe84f983e9",
+			"value": "21819071-8170-9736-8c6f-3dbe84f983e9",
 			"_rid": "By1iAP-66w9XAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9XAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af0199f601d6\"",
@@ -3684,7 +3684,7 @@
 			"race": "Dwarf",
 			"guild": "who are you talkin to",
 			"region": "us",
-			"id": "412561f1-646a-26a3-c8d5-bfff6c0f10d1",
+			"value": "412561f1-646a-26a3-c8d5-bfff6c0f10d1",
 			"_rid": "By1iAP-66w9YAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9YAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af01d68401d6\"",
@@ -3730,7 +3730,7 @@
 			"spec": "Holy",
 			"race": "Human",
 			"region": "us",
-			"id": "5b3eacd3-093d-247c-45a8-5d3a6b839f43",
+			"value": "5b3eacd3-093d-247c-45a8-5d3a6b839f43",
 			"_rid": "By1iAP-66w9ZAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9ZAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af02117201d6\"",
@@ -3777,7 +3777,7 @@
 			"race": "Zandalari Troll",
 			"guild": "THE MOVE",
 			"region": "us",
-			"id": "43fb5438-e51b-e83f-3c4b-c0b6ef316c41",
+			"value": "43fb5438-e51b-e83f-3c4b-c0b6ef316c41",
 			"_rid": "By1iAP-66w9aAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9aAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af0264eb01d6\"",
@@ -3823,7 +3823,7 @@
 			"spec": "Restoration",
 			"race": "Orc",
 			"region": "us",
-			"id": "0df9ea53-c9a2-2191-763f-e7c3ee1d551f",
+			"value": "0df9ea53-c9a2-2191-763f-e7c3ee1d551f",
 			"_rid": "By1iAP-66w9bAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9bAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af02a29b01d6\"",
@@ -3870,7 +3870,7 @@
 			"race": "Night Elf",
 			"guild": "In The Clouds",
 			"region": "us",
-			"id": "6b84f588-d908-863f-f95a-7a06a918f5ab",
+			"value": "6b84f588-d908-863f-f95a-7a06a918f5ab",
 			"_rid": "By1iAP-66w9cAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9cAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af02fab201d6\"",
@@ -3915,7 +3915,7 @@
 			"spec": "Frost",
 			"race": "Human",
 			"region": "us",
-			"id": "368bd5fd-ab91-e22a-68ad-9217bb7776a1",
+			"value": "368bd5fd-ab91-e22a-68ad-9217bb7776a1",
 			"_rid": "By1iAP-66w9dAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9dAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af03572801d6\"",
@@ -3963,7 +3963,7 @@
 			"race": "Human",
 			"guild": "The Bread Winners",
 			"region": "us",
-			"id": "dff5e13b-99d1-e3f9-ad38-e2f459baafbc",
+			"value": "dff5e13b-99d1-e3f9-ad38-e2f459baafbc",
 			"_rid": "By1iAP-66w9eAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9eAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af03a60301d6\"",
@@ -4010,7 +4010,7 @@
 			"race": "Orc",
 			"guild": "THE MOVE",
 			"region": "us",
-			"id": "a0fea61d-85cc-811e-acc1-0e75c935fecf",
+			"value": "a0fea61d-85cc-811e-acc1-0e75c935fecf",
 			"_rid": "By1iAP-66w9fAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9fAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af03f27e01d6\"",
@@ -4055,7 +4055,7 @@
 			"spec": "Affliction",
 			"race": "Human",
 			"region": "us",
-			"id": "01fdca4c-8116-c5ba-92f4-f4fc78b1c4c4",
+			"value": "01fdca4c-8116-c5ba-92f4-f4fc78b1c4c4",
 			"_rid": "By1iAP-66w9gAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9gAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de91f8df01d6\"",
@@ -4094,7 +4094,7 @@
 			"race": "Human",
 			"guild": "ddosed",
 			"region": "us",
-			"id": "335fa5d0-4f34-0eb0-5a99-09592da185e7",
+			"value": "335fa5d0-4f34-0eb0-5a99-09592da185e7",
 			"_rid": "By1iAP-66w9hAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9hAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af046bd701d6\"",
@@ -4141,7 +4141,7 @@
 			"race": "Orc",
 			"guild": "Akatsukï",
 			"region": "us",
-			"id": "05a59b1a-a339-a4eb-7bc3-39de1542aecf",
+			"value": "05a59b1a-a339-a4eb-7bc3-39de1542aecf",
 			"_rid": "By1iAP-66w9iAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9iAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-aca7-de928bb801d6\"",
@@ -4179,7 +4179,7 @@
 			"spec": "Restoration",
 			"race": "Orc",
 			"region": "us",
-			"id": "5d86cefc-b725-24c0-2123-dce559a345ef",
+			"value": "5d86cefc-b725-24c0-2123-dce559a345ef",
 			"_rid": "By1iAP-66w9jAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9jAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af04f57b01d6\"",
@@ -4225,7 +4225,7 @@
 			"spec": "Subtlety",
 			"race": "Night Elf",
 			"region": "us",
-			"id": "72e02490-0e55-8f1a-ff06-b226059b8806",
+			"value": "72e02490-0e55-8f1a-ff06-b226059b8806",
 			"_rid": "By1iAP-66w9kAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9kAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af054db801d6\"",
@@ -4271,7 +4271,7 @@
 			"race": "Dwarf",
 			"guild": "Freedom through Violence",
 			"region": "us",
-			"id": "32c05c17-3c9f-c86b-fc7e-393269fe43a9",
+			"value": "32c05c17-3c9f-c86b-fc7e-393269fe43a9",
 			"_rid": "By1iAP-66w9lAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9lAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af05a34b01d6\"",
@@ -4319,7 +4319,7 @@
 			"race": "Void Elf",
 			"guild": "Power Word",
 			"region": "us",
-			"id": "d6c9b602-28d6-2d05-b1b8-45bde1eb88f3",
+			"value": "d6c9b602-28d6-2d05-b1b8-45bde1eb88f3",
 			"_rid": "By1iAP-66w9mAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9mAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af0604e401d6\"",
@@ -4364,7 +4364,7 @@
 			"spec": "Elemental",
 			"race": "Dwarf",
 			"region": "us",
-			"id": "75cbcf61-f782-a63d-de10-6fffbfe8fbca",
+			"value": "75cbcf61-f782-a63d-de10-6fffbfe8fbca",
 			"_rid": "By1iAP-66w9nAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9nAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af065e3c01d6\"",
@@ -4412,7 +4412,7 @@
 			"race": "Troll",
 			"guild": "rest easy criter",
 			"region": "us",
-			"id": "5809bd64-bab4-40f9-cbcb-1d6ae360c0fc",
+			"value": "5809bd64-bab4-40f9-cbcb-1d6ae360c0fc",
 			"_rid": "By1iAP-66w9oAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9oAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af06af1c01d6\"",
@@ -4458,7 +4458,7 @@
 			"spec": "Elemental",
 			"race": "Tauren",
 			"region": "us",
-			"id": "c7dde25c-4109-dd6b-3ea1-36e53e060ff1",
+			"value": "c7dde25c-4109-dd6b-3ea1-36e53e060ff1",
 			"_rid": "By1iAP-66w9pAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9pAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af070e7b01d6\"",
@@ -4505,7 +4505,7 @@
 			"race": "Human",
 			"guild": "dog squad",
 			"region": "us",
-			"id": "40d792e4-0dd5-d0ca-84c7-18811f06208e",
+			"value": "40d792e4-0dd5-d0ca-84c7-18811f06208e",
 			"_rid": "By1iAP-66w9qAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9qAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af07660e01d6\"",
@@ -4544,7 +4544,7 @@
 			"faction": "alliance",
 			"realm": "stormrage",
 			"region": "us",
-			"id": "7784db0b-60c1-b9f4-10cc-2129aa9bd962",
+			"value": "7784db0b-60c1-b9f4-10cc-2129aa9bd962",
 			"_rid": "By1iAP-66w9rAAAAAAAAAA==",
 			"_self": "dbs/By1iAA==/colls/By1iAP-66w8=/docs/By1iAP-66w9rAAAAAAAAAA==/",
 			"_etag": "\"00000000-0000-0000-acb1-af07c10701d6\"",
@@ -4576,6 +4576,2065 @@
 				}
 			],
 			"_ts": 1603838219
+		}
+	],
+
+	"realms": [
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1?namespace=dynamic-us"
+			},
+			"name": "Lightbringer",
+			"value": 1,
+			"slug": "lightbringer"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/2?namespace=dynamic-us"
+			},
+			"name": "Cenarius",
+			"value": 2,
+			"slug": "cenarius"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3?namespace=dynamic-us"
+			},
+			"name": "Uther",
+			"value": 3,
+			"slug": "uther"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/4?namespace=dynamic-us"
+			},
+			"name": "Kilrogg",
+			"value": 4,
+			"slug": "kilrogg"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+			},
+			"name": "Proudmoore",
+			"value": 5,
+			"slug": "proudmoore"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/6?namespace=dynamic-us"
+			},
+			"name": "Hyjal",
+			"value": 6,
+			"slug": "hyjal"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/7?namespace=dynamic-us"
+			},
+			"name": "Frostwolf",
+			"value": 7,
+			"slug": "frostwolf"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/8?namespace=dynamic-us"
+			},
+			"name": "Ner'zhul",
+			"value": 8,
+			"slug": "nerzhul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/9?namespace=dynamic-us"
+			},
+			"name": "Kil'jaeden",
+			"value": 9,
+			"slug": "kiljaeden"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/10?namespace=dynamic-us"
+			},
+			"name": "Blackrock",
+			"value": 10,
+			"slug": "blackrock"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+			},
+			"name": "Tichondrius",
+			"value": 11,
+			"slug": "tichondrius"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/12?namespace=dynamic-us"
+			},
+			"name": "Silver Hand",
+			"value": 12,
+			"slug": "silver-hand"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/13?namespace=dynamic-us"
+			},
+			"name": "Doomhammer",
+			"value": 13,
+			"slug": "doomhammer"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/14?namespace=dynamic-us"
+			},
+			"name": "Icecrown",
+			"value": 14,
+			"slug": "icecrown"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/15?namespace=dynamic-us"
+			},
+			"name": "Deathwing",
+			"value": 15,
+			"slug": "deathwing"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/16?namespace=dynamic-us"
+			},
+			"name": "Kel'Thuzad",
+			"value": 16,
+			"slug": "kelthuzad"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/47?namespace=dynamic-us"
+			},
+			"name": "Eitrigg",
+			"value": 47,
+			"slug": "eitrigg"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/51?namespace=dynamic-us"
+			},
+			"name": "Garona",
+			"value": 51,
+			"slug": "garona"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/52?namespace=dynamic-us"
+			},
+			"name": "Alleria",
+			"value": 52,
+			"slug": "alleria"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/53?namespace=dynamic-us"
+			},
+			"name": "Hellscream",
+			"value": 53,
+			"slug": "hellscream"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/54?namespace=dynamic-us"
+			},
+			"name": "Blackhand",
+			"value": 54,
+			"slug": "blackhand"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/55?namespace=dynamic-us"
+			},
+			"name": "Whisperwind",
+			"value": 55,
+			"slug": "whisperwind"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/56?namespace=dynamic-us"
+			},
+			"name": "Archimonde",
+			"value": 56,
+			"slug": "archimonde"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/57?namespace=dynamic-us"
+			},
+			"name": "Illidan",
+			"value": 57,
+			"slug": "illidan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/58?namespace=dynamic-us"
+			},
+			"name": "Stormreaver",
+			"value": 58,
+			"slug": "stormreaver"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/59?namespace=dynamic-us"
+			},
+			"name": "Mal'Ganis",
+			"value": 59,
+			"slug": "malganis"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+			},
+			"name": "Stormrage",
+			"value": 60,
+			"slug": "stormrage"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+			},
+			"name": "Zul'jin",
+			"value": 61,
+			"slug": "zuljin"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/62?namespace=dynamic-us"
+			},
+			"name": "Medivh",
+			"value": 62,
+			"slug": "medivh"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/63?namespace=dynamic-us"
+			},
+			"name": "Durotan",
+			"value": 63,
+			"slug": "durotan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/64?namespace=dynamic-us"
+			},
+			"name": "Bloodhoof",
+			"value": 64,
+			"slug": "bloodhoof"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/65?namespace=dynamic-us"
+			},
+			"name": "Khadgar",
+			"value": 65,
+			"slug": "khadgar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/66?namespace=dynamic-us"
+			},
+			"name": "Dalaran",
+			"value": 66,
+			"slug": "dalaran"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/67?namespace=dynamic-us"
+			},
+			"name": "Elune",
+			"value": 67,
+			"slug": "elune"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/68?namespace=dynamic-us"
+			},
+			"name": "Lothar",
+			"value": 68,
+			"slug": "lothar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/69?namespace=dynamic-us"
+			},
+			"name": "Arthas",
+			"value": 69,
+			"slug": "arthas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/70?namespace=dynamic-us"
+			},
+			"name": "Mannoroth",
+			"value": 70,
+			"slug": "mannoroth"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/71?namespace=dynamic-us"
+			},
+			"name": "Warsong",
+			"value": 71,
+			"slug": "warsong"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/72?namespace=dynamic-us"
+			},
+			"name": "Shattered Hand",
+			"value": 72,
+			"slug": "shattered-hand"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+			},
+			"name": "Bleeding Hollow",
+			"value": 73,
+			"slug": "bleeding-hollow"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/74?namespace=dynamic-us"
+			},
+			"name": "Skullcrusher",
+			"value": 74,
+			"slug": "skullcrusher"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/75?namespace=dynamic-us"
+			},
+			"name": "Argent Dawn",
+			"value": 75,
+			"slug": "argent-dawn"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/76?namespace=dynamic-us"
+			},
+			"name": "Sargeras",
+			"value": 76,
+			"slug": "sargeras"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/77?namespace=dynamic-us"
+			},
+			"name": "Azgalor",
+			"value": 77,
+			"slug": "azgalor"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/78?namespace=dynamic-us"
+			},
+			"name": "Magtheridon",
+			"value": 78,
+			"slug": "magtheridon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/79?namespace=dynamic-us"
+			},
+			"name": "Destromath",
+			"value": 79,
+			"slug": "destromath"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/80?namespace=dynamic-us"
+			},
+			"name": "Gorgonnash",
+			"value": 80,
+			"slug": "gorgonnash"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/81?namespace=dynamic-us"
+			},
+			"name": "Dethecus",
+			"value": 81,
+			"slug": "dethecus"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/82?namespace=dynamic-us"
+			},
+			"name": "Spinebreaker",
+			"value": 82,
+			"slug": "spinebreaker"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/83?namespace=dynamic-us"
+			},
+			"name": "Bonechewer",
+			"value": 83,
+			"slug": "bonechewer"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/84?namespace=dynamic-us"
+			},
+			"name": "Dragonmaw",
+			"value": 84,
+			"slug": "dragonmaw"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/85?namespace=dynamic-us"
+			},
+			"name": "Shadowsong",
+			"value": 85,
+			"slug": "shadowsong"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/86?namespace=dynamic-us"
+			},
+			"name": "Silvermoon",
+			"value": 86,
+			"slug": "silvermoon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/87?namespace=dynamic-us"
+			},
+			"name": "Windrunner",
+			"value": 87,
+			"slug": "windrunner"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/88?namespace=dynamic-us"
+			},
+			"name": "Cenarion Circle",
+			"value": 88,
+			"slug": "cenarion-circle"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/89?namespace=dynamic-us"
+			},
+			"name": "Nathrezim",
+			"value": 89,
+			"slug": "nathrezim"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/90?namespace=dynamic-us"
+			},
+			"name": "Terenas",
+			"value": 90,
+			"slug": "terenas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/91?namespace=dynamic-us"
+			},
+			"name": "Burning Blade",
+			"value": 91,
+			"slug": "burning-blade"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/92?namespace=dynamic-us"
+			},
+			"name": "Gorefiend",
+			"value": 92,
+			"slug": "gorefiend"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/93?namespace=dynamic-us"
+			},
+			"name": "Eredar",
+			"value": 93,
+			"slug": "eredar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/94?namespace=dynamic-us"
+			},
+			"name": "Shadowmoon",
+			"value": 94,
+			"slug": "shadowmoon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/95?namespace=dynamic-us"
+			},
+			"name": "Lightning's Blade",
+			"value": 95,
+			"slug": "lightnings-blade"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/96?namespace=dynamic-us"
+			},
+			"name": "Eonar",
+			"value": 96,
+			"slug": "eonar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/97?namespace=dynamic-us"
+			},
+			"name": "Gilneas",
+			"value": 97,
+			"slug": "gilneas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/98?namespace=dynamic-us"
+			},
+			"name": "Kargath",
+			"value": 98,
+			"slug": "kargath"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/99?namespace=dynamic-us"
+			},
+			"name": "Llane",
+			"value": 99,
+			"slug": "llane"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/100?namespace=dynamic-us"
+			},
+			"name": "Earthen Ring",
+			"value": 100,
+			"slug": "earthen-ring"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/101?namespace=dynamic-us"
+			},
+			"name": "Laughing Skull",
+			"value": 101,
+			"slug": "laughing-skull"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/102?namespace=dynamic-us"
+			},
+			"name": "Burning Legion",
+			"value": 102,
+			"slug": "burning-legion"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/103?namespace=dynamic-us"
+			},
+			"name": "Thunderlord",
+			"value": 103,
+			"slug": "thunderlord"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/104?namespace=dynamic-us"
+			},
+			"name": "Malygos",
+			"value": 104,
+			"slug": "malygos"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/105?namespace=dynamic-us"
+			},
+			"name": "Thunderhorn",
+			"value": 105,
+			"slug": "thunderhorn"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/106?namespace=dynamic-us"
+			},
+			"name": "Aggramar",
+			"value": 106,
+			"slug": "aggramar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/107?namespace=dynamic-us"
+			},
+			"name": "Crushridge",
+			"value": 107,
+			"slug": "crushridge"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/108?namespace=dynamic-us"
+			},
+			"name": "Stonemaul",
+			"value": 108,
+			"slug": "stonemaul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/109?namespace=dynamic-us"
+			},
+			"name": "Daggerspine",
+			"value": 109,
+			"slug": "daggerspine"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+			},
+			"name": "Stormscale",
+			"value": 110,
+			"slug": "stormscale"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/111?namespace=dynamic-us"
+			},
+			"name": "Dunemaul",
+			"value": 111,
+			"slug": "dunemaul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/112?namespace=dynamic-us"
+			},
+			"name": "Boulderfist",
+			"value": 112,
+			"slug": "boulderfist"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/113?namespace=dynamic-us"
+			},
+			"name": "Suramar",
+			"value": 113,
+			"slug": "suramar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/114?namespace=dynamic-us"
+			},
+			"name": "Dragonblight",
+			"value": 114,
+			"slug": "dragonblight"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/115?namespace=dynamic-us"
+			},
+			"name": "Draenor",
+			"value": 115,
+			"slug": "draenor"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/116?namespace=dynamic-us"
+			},
+			"name": "Uldum",
+			"value": 116,
+			"slug": "uldum"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/117?namespace=dynamic-us"
+			},
+			"name": "Bronzebeard",
+			"value": 117,
+			"slug": "bronzebeard"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/118?namespace=dynamic-us"
+			},
+			"name": "Feathermoon",
+			"value": 118,
+			"slug": "feathermoon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/119?namespace=dynamic-us"
+			},
+			"name": "Bloodscalp",
+			"value": 119,
+			"slug": "bloodscalp"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/120?namespace=dynamic-us"
+			},
+			"name": "Darkspear",
+			"value": 120,
+			"slug": "darkspear"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/121?namespace=dynamic-us"
+			},
+			"name": "Azjol-Nerub",
+			"value": 121,
+			"slug": "azjolnerub"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/122?namespace=dynamic-us"
+			},
+			"name": "Perenolde",
+			"value": 122,
+			"slug": "perenolde"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/123?namespace=dynamic-us"
+			},
+			"name": "Eldre'Thalas",
+			"value": 123,
+			"slug": "eldrethalas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+			},
+			"name": "Spirestone",
+			"value": 124,
+			"slug": "spirestone"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/125?namespace=dynamic-us"
+			},
+			"name": "Shadow Council",
+			"value": 125,
+			"slug": "shadow-council"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/126?namespace=dynamic-us"
+			},
+			"name": "Scarlet Crusade",
+			"value": 126,
+			"slug": "scarlet-crusade"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/127?namespace=dynamic-us"
+			},
+			"name": "Firetree",
+			"value": 127,
+			"slug": "firetree"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/128?namespace=dynamic-us"
+			},
+			"name": "Frostmane",
+			"value": 128,
+			"slug": "frostmane"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/129?namespace=dynamic-us"
+			},
+			"name": "Gurubashi",
+			"value": 129,
+			"slug": "gurubashi"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/130?namespace=dynamic-us"
+			},
+			"name": "Smolderthorn",
+			"value": 130,
+			"slug": "smolderthorn"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/131?namespace=dynamic-us"
+			},
+			"name": "Skywall",
+			"value": 131,
+			"slug": "skywall"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/151?namespace=dynamic-us"
+			},
+			"name": "Runetotem",
+			"value": 151,
+			"slug": "runetotem"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/153?namespace=dynamic-us"
+			},
+			"name": "Moonrunner",
+			"value": 153,
+			"slug": "moonrunner"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/154?namespace=dynamic-us"
+			},
+			"name": "Detheroc",
+			"value": 154,
+			"slug": "detheroc"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/155?namespace=dynamic-us"
+			},
+			"name": "Kalecgos",
+			"value": 155,
+			"slug": "kalecgos"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/156?namespace=dynamic-us"
+			},
+			"name": "Ursin",
+			"value": 156,
+			"slug": "ursin"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/157?namespace=dynamic-us"
+			},
+			"name": "Dark Iron",
+			"value": 157,
+			"slug": "dark-iron"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/158?namespace=dynamic-us"
+			},
+			"name": "Greymane",
+			"value": 158,
+			"slug": "greymane"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/159?namespace=dynamic-us"
+			},
+			"name": "Wildhammer",
+			"value": 159,
+			"slug": "wildhammer"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/160?namespace=dynamic-us"
+			},
+			"name": "Staghelm",
+			"value": 160,
+			"slug": "staghelm"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/162?namespace=dynamic-us"
+			},
+			"name": "Emerald Dream",
+			"value": 162,
+			"slug": "emerald-dream"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/163?namespace=dynamic-us"
+			},
+			"name": "Maelstrom",
+			"value": 163,
+			"slug": "maelstrom"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/164?namespace=dynamic-us"
+			},
+			"name": "Twisting Nether",
+			"value": 164,
+			"slug": "twisting-nether"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1067?namespace=dynamic-us"
+			},
+			"name": "Cho'gall",
+			"value": 1067,
+			"slug": "chogall"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1068?namespace=dynamic-us"
+			},
+			"name": "Gul'dan",
+			"value": 1068,
+			"slug": "guldan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1069?namespace=dynamic-us"
+			},
+			"name": "Kael'thas",
+			"value": 1069,
+			"slug": "kaelthas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1070?namespace=dynamic-us"
+			},
+			"name": "Alexstrasza",
+			"value": 1070,
+			"slug": "alexstrasza"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1071?namespace=dynamic-us"
+			},
+			"name": "Kirin Tor",
+			"value": 1071,
+			"slug": "kirin-tor"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1072?namespace=dynamic-us"
+			},
+			"name": "Ravencrest",
+			"value": 1072,
+			"slug": "ravencrest"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1075?namespace=dynamic-us"
+			},
+			"name": "Balnazzar",
+			"value": 1075,
+			"slug": "balnazzar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1128?namespace=dynamic-us"
+			},
+			"name": "Azshara",
+			"value": 1128,
+			"slug": "azshara"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1129?namespace=dynamic-us"
+			},
+			"name": "Agamaggan",
+			"value": 1129,
+			"slug": "agamaggan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1130?namespace=dynamic-us"
+			},
+			"name": "Lightninghoof",
+			"value": 1130,
+			"slug": "lightninghoof"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1131?namespace=dynamic-us"
+			},
+			"name": "Nazjatar",
+			"value": 1131,
+			"slug": "nazjatar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1132?namespace=dynamic-us"
+			},
+			"name": "Malfurion",
+			"value": 1132,
+			"slug": "malfurion"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1136?namespace=dynamic-us"
+			},
+			"name": "Aegwynn",
+			"value": 1136,
+			"slug": "aegwynn"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1137?namespace=dynamic-us"
+			},
+			"name": "Akama",
+			"value": 1137,
+			"slug": "akama"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1138?namespace=dynamic-us"
+			},
+			"name": "Chromaggus",
+			"value": 1138,
+			"slug": "chromaggus"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1139?namespace=dynamic-us"
+			},
+			"name": "Draka",
+			"value": 1139,
+			"slug": "draka"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1140?namespace=dynamic-us"
+			},
+			"name": "Drak'thul",
+			"value": 1140,
+			"slug": "drakthul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1141?namespace=dynamic-us"
+			},
+			"name": "Garithos",
+			"value": 1141,
+			"slug": "garithos"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1142?namespace=dynamic-us"
+			},
+			"name": "Hakkar",
+			"value": 1142,
+			"slug": "hakkar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1143?namespace=dynamic-us"
+			},
+			"name": "Khaz Modan",
+			"value": 1143,
+			"slug": "khaz-modan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1145?namespace=dynamic-us"
+			},
+			"name": "Mug'thol",
+			"value": 1145,
+			"slug": "mugthol"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1146?namespace=dynamic-us"
+			},
+			"name": "Korgath",
+			"value": 1146,
+			"slug": "korgath"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1147?namespace=dynamic-us"
+			},
+			"name": "Kul Tiras",
+			"value": 1147,
+			"slug": "kul-tiras"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1148?namespace=dynamic-us"
+			},
+			"name": "Malorne",
+			"value": 1148,
+			"slug": "malorne"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1151?namespace=dynamic-us"
+			},
+			"name": "Rexxar",
+			"value": 1151,
+			"slug": "rexxar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1154?namespace=dynamic-us"
+			},
+			"name": "Thorium Brotherhood",
+			"value": 1154,
+			"slug": "thorium-brotherhood"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1165?namespace=dynamic-us"
+			},
+			"name": "Arathor",
+			"value": 1165,
+			"slug": "arathor"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1173?namespace=dynamic-us"
+			},
+			"name": "Madoran",
+			"value": 1173,
+			"slug": "madoran"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1175?namespace=dynamic-us"
+			},
+			"name": "Trollbane",
+			"value": 1175,
+			"slug": "trollbane"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1182?namespace=dynamic-us"
+			},
+			"name": "Muradin",
+			"value": 1182,
+			"slug": "muradin"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1184?namespace=dynamic-us"
+			},
+			"name": "Vek'nilash",
+			"value": 1184,
+			"slug": "veknilash"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1185?namespace=dynamic-us"
+			},
+			"name": "Sen'jin",
+			"value": 1185,
+			"slug": "senjin"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1190?namespace=dynamic-us"
+			},
+			"name": "Baelgun",
+			"value": 1190,
+			"slug": "baelgun"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1258?namespace=dynamic-us"
+			},
+			"name": "Duskwood",
+			"value": 1258,
+			"slug": "duskwood"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1259?namespace=dynamic-us"
+			},
+			"name": "Zuluhed",
+			"value": 1259,
+			"slug": "zuluhed"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1260?namespace=dynamic-us"
+			},
+			"name": "Steamwheedle Cartel",
+			"value": 1260,
+			"slug": "steamwheedle-cartel"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1262?namespace=dynamic-us"
+			},
+			"name": "Norgannon",
+			"value": 1262,
+			"slug": "norgannon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1263?namespace=dynamic-us"
+			},
+			"name": "Thrall",
+			"value": 1263,
+			"slug": "thrall"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1264?namespace=dynamic-us"
+			},
+			"name": "Anetheron",
+			"value": 1264,
+			"slug": "anetheron"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1265?namespace=dynamic-us"
+			},
+			"name": "Turalyon",
+			"value": 1265,
+			"slug": "turalyon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1266?namespace=dynamic-us"
+			},
+			"name": "Haomarush",
+			"value": 1266,
+			"slug": "haomarush"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1267?namespace=dynamic-us"
+			},
+			"name": "Scilla",
+			"value": 1267,
+			"slug": "scilla"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1268?namespace=dynamic-us"
+			},
+			"name": "Ysondre",
+			"value": 1268,
+			"slug": "ysondre"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1270?namespace=dynamic-us"
+			},
+			"name": "Ysera",
+			"value": 1270,
+			"slug": "ysera"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1271?namespace=dynamic-us"
+			},
+			"name": "Dentarg",
+			"value": 1271,
+			"slug": "dentarg"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1276?namespace=dynamic-us"
+			},
+			"name": "Andorhal",
+			"value": 1276,
+			"slug": "andorhal"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1277?namespace=dynamic-us"
+			},
+			"name": "Executus",
+			"value": 1277,
+			"slug": "executus"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1278?namespace=dynamic-us"
+			},
+			"name": "Dalvengyr",
+			"value": 1278,
+			"slug": "dalvengyr"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1280?namespace=dynamic-us"
+			},
+			"name": "Black Dragonflight",
+			"value": 1280,
+			"slug": "black-dragonflight"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1282?namespace=dynamic-us"
+			},
+			"name": "Altar of Storms",
+			"value": 1282,
+			"slug": "altar-of-storms"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1283?namespace=dynamic-us"
+			},
+			"name": "Uldaman",
+			"value": 1283,
+			"slug": "uldaman"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1284?namespace=dynamic-us"
+			},
+			"name": "Aerie Peak",
+			"value": 1284,
+			"slug": "aerie-peak"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1285?namespace=dynamic-us"
+			},
+			"name": "Onyxia",
+			"value": 1285,
+			"slug": "onyxia"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1286?namespace=dynamic-us"
+			},
+			"name": "Demon Soul",
+			"value": 1286,
+			"slug": "demon-soul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1287?namespace=dynamic-us"
+			},
+			"name": "Gnomeregan",
+			"value": 1287,
+			"slug": "gnomeregan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1288?namespace=dynamic-us"
+			},
+			"name": "Anvilmar",
+			"value": 1288,
+			"slug": "anvilmar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1289?namespace=dynamic-us"
+			},
+			"name": "The Venture Co",
+			"value": 1289,
+			"slug": "the-venture-co"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1290?namespace=dynamic-us"
+			},
+			"name": "Sentinels",
+			"value": 1290,
+			"slug": "sentinels"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1291?namespace=dynamic-us"
+			},
+			"name": "Jaedenar",
+			"value": 1291,
+			"slug": "jaedenar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1292?namespace=dynamic-us"
+			},
+			"name": "Tanaris",
+			"value": 1292,
+			"slug": "tanaris"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1293?namespace=dynamic-us"
+			},
+			"name": "Alterac Mountains",
+			"value": 1293,
+			"slug": "alterac-mountains"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1294?namespace=dynamic-us"
+			},
+			"name": "Undermine",
+			"value": 1294,
+			"slug": "undermine"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1295?namespace=dynamic-us"
+			},
+			"name": "Lethon",
+			"value": 1295,
+			"slug": "lethon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1296?namespace=dynamic-us"
+			},
+			"name": "Blackwing Lair",
+			"value": 1296,
+			"slug": "blackwing-lair"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1297?namespace=dynamic-us"
+			},
+			"name": "Arygos",
+			"value": 1297,
+			"slug": "arygos"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1342?namespace=dynamic-us"
+			},
+			"name": "Echo Isles",
+			"value": 1342,
+			"slug": "echo-isles"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1344?namespace=dynamic-us"
+			},
+			"name": "The Forgotten Coast",
+			"value": 1344,
+			"slug": "the-forgotten-coast"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1345?namespace=dynamic-us"
+			},
+			"name": "Fenris",
+			"value": 1345,
+			"slug": "fenris"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1346?namespace=dynamic-us"
+			},
+			"name": "Anub'arak",
+			"value": 1346,
+			"slug": "anubarak"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1347?namespace=dynamic-us"
+			},
+			"name": "Blackwater Raiders",
+			"value": 1347,
+			"slug": "blackwater-raiders"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1348?namespace=dynamic-us"
+			},
+			"name": "Vashj",
+			"value": 1348,
+			"slug": "vashj"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1349?namespace=dynamic-us"
+			},
+			"name": "Korialstrasz",
+			"value": 1349,
+			"slug": "korialstrasz"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1350?namespace=dynamic-us"
+			},
+			"name": "Misha",
+			"value": 1350,
+			"slug": "misha"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1351?namespace=dynamic-us"
+			},
+			"name": "Darrowmere",
+			"value": 1351,
+			"slug": "darrowmere"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1352?namespace=dynamic-us"
+			},
+			"name": "Ravenholdt",
+			"value": 1352,
+			"slug": "ravenholdt"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1353?namespace=dynamic-us"
+			},
+			"name": "Bladefist",
+			"value": 1353,
+			"slug": "bladefist"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1354?namespace=dynamic-us"
+			},
+			"name": "Shu'halo",
+			"value": 1354,
+			"slug": "shuhalo"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1355?namespace=dynamic-us"
+			},
+			"name": "Winterhoof",
+			"value": 1355,
+			"slug": "winterhoof"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1356?namespace=dynamic-us"
+			},
+			"name": "Sisters of Elune",
+			"value": 1356,
+			"slug": "sisters-of-elune"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1357?namespace=dynamic-us"
+			},
+			"name": "Maiev",
+			"value": 1357,
+			"slug": "maiev"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1358?namespace=dynamic-us"
+			},
+			"name": "Rivendare",
+			"value": 1358,
+			"slug": "rivendare"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1359?namespace=dynamic-us"
+			},
+			"name": "Nordrassil",
+			"value": 1359,
+			"slug": "nordrassil"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1360?namespace=dynamic-us"
+			},
+			"name": "Tortheldrin",
+			"value": 1360,
+			"slug": "tortheldrin"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1361?namespace=dynamic-us"
+			},
+			"name": "Cairne",
+			"value": 1361,
+			"slug": "cairne"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1362?namespace=dynamic-us"
+			},
+			"name": "Drak'Tharon",
+			"value": 1362,
+			"slug": "draktharon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1363?namespace=dynamic-us"
+			},
+			"name": "Antonidas",
+			"value": 1363,
+			"slug": "antonidas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1364?namespace=dynamic-us"
+			},
+			"name": "Shandris",
+			"value": 1364,
+			"slug": "shandris"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1365?namespace=dynamic-us"
+			},
+			"name": "Moon Guard",
+			"value": 1365,
+			"slug": "moon-guard"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1367?namespace=dynamic-us"
+			},
+			"name": "Nazgrel",
+			"value": 1367,
+			"slug": "nazgrel"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1368?namespace=dynamic-us"
+			},
+			"name": "Hydraxis",
+			"value": 1368,
+			"slug": "hydraxis"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1369?namespace=dynamic-us"
+			},
+			"name": "Wyrmrest Accord",
+			"value": 1369,
+			"slug": "wyrmrest-accord"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1370?namespace=dynamic-us"
+			},
+			"name": "Farstriders",
+			"value": 1370,
+			"slug": "farstriders"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1371?namespace=dynamic-us"
+			},
+			"name": "Borean Tundra",
+			"value": 1371,
+			"slug": "borean-tundra"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1372?namespace=dynamic-us"
+			},
+			"name": "Quel'dorei",
+			"value": 1372,
+			"slug": "queldorei"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1373?namespace=dynamic-us"
+			},
+			"name": "Garrosh",
+			"value": 1373,
+			"slug": "garrosh"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1374?namespace=dynamic-us"
+			},
+			"name": "Mok'Nathal",
+			"value": 1374,
+			"slug": "moknathal"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1375?namespace=dynamic-us"
+			},
+			"name": "Nesingwary",
+			"value": 1375,
+			"slug": "nesingwary"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1377?namespace=dynamic-us"
+			},
+			"name": "Drenden",
+			"value": 1377,
+			"slug": "drenden"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1425?namespace=dynamic-us"
+			},
+			"name": "Drakkari",
+			"value": 1425,
+			"slug": "drakkari"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1427?namespace=dynamic-us"
+			},
+			"name": "Ragnaros",
+			"value": 1427,
+			"slug": "ragnaros"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1428?namespace=dynamic-us"
+			},
+			"name": "Quel'Thalas",
+			"value": 1428,
+			"slug": "quelthalas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1549?namespace=dynamic-us"
+			},
+			"name": "Azuremyst",
+			"value": 1549,
+			"slug": "azuremyst"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1555?namespace=dynamic-us"
+			},
+			"name": "Auchindoun",
+			"value": 1555,
+			"slug": "auchindoun"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1556?namespace=dynamic-us"
+			},
+			"name": "Coilfang",
+			"value": 1556,
+			"slug": "coilfang"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1557?namespace=dynamic-us"
+			},
+			"name": "Shattered Halls",
+			"value": 1557,
+			"slug": "shattered-halls"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1558?namespace=dynamic-us"
+			},
+			"name": "Blood Furnace",
+			"value": 1558,
+			"slug": "blood-furnace"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1559?namespace=dynamic-us"
+			},
+			"name": "The Underbog",
+			"value": 1559,
+			"slug": "the-underbog"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1563?namespace=dynamic-us"
+			},
+			"name": "Terokkar",
+			"value": 1563,
+			"slug": "terokkar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1564?namespace=dynamic-us"
+			},
+			"name": "Blade's Edge",
+			"value": 1564,
+			"slug": "blades-edge"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1565?namespace=dynamic-us"
+			},
+			"name": "Exodar",
+			"value": 1565,
+			"slug": "exodar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+			},
+			"name": "Area 52",
+			"value": 1566,
+			"slug": "area-52"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1567?namespace=dynamic-us"
+			},
+			"name": "Velen",
+			"value": 1567,
+			"slug": "velen"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1570?namespace=dynamic-us"
+			},
+			"name": "The Scryers",
+			"value": 1570,
+			"slug": "the-scryers"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1572?namespace=dynamic-us"
+			},
+			"name": "Zangarmarsh",
+			"value": 1572,
+			"slug": "zangarmarsh"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1576?namespace=dynamic-us"
+			},
+			"name": "Fizzcrank",
+			"value": 1576,
+			"slug": "fizzcrank"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1578?namespace=dynamic-us"
+			},
+			"name": "Ghostlands",
+			"value": 1578,
+			"slug": "ghostlands"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1579?namespace=dynamic-us"
+			},
+			"name": "Grizzly Hills",
+			"value": 1579,
+			"slug": "grizzly-hills"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1581?namespace=dynamic-us"
+			},
+			"name": "Galakrond",
+			"value": 1581,
+			"slug": "galakrond"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/1582?namespace=dynamic-us"
+			},
+			"name": "Dawnbringer",
+			"value": 1582,
+			"slug": "dawnbringer"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3207?namespace=dynamic-us"
+			},
+			"name": "Goldrinn",
+			"value": 3207,
+			"slug": "goldrinn"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3208?namespace=dynamic-us"
+			},
+			"name": "Nemesis",
+			"value": 3208,
+			"slug": "nemesis"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3209?namespace=dynamic-us"
+			},
+			"name": "Azralon",
+			"value": 3209,
+			"slug": "azralon"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3210?namespace=dynamic-us"
+			},
+			"name": "Tol Barad",
+			"value": 3210,
+			"slug": "tol-barad"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3234?namespace=dynamic-us"
+			},
+			"name": "Gallywix",
+			"value": 3234,
+			"slug": "gallywix"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3721?namespace=dynamic-us"
+			},
+			"name": "Caelestrasz",
+			"value": 3721,
+			"slug": "caelestrasz"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3722?namespace=dynamic-us"
+			},
+			"name": "Aman'Thul",
+			"value": 3722,
+			"slug": "amanthul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3723?namespace=dynamic-us"
+			},
+			"name": "Barthilas",
+			"value": 3723,
+			"slug": "barthilas"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3724?namespace=dynamic-us"
+			},
+			"name": "Thaurissan",
+			"value": 3724,
+			"slug": "thaurissan"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3725?namespace=dynamic-us"
+			},
+			"name": "Frostmourne",
+			"value": 3725,
+			"slug": "frostmourne"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3726?namespace=dynamic-us"
+			},
+			"name": "Khaz'goroth",
+			"value": 3726,
+			"slug": "khazgoroth"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3733?namespace=dynamic-us"
+			},
+			"name": "Dreadmaul",
+			"value": 3733,
+			"slug": "dreadmaul"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3734?namespace=dynamic-us"
+			},
+			"name": "Nagrand",
+			"value": 3734,
+			"slug": "nagrand"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3735?namespace=dynamic-us"
+			},
+			"name": "Dath'Remar",
+			"value": 3735,
+			"slug": "dathremar"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3736?namespace=dynamic-us"
+			},
+			"name": "Jubei'Thos",
+			"value": 3736,
+			"slug": "jubeithos"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3737?namespace=dynamic-us"
+			},
+			"name": "Gundrak",
+			"value": 3737,
+			"slug": "gundrak"
+		},
+		{
+			"key": {
+				"href": "https://us.api.blizzard.com/data/wow/realm/3738?namespace=dynamic-us"
+			},
+			"name": "Saurfang",
+			"value": 3738,
+			"slug": "saurfang"
+		}
+	],
+	"classes": [
+		{
+			"value": 0,
+			"name": "death Knight",
+			"img": "/images/deathknight.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 1,
+			"name": "Demon Hunter",
+			"img": "/images/demonhunter.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 2,
+			"name": "Druid",
+			"img": "/images/druid.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 3,
+			"name": "Hunter",
+			"img": "/images/hunter.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 4,
+			"name": "Mage",
+			"img": "/images/mage.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 5,
+			"name": "monk",
+			"img": "/images/monk.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 6,
+			"name": "Paladin",
+			"img": "/images/paladin.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 7,
+			"name": "Priest",
+			"img": "/images/priest.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 8,
+			"name": "Rogue",
+			"img": "/images/rogue.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 9,
+			"name": "Shaman",
+			"img": "/images/shaman.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 10,
+			"name": "Warlock",
+			"img": "/images/warlock.jpg",
+			"size": "24x24"
+		},
+		{
+			"value": 11,
+			"name": "warrior",
+			"img": "/images/warrior.jpg",
+			"size": "24x24"
+		}
+	],
+	"regions": [
+		{
+			"value": 0,
+			"name": "US",
+			"img": "/images/region_us.png",
+			"size": "24x20"
+		},
+		{
+			"value": 1,
+			"name": "EU",
+			"img": "/images/region_eu.png",
+			"size": "24x20"
 		}
 	]
 }

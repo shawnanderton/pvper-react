@@ -76,10 +76,8 @@ $input-hover-color: $pvper-fg;
 // $input-hover-color: $pvper-fg;
 
 // table
-$table-background-color: $pvper-bg;
+$table-background-color: $primary;
 
-$table-head-background-color: $deep-black;
-$table-foot-background-color: $deep-black;
 
 $table-row-hover-background-color: lighten($pvper-selected, 10%);
 $table-row-active-background-color: $pvper-selected;

@@ -8,7 +8,7 @@ export default function Main() {
 		<main className="column is-10">
 			<div className="container">
 				<Routes>
-					<Route path="/leaderboard" element={<Leaderboard />} />
+					<Route path="/leaderboard/:bracket" element={<Leaderboard />} />
 					<Route path="/" element={<Home />} />
 				</Routes>
 			</div>

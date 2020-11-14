@@ -1,7 +1,7 @@
 export enum PVPBRACKETS {
   ARENA_2v2 = '2v2',
   ARENA_3v3 = '3v3',
-  RGB = 'RGB',
+  RBG = 'rbg',
 }
 
 export enum REGIONS {

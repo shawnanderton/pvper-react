@@ -1,13 +1,11 @@
 .checkbox-image {
+	flex: 0 0 auto !important;
 	input[type='checkbox'] {
 		display: none;
 		&:checked + label {
 			img {
 				border: 1px solid white;
 			}
-		}
-		img {
-			padding: .5rem;
 		}
 	}
 }

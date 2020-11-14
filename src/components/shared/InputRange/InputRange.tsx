@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import './input-range.scss';
 
@@ -12,7 +12,7 @@ export default function InputRange({
 	return (
 		<section className="range">
 			<div className="range-input">
-				<label>
+				<label className="label">
 					<span>{label}</span> <span className="is-pulled-right">{value}</span>
 				</label>
 				<input

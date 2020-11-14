@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { PVPBRACKETS } from '../../../enums/blizzard';
 
 export default function LeaderboardTabs({ activeBracket }: IProps) {
@@ -8,15 +9,15 @@ export default function LeaderboardTabs({ activeBracket }: IProps) {
 				<li
 					className={activeBracket === PVPBRACKETS.ARENA_2v2 ? 'is-active' : ''}
 				>
-					<a href="/#">2v2</a>
+					<Link to="/leaderboard/2v2">2v2</Link>
 				</li>
 				<li
 					className={activeBracket === PVPBRACKETS.ARENA_3v3 ? 'is-active' : ''}
 				>
-					<a href="# ">3v3</a>
+					<Link to="/leaderboard/3v3">3v3</Link>
 				</li>
-				<li className={activeBracket === PVPBRACKETS.RGB ? 'is-active' : ''}>
-					<a href="# ">RGB</a>
+				<li className={activeBracket === PVPBRACKETS.RBG ? 'is-active' : ''}>
+					<Link to="/leaderboard/rbg">RBG</Link>
 				</li>
 			</ul>
 		</div>
@@ -24,5 +25,5 @@ export default function LeaderboardTabs({ activeBracket }: IProps) {
 }
 
 interface IProps {
-	activeBracket: PVPBRACKETS;
+	activeBracket: string;
 }

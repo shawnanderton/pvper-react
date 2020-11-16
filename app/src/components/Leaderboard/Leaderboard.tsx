@@ -21,7 +21,9 @@ export default function Leaderboard() {
 	const classes = filter.classes.join(',');
 	const regions = filter.regions.join(',');
 	let { data: characters = [], loading, error } = useFetch<ICharacter[]>(
-		`/leaderboard?classes=${classes}&regions=${regions}&realm=${filter.realm}&rating=${filter.rating}&_page=${page}&_limit=20`,
+		`/leaderboard?classes=${classes || '0'}&regions=${regions || '0'}&realm=${
+			filter.realm
+		}&rating=${filter.rating}&_page=${page}&_limit=20`,
 	);
 
 	if (error) throw error;

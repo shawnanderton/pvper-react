@@ -18,14 +18,14 @@ async function getAndUpdateLeaderboard(
 	region: REGIONS,
 	season: number,
 	pvpBracket: PVPBRACKETS,
+	offset: number,
+	limit: number,
 ): Promise<OperationInput[]> {
 	await blizzardAuthToken.set();
 	const token = await blizzardAuthToken.get();
-	const { entries } = await getLeaderboard(region, season, pvpBracket, token);
-
-	const {
-		resources: characters,
-	} = await characterService.getAll();
+	let { entries } = await getLeaderboard(region, season, pvpBracket, token);
+	entries = entries.slice(offset * limit, offset * limit);
+	const { resources: characters } = await characterService.getAll();
 
 	const operations: OperationInput[] = [];
 

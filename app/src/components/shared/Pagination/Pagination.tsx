@@ -1,4 +1,3 @@
-import { ftruncate } from 'fs';
 import React from 'react';
 import Page from './Page';
 

@@ -4,7 +4,6 @@ import { PVPBRACKETS } from '../../enums/blizzard';
 import ICharacter from '../../interfaces/ICharacter';
 import { getLeaderBoardSearch } from '../../services/leaderboardSearchService';
 import useFetch from '../../services/useFetch';
-import PageNotFound from '../core/PageNotFound';
 import Spinner from '../shared/Spinner';
 import LeaderboardFilter, {
 	ILeaderboardFilterOptions,

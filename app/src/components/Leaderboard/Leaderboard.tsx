@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
+import { PVPBRACKETS } from '../../enums/blizzard';
 import ICharacter from '../../interfaces/ICharacter';
 import { getLeaderBoardSearch } from '../../services/leaderboardSearchService';
 import useFetch from '../../services/useFetch';
@@ -21,9 +22,9 @@ export default function Leaderboard() {
 	const classes = filter.classes.join(',');
 	const regions = filter.regions.join(',');
 	let { data: characters = [], loading, error } = useFetch<ICharacter[]>(
-		`/leaderboard?classes=${classes || '0'}&regions=${regions || '0'}&realm=${
-			filter.realm
-		}&rating=${filter.rating}&_page=${page}&_limit=20`,
+		`/leaderboard/${bracket}?classes=${classes || '0'}&regions=${
+			regions || '0'
+		}&realm=${filter.realm}&rating=${filter.rating}&_page=${page}&_limit=20`,
 	);
 
 	if (error) throw error;
@@ -57,6 +58,7 @@ export default function Leaderboard() {
 					characters={characters}
 					onPageChange={handlePageChange}
 					page={page}
+					pvpBracket={bracket as PVPBRACKETS}
 				/>
 			</div>
 		</section>

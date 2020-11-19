@@ -1,64 +1,65 @@
 {
-  "name": "pvper-react",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.1",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "axios": "^0.21.0",
-    "bulma": "^0.9.1",
-    "history": "^5.0.0",
-    "json-server": "^0.16.2",
-    "npm-run-all": "^4.1.5",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^6.0.0-beta.0",
-    "react-scripts": "^4.0.0"
-  },
-  "scripts": {
-    "start": "run-p start:app start:api",
-    "start:app": "react-scripts start",
-    "start:api": "json-server --port 3001 --watch db.json",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@babel/core": "^7.12.3",
-    "@storybook/addon-actions": "^6.0.28",
-    "@storybook/addon-essentials": "^6.0.28",
-    "@storybook/addon-links": "^6.0.28",
-    "@storybook/node-logger": "^6.0.28",
-    "@storybook/preset-create-react-app": "^3.1.5",
-    "@storybook/react": "^6.0.28",
-    "@types/jest": "^24.9.1",
-    "@types/node": "^12.12.66",
-    "@types/react": "^16.9.51",
-    "@types/react-dom": "^16.9.8",
-    "@types/react-router": "^5.1.8",
-    "@types/react-router-dom": "^5.1.6",
-    "babel-loader": "^8.1.0",
-    "node-sass": "^4.14.1",
-    "react-is": "^17.0.1",
-    "typescript": "^3.7.5"
-  }
+	"name": "pvper-react",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@fortawesome/fontawesome-free": "^5.15.1",
+		"@testing-library/jest-dom": "^4.2.4",
+		"@testing-library/react": "^9.3.2",
+		"@testing-library/user-event": "^7.1.2",
+		"axios": "^0.21.0",
+		"bulma": "^0.9.1",
+		"history": "^5.0.0",
+		"json-server": "^0.16.2",
+		"npm-run-all": "^4.1.5",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1",
+		"react-router-dom": "^6.0.0-beta.0",
+		"react-scripts": "^4.0.0"
+	},
+	"scripts": {
+		"start": "run-p start:app start:api",
+		"start:app": "react-scripts start",
+		"start:api": "json-server --port 3001 --watch db.json",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject",
+		"storybook": "start-storybook -p 6006 -s public",
+		"build-storybook": "build-storybook -s public"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"proxy": "http://localhost:7071/",
+	"devDependencies": {
+		"@babel/core": "^7.12.3",
+		"@storybook/addon-actions": "^6.0.28",
+		"@storybook/addon-essentials": "^6.0.28",
+		"@storybook/addon-links": "^6.0.28",
+		"@storybook/node-logger": "^6.0.28",
+		"@storybook/preset-create-react-app": "^3.1.5",
+		"@storybook/react": "^6.0.28",
+		"@types/jest": "^24.9.1",
+		"@types/node": "^12.12.66",
+		"@types/react": "^16.9.51",
+		"@types/react-dom": "^16.9.8",
+		"@types/react-router": "^5.1.8",
+		"@types/react-router-dom": "^5.1.6",
+		"babel-loader": "^8.1.0",
+		"node-sass": "^4.14.1",
+		"react-is": "^17.0.1",
+		"typescript": "^3.7.5"
+	}
 }

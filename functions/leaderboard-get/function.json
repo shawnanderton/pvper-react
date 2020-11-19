@@ -1,0 +1,18 @@
+{
+	"bindings": [
+		{
+			"authLevel": "anonymous",
+			"type": "httpTrigger",
+			"direction": "in",
+			"name": "req",
+			"methods": ["get"],
+			"route": "leaderboard/{bracket}"
+		},
+		{
+			"type": "http",
+			"direction": "out",
+			"name": "res"
+		}
+	],
+	"scriptFile": "../dist/leaderboard-get/index.js"
+}

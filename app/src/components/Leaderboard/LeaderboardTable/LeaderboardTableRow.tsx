@@ -1,10 +1,12 @@
 import React from 'react';
+import { PVPBRACKETS } from '../../../enums/blizzard';
 import ICharacter from '../../../interfaces/ICharacter';
+import { IPvpBracket } from '../../../interfaces/IPvpBracket';
 import CharacterCard from '../../shared/CharacterCard/CharacterCard';
 import PvpProgressBar from '../../shared/PvpProgressBar';
 
-export default function LeaderboardTableRow({ character }: IProps) {
-	const bracket = character.brackets?.find((b) => b.name === '3v3');
+export default function LeaderboardTableRow({ character, pvpBracket }: IProps) {
+	const bracket: IPvpBracket = character[`current_${pvpBracket}`] as IPvpBracket;
 	const backgroundColor = `has-background-${character.faction}-color`;
 	return (
 		<tr className={backgroundColor}>
@@ -29,4 +31,5 @@ export default function LeaderboardTableRow({ character }: IProps) {
 
 interface IProps {
 	character: ICharacter;
+	pvpBracket: PVPBRACKETS;
 }

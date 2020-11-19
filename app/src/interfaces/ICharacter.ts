@@ -2,9 +2,9 @@ import { REGIONS } from '../enums/blizzard';
 import { IPvpBracket } from './IPvpBracket';
 
 export default interface ICharacter {
+	[key: string]: any;
 	blizzardId: number;
 	name: string;
-	bracket: IPvpBracket;
 	brackets?: IPvpBracket[];
 	faction: string;
 	realm: string;

@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { PVPBRACKETS, REGIONS, Namespace } from '../enums/blizzard';
+import { IPvpLeaderboard } from '../interfaces/IBlizzard';
 import { IBlizzardCharacterProfile } from '../interfaces/IBlizzardCharacterProfile';
 
 async function getLeaderboard(
@@ -10,7 +11,7 @@ async function getLeaderboard(
 ) {
   const url = `https://${region}.api.blizzard.com/data/wow/pvp-season/${pvpSeasonId}/pvp-leaderboard/${pvpBracket}?namespace=${Namespace.Dynamic}-${region}&access_token=${token}`;
   const response = await axios.get(url);
-  return response.data;
+  return response.data as IPvpLeaderboard;
 }
 function getUrl(
   region: REGIONS,

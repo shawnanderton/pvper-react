@@ -5,8 +5,8 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 const endpoint = process.env.CORE_API_URL;
 const masterKey = process.env.CORE_API_KEY;
 
-const databaseDefName = 'blizzard';
-const characterContainerName = 'Characters';
+const databaseDefName = 'wow-db';
+const characterContainerName = 'characters';
 
 const client = new CosmosClient({ endpoint, key: masterKey });
 

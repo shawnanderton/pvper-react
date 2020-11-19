@@ -6,4 +6,5 @@ export interface IPvpBracket {
 	played: number;
 	won: number;
 	lost: number;
+	date: Date;
 }

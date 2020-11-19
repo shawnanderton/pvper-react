@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 
-const baseUrl = process.env.REACT_APP_API_BASE_URL;
+const baseUrl = '/api';
 
 export default function useFetch<T>(url: string) {
 	const isMounted = useRef(false);

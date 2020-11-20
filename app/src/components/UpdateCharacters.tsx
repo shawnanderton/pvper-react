@@ -10,8 +10,7 @@ export default function UpdateCharacters() {
 		`/leaderboard-update/${bracket}?_offset=${offset}&_limit=100`,
 	);
 	if (error) throw error;
-	if (loading) {
-		debugger;
+	if (loading) {	
 		return <Spinner />;
 	}
 

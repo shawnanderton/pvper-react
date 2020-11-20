@@ -5,24 +5,17 @@ import LeaderboardTableBody from './LeaderboardTableBody';
 import LeaderboardTableFooter from './LeaderboardTableFooter';
 import LeaderboardTableHeader from './LeaderboardTableHeader';
 
-export default function LeaderboardTable({
-	characters,
-	page,
-	onPageChange,
-	pvpBracket,
-}: Props) {
+export default function LeaderboardTable({ characters, pvpBracket }: Props) {
 	return (
 		<table className="table is-narrow is-fullwidth">
 			<LeaderboardTableHeader />
 			<LeaderboardTableBody characters={characters} pvpBracket={pvpBracket} />
-			<LeaderboardTableFooter onPageChange={onPageChange} page={page} />
+			<LeaderboardTableFooter />
 		</table>
 	);
 }
 
 interface Props {
 	characters: ICharacter[];
-	onPageChange(page: number): void;
-	page: number;
 	pvpBracket: PVPBRACKETS;
 }

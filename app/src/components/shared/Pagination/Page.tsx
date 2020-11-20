@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 
 export default function Page({
 	text,
@@ -6,21 +8,17 @@ export default function Page({
 	isActive,
 	linkClass,
 	ariaLabel,
-	onClick,
 }: IProp) {
-	function handleClick(event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) {
-		event.preventDefault();
-		onClick(num);
-	}
+	const location = useLocation();
+	const queryParams = new URLSearchParams(location.search);
+	queryParams.set('page', num.toString());
+
 	return (
-		<a
-			className={`${linkClass} ${isActive ? 'is-current' : ''}`}
-			href="# "
-			aria-label={ariaLabel}
-			onClick={handleClick}
+		<Link className={linkClass}
+			to={{ pathname: location.pathname, search: `?${queryParams.toString()}` }}
 		>
 			{text}
-		</a>
+		</Link>
 	);
 }
 
@@ -30,5 +28,4 @@ interface IProp {
 	isActive: boolean;
 	linkClass: string;
 	ariaLabel: string;
-	onClick(num: number): void;
 }

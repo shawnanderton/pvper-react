@@ -1,13 +1,14 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { PVPBRACKETS } from '../../enums/blizzard';
 import ICharacter from '../../interfaces/ICharacter';
 import { getLeaderBoardSearch } from '../../services/leaderboardSearchService';
 import useFetch from '../../services/useFetch';
+import { usePagination } from '../shared/Pagination/useContext';
 import Spinner from '../shared/Spinner';
 import LeaderboardFilter, {
 	ILeaderboardFilterOptions,
-} from './LeaderboardSearch/LeaderboardFilter';
+} from './LeaderboardFilter/LeaderboardFilter';
 import LeaderboardTable from './LeaderboardTable/LeaderboardTable';
 import LeaderboardTabs from './LeaderboardTabs/LeaderboardTabs';
 
@@ -17,14 +18,23 @@ export default function Leaderboard() {
 	const [filter, setFilter] = useState<ILeaderboardFilterOptions>(
 		defaultFilter,
 	);
-	const [page, setPage] = useState<number>(1);
+	const { pagination, setPagination } = usePagination();
 	const classes = filter.classes.join(',');
 	const regions = filter.regions.join(',');
-	let { data: characters = [], loading, error } = useFetch<ICharacter[]>(
+	let { data: characters = [], loading, error, total } = useFetch<ICharacter[]>(
 		`/leaderboard/${bracket}?classes=${classes || '0'}&regions=${
 			regions || '0'
-		}&realm=${filter.realm}&rating=${filter.rating}&_page=${page}&_limit=20`,
+		}&realm=${filter.realm}&rating=${filter.rating}&_page=${
+			pagination.page
+		}&_limit=${pagination.limit}`,
 	);
+	
+	useEffect(() => {
+		setPagination((p) => {
+			return { ...p, total };
+		});
+	}, [setPagination, total])
+	
 
 	if (error) throw error;
 	if (loading) return <Spinner />;
@@ -36,10 +46,6 @@ export default function Leaderboard() {
 
 	function handleFilterSubmit(f: ILeaderboardFilterOptions) {
 		setFilter(f);
-	}
-
-	function handlePageChange(page: number) {
-		setPage(page);
 	}
 
 	return (
@@ -55,8 +61,6 @@ export default function Leaderboard() {
 				/>
 				<LeaderboardTable
 					characters={characters}
-					onPageChange={handlePageChange}
-					page={page}
 					pvpBracket={bracket as PVPBRACKETS}
 				/>
 			</div>

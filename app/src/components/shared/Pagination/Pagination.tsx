@@ -1,27 +1,25 @@
 import React from 'react';
 import Page from './Page';
+import { usePagination } from './useContext';
 
-export default function Pagination({
-	activePage,
-	total,
-	perPage,
-	pageRangeDisplayed,
-	onChange,
-}: IProp) {
-  
-	let totalPages = Math.ceil(total / perPage);
-	let firstPage = Math.max(1, activePage - Math.floor(pageRangeDisplayed / 2));
+export default function Pagination() {
+	const { pagination } = usePagination();
+	let totalPages = Math.ceil(pagination.total / pagination.limit);
+	let firstPage = Math.max(
+		1,
+		pagination.page - Math.floor(pagination.range / 2),
+	);
 	let lastPage = Math.min(
 		totalPages,
-		activePage + Math.floor(pageRangeDisplayed / 2),
+		pagination.page + Math.floor(pagination.range / 2),
 	);
+
 	function getPrevious() {
-		if ((activePage !== 1)) {
+		if (pagination.page !== 1) {
 			return (
 				<Page
-					onClick={onChange}
 					linkClass="pagination-previous"
-					num={activePage - 1}
+					num={pagination.page - 1}
 					text="Previous"
 					isActive={false}
 					ariaLabel=""
@@ -31,12 +29,11 @@ export default function Pagination({
 		return;
 	}
 	function getNext() {
-		if (activePage !== totalPages) {
+		if (pagination.page !== totalPages) {
 			return (
 				<Page
-					onClick={onChange}
 					linkClass="pagination-next"
-					num={activePage + 1}
+					num={pagination.page + 1}
 					text="Next"
 					isActive={false}
 					ariaLabel=""
@@ -46,21 +43,20 @@ export default function Pagination({
 	}
 
 	function getPages() {
-        const pages = [];
+		const pages = [];
 		for (let i = firstPage; i <= lastPage; i++) {
 			pages.push(
 				<li key={i}>
 					<Page
-						isActive={i === activePage}
+						isActive={i === pagination.page}
 						linkClass="pagination-link"
 						text={i + ''}
 						num={i}
-						onClick={onChange}
 						ariaLabel={`Goto page ${i} `}
 					/>
 				</li>,
 			);
-        }
+		}
 		return pages;
 	}
 
@@ -78,7 +74,6 @@ export default function Pagination({
 }
 
 interface IProp {
-	onChange(num: number): void;
 	activePage: number;
 	total: number;
 	perPage: number;

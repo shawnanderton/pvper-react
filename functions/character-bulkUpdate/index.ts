@@ -17,6 +17,7 @@ const httpTrigger: AzureFunction = async function (
 			parseInt(_limit),
 		);
 		if (operations.length > 0) await characterService.bulkSave(operations);
+		context.res.status(200).json({ done: true });
 	} catch (err) {
 		console.log(err.message);
 	}

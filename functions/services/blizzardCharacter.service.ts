@@ -24,7 +24,7 @@ async function getAndUpdateLeaderboard(
 	await blizzardAuthToken.set();
 	const token = await blizzardAuthToken.get();
 	let { entries } = await getLeaderboard(region, season, pvpBracket, token);
-	entries = entries.slice(offset * limit, offset * limit);
+	entries = entries.slice(offset - 1, offset * limit);
 	const { resources: characters } = await characterService.getAll();
 
 	const operations: OperationInput[] = [];

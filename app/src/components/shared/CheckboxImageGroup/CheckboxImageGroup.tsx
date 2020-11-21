@@ -12,7 +12,7 @@ export default function CheckboxImageGroup({
 	onAnyClick,
 }: IProps) {
 	function handleChange(event: React.ChangeEvent<HTMLInputElement>) {
-		onChange(name, parseInt(event.target.value));
+		onChange(name, event.target.value);
 	}
 
 	function handleAnyClick(
@@ -33,7 +33,7 @@ export default function CheckboxImageGroup({
 								<Checkbox
 									key={o.name}
 									option={o}
-									isChecked={selected.some((s) => s === o.value)}
+									isChecked={selected.some((s: string) => s === o.slug)}
 									onChange={handleChange}
 								/>
 							);
@@ -54,7 +54,7 @@ interface IProps {
 	label: string;
 	name: string;
 	options: IOption[] | null;
-	selected: number[];
-	onChange(name: string, value: number): void;
+	selected: string[];
+	onChange(name: string, value: number | string): void;
 	onAnyClick(name: string): void;
 }

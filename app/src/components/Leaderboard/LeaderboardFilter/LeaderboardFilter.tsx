@@ -5,15 +5,15 @@ import CheckboxImageGroup from '../../shared/CheckboxImageGroup/CheckboxImageGro
 import InputRange from '../../shared/InputRange/InputRange';
 import Select, { ISelectOptions } from '../../shared/Select/Select';
 import Spinner from '../../shared/Spinner';
-
+import { useNavigate, useLocation } from 'react-router-dom';
 import './leaderboard-filter.scss';
+import { useLeaderboardFilter } from './leaderBoardFilterContext';
 
-export default function LeaderboardSearch({
-	defaultFilter,
-	onResetClick,
-	onFilterSubmit,
-}: IProps) {
-	const [filter, setFilter] = useState(defaultFilter);
+export default function LeaderboardSearch() {
+	const navigate = useNavigate();
+	const location = useLocation();
+	const { filters } = useLeaderboardFilter();
+	const [tempFilter, setTempFilter] = useState(filters);
 	const {
 		data: regions,
 		loading: loadingRegions,
@@ -32,44 +32,56 @@ export default function LeaderboardSearch({
 	if (errorClasses || errorRealms || errorRegions) throw errorClasses;
 	if (loadingClasses || loadingRealms || loadingRegions) return <Spinner />;
 
-	function handCheckboxImageGroupChange(name: string, value: number): void {
-		const arr = filter[name] as number[];
-		const alreadyInArray = arr.find((i) => i === value);
-		setFilter((f) => {
+	function handCheckboxImageGroupChange(name: string, slug: string): void {
+		const arr = tempFilter[name] as string[];
+		const alreadyInArray = arr.find((i) => i === slug);
+		setTempFilter((f) => {
 			if (alreadyInArray) {
 				return {
 					...f,
-					[name]: arr.filter((a) => a === value),
+					[name]: arr.filter((a) => a === slug),
 				};
 			} else {
-				return { ...f, [name]: [...arr, value] };
+				return { ...f, [name]: [...arr, slug] };
 			}
 		});
 	}
 
 	function handleAnyClick(name: string) {
-		setFilter((f) => {
+		setTempFilter((f) => {
 			return { ...f, [name]: [] };
 		});
 	}
 
 	function handleRealmChange(event: React.ChangeEvent<HTMLSelectElement>) {
-		setFilter((f) => {
+		setTempFilter((f) => {
 			return {
-				...filter,
-				realm: parseInt(event.target.value),
+				...f,
+				realm: event.target.value,
 			};
 		});
 	}
 
 	function handleRangeChange(event: React.ChangeEvent<HTMLInputElement>) {
-		setFilter((f) => {
-			return { ...filter, rating: parseInt(event.target.value) };
+		setTempFilter((f) => {
+			return { ...f, rating: parseInt(event.target.value) };
 		});
 	}
 	function handleFilterSubmit() {
-		onFilterSubmit(filter);
+		const queryParams = new URLSearchParams(location.search);
+		const classes = tempFilter.classes.join('_');
+		queryParams.set('realms', tempFilter.realm);
+		queryParams.set('classes', encodeURIComponent(classes));
+		queryParams.set('rating', tempFilter.rating.toString());
+		queryParams.set('regions', tempFilter.regions.join('_'));
+		debugger;
+		navigate({
+			pathname: location.pathname,
+			search: `?${queryParams.toString()}`,
+		});
 	}
+
+	function handleResetClick() {}
 
 	return (
 		<section style={{ height: 150 }} className="leaderboard-search">
@@ -78,7 +90,7 @@ export default function LeaderboardSearch({
 					<CheckboxImageGroup
 						options={regions}
 						name="regions"
-						selected={filter.regions}
+						selected={tempFilter.regions}
 						label="Regions"
 						onChange={handCheckboxImageGroupChange}
 						onAnyClick={handleAnyClick}
@@ -88,7 +100,7 @@ export default function LeaderboardSearch({
 					<Select
 						options={realms}
 						label="Realms"
-						selected={filter.realm}
+						selected={tempFilter.realm}
 						onChange={handleRealmChange}
 					/>
 				</div>
@@ -96,7 +108,7 @@ export default function LeaderboardSearch({
 					<CheckboxImageGroup
 						options={classes}
 						name="classes"
-						selected={filter.classes}
+						selected={tempFilter.classes}
 						label="Classes"
 						onChange={handCheckboxImageGroupChange}
 						onAnyClick={handleAnyClick}
@@ -106,7 +118,7 @@ export default function LeaderboardSearch({
 					<InputRange
 						min={0}
 						max={4000}
-						value={filter.rating}
+						value={tempFilter.rating}
 						label="Rating"
 						onChange={handleRangeChange}
 					/>
@@ -119,7 +131,7 @@ export default function LeaderboardSearch({
 					</span>
 					<span>Filter</span>
 				</button>
-				<button className="button is-small" onClick={onResetClick}>
+				<button className="button is-small" onClick={handleResetClick}>
 					<span className="icon">
 						<i className="fas fa-times"></i>
 					</span>
@@ -128,18 +140,4 @@ export default function LeaderboardSearch({
 			</p>
 		</section>
 	);
-}
-
-export interface ILeaderboardFilterOptions {
-	[key: string]: number[] | number | string | null;
-	regions: number[];
-	classes: number[];
-	realm: number;
-	rating: number;
-}
-
-interface IProps {
-	defaultFilter: ILeaderboardFilterOptions;
-	onFilterSubmit(filter: ILeaderboardFilterOptions): void;
-	onResetClick(): void;
 }

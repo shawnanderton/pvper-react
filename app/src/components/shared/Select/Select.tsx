@@ -11,7 +11,7 @@ export default function Select({ options, label, selected, onChange }: IProp) {
 							<option key="any">Any</option>
 							{options?.map((o) => {
 								return (
-									<option key={o.value} value={o.value}>
+									<option key={o.value} value={o.name}>
 										{o.name}
 									</option>
 								);
@@ -31,7 +31,7 @@ export interface ISelectOptions {
 
 interface IProp {
 	label: string;
-	selected: number;
+	selected: string;
 	options: ISelectOptions[] | null;
 	onChange(event: React.ChangeEvent<HTMLSelectElement>): void;
 }

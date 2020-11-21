@@ -4,11 +4,11 @@ import './checkbox-image.scss';
 
 export default function Checkbox({ option, isChecked, onChange }: IProps) {
 	return (
-		<div key={option.value} className="checkbox-image column">
+		<div key={option.slug} className="checkbox-image column">
 			<input
 				onChange={onChange}
 				type="checkbox"
-				value={option.value}
+				value={option.slug}
 				id={`checkbox-${option.name}`}
 				checked={isChecked}
 			/>
@@ -22,7 +22,7 @@ export default function Checkbox({ option, isChecked, onChange }: IProps) {
 }
 
 export interface IOption {
-	value: number;
+	slug: number | string;
 	name: string;
 	img: string;
 	size: string;

@@ -1,6 +1,6 @@
 import React from 'react';
 import Page from './Page';
-import { usePagination } from './useContext';
+import { usePagination } from './paginationContext';
 
 export default function Pagination() {
 	const { pagination } = usePagination();
@@ -71,11 +71,4 @@ export default function Pagination() {
 			<ul className="pagination-list">{getPages()}</ul>
 		</nav>
 	);
-}
-
-interface IProp {
-	activePage: number;
-	total: number;
-	perPage: number;
-	pageRangeDisplayed: number;
 }

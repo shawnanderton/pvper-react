@@ -6,13 +6,13 @@ const httpTrigger: AzureFunction = async function (
 ): Promise<void> {
 	context.res.status(200).json([
 		{
-			value: 0,
+			slug: 'us',
 			name: 'US',
 			img: '/images/region_us.png',
 			size: '24x20',
 		},
 		{
-			value: 1,
+			slug: 'eu',
 			name: 'EU',
 			img: '/images/region_eu.png',
 			size: '24x20',

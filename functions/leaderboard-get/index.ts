@@ -5,6 +5,7 @@ const httpTrigger: AzureFunction = async function (
 	context: Context,
 	req: HttpRequest,
 ): Promise<void> {
+	context.res.status(200).json([]);
 	const bracket = context.req.params.bracket;
 	const { _page, _limit } = context.req.query;
 

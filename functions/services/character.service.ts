@@ -64,7 +64,51 @@ async function getLeaderboards(
 	realm: string,
 	rating: number,
 ): Promise<ICharacter[]> {
-	console.log(`Querying container: Items`);
+	let whereClause = getWhereClause(classes, regions, realm, rating, bracket);
+
+	const querySpec = {
+		query: `SELECT c.name, c.current_${bracket}, c.faction, c.realm, c.gender, c.level, c.guild, c.itemLevel, c.title, c.class, c.spec, c.race, c.id from c
+		${whereClause}
+		ORDER BY c.current_${bracket}.rating DESC
+		OFFSET ${(page - 1) * limit} LIMIT ${limit}`,
+	};
+
+	const { resources: items } = await container.items
+		.query(querySpec)
+		.fetchAll();
+	return items;
+}
+
+async function getTotalCount(
+	bracket: string,
+	classes: string,
+	regions: string,
+	realm: string,
+	rating: number,
+) {
+	let whereClause = getWhereClause(classes, regions, realm, rating, bracket);
+	whereClause = whereClause
+		? `${whereClause} AND c.current_${bracket} != null`
+		: `WHERE c.current_${bracket} != null`;
+
+	const querySpec = {
+		query: `SELECT  COUNT(c) as total from c ${whereClause}`,
+	};
+	console.log(querySpec);
+	// read all items in the Items container
+	const { resources: items } = await container.items
+		.query(querySpec)
+		.fetchAll();
+	return items[0].total;
+}
+
+function getWhereClause(
+	classes: string,
+	regions: string,
+	realm: string,
+	rating: number,
+	bracket: string,
+) {
 	let whereClause = '';
 	if (classes) {
 		whereClause = `${whereClause} WHERE LOWER(c.class) IN ('${classes}')`;
@@ -84,31 +128,7 @@ async function getLeaderboards(
 			? `${whereClause} AND c.current_${bracket}.rating > ${rating}`
 			: `${whereClause} WHERE c.current_${bracket}.rating > ${rating}`;
 	}
-
-	const querySpec = {
-		query: `SELECT c.name, c.current_${bracket}, c.faction, c.realm, c.gender, c.level, c.guild, c.itemLevel, c.title, c.class, c.spec, c.race, c.id from c
-		${whereClause ? whereClause : ''}
-		ORDER BY c.current_${bracket}.rating DESC
-		OFFSET ${(page - 1) * limit} LIMIT ${limit}`,
-	};
-
-	const { resources: items } = await container.items
-		.query(querySpec)
-		.fetchAll();
-	return items;
-}
-async function getTotalCount(bracket: string) {
-	console.log(`Querying container: Items`);
-
-	const querySpec = {
-		query: `SELECT  COUNT(c) as total from c WHERE c.current_${bracket} != null`,
-	};
-
-	// read all items in the Items container
-	const { resources: items } = await container.items
-		.query(querySpec)
-		.fetchAll();
-	return items[0].total;
+	return whereClause;
 }
 
 export default {

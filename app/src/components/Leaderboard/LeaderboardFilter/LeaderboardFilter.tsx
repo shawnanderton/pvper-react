@@ -84,6 +84,8 @@ export default function LeaderboardSearch() {
 		filters.regions.length > 0
 			? queryParams.set('regions', filters.regions.join('_'))
 			: queryParams.delete('regions');
+		
+			queryParams.set('page', '1');
 		navigate({
 			pathname: location.pathname,
 			search: `?${queryParams.toString()}`,

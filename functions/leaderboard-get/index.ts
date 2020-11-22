@@ -30,6 +30,10 @@ const httpTrigger: AzureFunction = async function (
 
 		context.res.headers['X-Total-Count'] = await characterService.getTotalCount(
 			bracket,
+			classes,
+			regions,
+			realm,
+			ratingNumber,
 		);
 		context.res.status(200).json(await entriesPromise);
 	} catch (error) {

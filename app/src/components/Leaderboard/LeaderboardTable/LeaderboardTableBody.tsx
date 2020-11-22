@@ -12,7 +12,7 @@ export default function LeaderboardTableBody({
 			{characters.map((character: ICharacter) => {
 				return (
 					<LeaderboardTableRow
-						key={character.blizzardId}
+						key={character.id}
 						character={character}
 						pvpBracket={pvpBracket}
 					/>

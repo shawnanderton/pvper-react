@@ -81,8 +81,8 @@ async function getLeaderboards(
 	}
 	if (rating > 0) {
 		whereClause = whereClause
-			? `${whereClause} AND c.rating > ${rating}`
-			: `${whereClause} WHERE c.rating > ${rating}`;
+			? `${whereClause} AND c.current_${bracket}.rating > ${rating}`
+			: `${whereClause} WHERE c.current_${bracket}.rating > ${rating}`;
 	}
 
 	const querySpec = {

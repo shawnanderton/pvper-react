@@ -1,9 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import { PVPBRACKETS } from '../../enums/blizzard';
-import ICharacter from '../../interfaces/ICharacter';
-import useFetch from '../../services/useFetch';
-import { usePagination } from '../shared/Pagination/paginationContext';
 import Spinner from '../shared/Spinner';
 import LeaderboardFilter from './LeaderboardFilter/LeaderboardFilter';
 import LeaderboardTable from './LeaderboardTable/LeaderboardTable';

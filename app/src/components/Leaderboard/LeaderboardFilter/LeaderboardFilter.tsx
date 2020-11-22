@@ -7,16 +7,15 @@ import Select, { ISelectOptions } from '../../shared/Select/Select';
 import Spinner from '../../shared/Spinner';
 import { useNavigate, useLocation } from 'react-router-dom';
 import './leaderboard-filter.scss';
+import { useLeaderboardFilter } from './leaderboardFilterContext';
 
 export default function LeaderboardSearch() {
 	const navigate = useNavigate();
 	const location = useLocation();
-	const [filters, setFilters] = useState<ILeaderboardFilter>({
-		realm: '',
-		classes: [],
-		regions: [],
-		rating: 0,
-	});
+	const { leaderboardFilters } = useLeaderboardFilter();
+	const [filters, setFilters] = useState<ILeaderboardFilter>(
+		leaderboardFilters,
+	);
 	const {
 		data: regions,
 		loading: loadingRegions,

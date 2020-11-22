@@ -14,7 +14,8 @@ export default function Page({
 	queryParams.set('page', num.toString());
 
 	return (
-		<Link className={linkClass}
+		<Link
+			className={`${linkClass} ${isActive ? 'is-current' : ''}`}
 			to={{ pathname: location.pathname, search: `?${queryParams.toString()}` }}
 		>
 			{text}

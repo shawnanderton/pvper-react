@@ -8,13 +8,13 @@ const httpTrigger: AzureFunction = async function (
 		{
 			slug: 'death-knight',
 			name: 'death Knight',
-			img: '/images/deathknight.jpg',
+			img: '/images/death-knight.jpg',
 			size: '24x24',
 		},
 		{
 			slug: 'demon-hunter',
 			name: 'Demon Hunter',
-			img: '/images/demonhunter.jpg',
+			img: '/images/demon-hunter.jpg',
 			size: '24x24',
 		},
 		{

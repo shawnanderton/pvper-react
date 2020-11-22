@@ -1,16 +1,14 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 
 const baseUrl = '/api';
 
-export default function useFetch<T>(url: string) {
-	const isMounted = useRef(false);
+export default function useFetch<T>(url: string | undefined): any {
 	const [data, setData] = useState<T | null>(null);
 	const [total, setTotal] = useState(0);
 	const [error, setError] = useState(null);
 	const [loading, setLoading] = useState(true);
 
 	useEffect(() => {
-		isMounted.current = true;
 		async function init() {
 			try {
 				const response = await fetch(baseUrl + url);
@@ -18,22 +16,20 @@ export default function useFetch<T>(url: string) {
 					const json = await response.json();
 					const t = parseInt(response.headers.get('x-total-count') || '0');
 					setTotal(t);
-					if (isMounted.current) setData(json);
+					setData(json);
 				} else {
 					throw response;
 				}
 			} catch (e) {
-				if (isMounted.current) setError(e);
+				setError(e);
 				console.log(e);
 			} finally {
-				if (isMounted.current) setLoading(false);
+				setLoading(false);
 			}
 		}
-		init();
-
-		return () => {
-			isMounted.current = false;
-		};
+		if (url) {
+			init();
+		}
 	}, [url]);
 
 	return { data, error, loading, total };

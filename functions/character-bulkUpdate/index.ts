@@ -6,7 +6,6 @@ const httpTrigger: AzureFunction = async function (
 	context: Context,
 	req: HttpRequest,
 ): Promise<void> {
-	return;
 	const bracket = context.req.params.bracket;
 	const { _offset, _limit } = context.req.query;
 	try {

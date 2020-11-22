@@ -7,13 +7,15 @@ import Select, { ISelectOptions } from '../../shared/Select/Select';
 import Spinner from '../../shared/Spinner';
 import { useNavigate, useLocation } from 'react-router-dom';
 import './leaderboard-filter.scss';
-import { useLeaderboardFilter } from './leaderBoardFilterContext';
+import { useLeaderboardFilter } from './leaderboardFilterContext';
 
 export default function LeaderboardSearch() {
 	const navigate = useNavigate();
 	const location = useLocation();
-	const { filters } = useLeaderboardFilter();
-	const [tempFilter, setTempFilter] = useState(filters);
+	const { leaderboardFilters } = useLeaderboardFilter();
+	const [filters, setFilters] = useState<ILeaderboardFilter>(
+		leaderboardFilters,
+	);
 	const {
 		data: regions,
 		loading: loadingRegions,
@@ -33,13 +35,13 @@ export default function LeaderboardSearch() {
 	if (loadingClasses || loadingRealms || loadingRegions) return <Spinner />;
 
 	function handCheckboxImageGroupChange(name: string, slug: string): void {
-		const arr = tempFilter[name] as string[];
+		const arr = filters[name] as string[];
 		const alreadyInArray = arr.find((i) => i === slug);
-		setTempFilter((f) => {
+		setFilters((f) => {
 			if (alreadyInArray) {
 				return {
 					...f,
-					[name]: arr.filter((a) => a === slug),
+					[name]: arr.filter((a) => a !== slug),
 				};
 			} else {
 				return { ...f, [name]: [...arr, slug] };
@@ -48,13 +50,13 @@ export default function LeaderboardSearch() {
 	}
 
 	function handleAnyClick(name: string) {
-		setTempFilter((f) => {
+		setFilters((f) => {
 			return { ...f, [name]: [] };
 		});
 	}
 
 	function handleRealmChange(event: React.ChangeEvent<HTMLSelectElement>) {
-		setTempFilter((f) => {
+		setFilters((f) => {
 			return {
 				...f,
 				realm: event.target.value,
@@ -63,18 +65,25 @@ export default function LeaderboardSearch() {
 	}
 
 	function handleRangeChange(event: React.ChangeEvent<HTMLInputElement>) {
-		setTempFilter((f) => {
+		setFilters((f) => {
 			return { ...f, rating: parseInt(event.target.value) };
 		});
 	}
 	function handleFilterSubmit() {
 		const queryParams = new URLSearchParams(location.search);
-		const classes = tempFilter.classes.join('_');
-		queryParams.set('realms', tempFilter.realm);
-		queryParams.set('classes', encodeURIComponent(classes));
-		queryParams.set('rating', tempFilter.rating.toString());
-		queryParams.set('regions', tempFilter.regions.join('_'));
-		debugger;
+
+		filters.realm
+			? queryParams.set('realms', filters.realm)
+			: queryParams.delete('realms');
+		filters.classes.length > 0
+			? queryParams.set('classes', filters.classes.join('_'))
+			: queryParams.delete('classes');
+		filters.rating
+			? queryParams.set('rating', filters.rating.toString())
+			: queryParams.delete('rating');
+		filters.regions.length > 0
+			? queryParams.set('regions', filters.regions.join('_'))
+			: queryParams.delete('regions');
 		navigate({
 			pathname: location.pathname,
 			search: `?${queryParams.toString()}`,
@@ -90,7 +99,7 @@ export default function LeaderboardSearch() {
 					<CheckboxImageGroup
 						options={regions}
 						name="regions"
-						selected={tempFilter.regions}
+						selected={filters.regions}
 						label="Regions"
 						onChange={handCheckboxImageGroupChange}
 						onAnyClick={handleAnyClick}
@@ -100,7 +109,7 @@ export default function LeaderboardSearch() {
 					<Select
 						options={realms}
 						label="Realms"
-						selected={tempFilter.realm}
+						selected={filters.realm}
 						onChange={handleRealmChange}
 					/>
 				</div>
@@ -108,7 +117,7 @@ export default function LeaderboardSearch() {
 					<CheckboxImageGroup
 						options={classes}
 						name="classes"
-						selected={tempFilter.classes}
+						selected={filters.classes}
 						label="Classes"
 						onChange={handCheckboxImageGroupChange}
 						onAnyClick={handleAnyClick}
@@ -118,7 +127,7 @@ export default function LeaderboardSearch() {
 					<InputRange
 						min={0}
 						max={4000}
-						value={tempFilter.rating}
+						value={filters.rating}
 						label="Rating"
 						onChange={handleRangeChange}
 					/>
@@ -140,4 +149,12 @@ export default function LeaderboardSearch() {
 			</p>
 		</section>
 	);
+}
+
+export interface ILeaderboardFilter {
+	[key: string]: string[] | number | string | null;
+	regions: string[];
+	classes: string[];
+	realm: string;
+	rating: number;
 }

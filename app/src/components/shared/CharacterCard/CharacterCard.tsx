@@ -5,13 +5,13 @@ import Image from '../Image/Image';
 import './character-card.scss';
 
 export default function CharacterCard({ character, backgroundColor }: IProps) {
-	const imageName = character.class.toLowerCase().replace(/\s+/g, '');
+	const classSlug = character.class.toLowerCase().replace(/\s+/g, '-');
 	return (
 		<div className={`card character-card ${backgroundColor}`}>
 			<div className="card-content">
 				<div className="media">
 					<div className="media-left">
-						<Image filename={imageName} type="jpg" size={32} />
+						<Image filename={classSlug} type="jpg" size={32} />
 					</div>
 					<div className="media-content character-name has-right-border">
 						<small className="is-6 has-text-white">{character.title}</small>
@@ -23,9 +23,10 @@ export default function CharacterCard({ character, backgroundColor }: IProps) {
 							{character.itemLevel} ILVL
 						</strong>
 						<br />
-						<small className="is-6 has-text-white {{ classTextColor }}">
+						<small className="is-6 has-text-white">
 							{character.level} {character.race} {character.spec}{' '}
-							{character.class} {character.guild}
+							<span className={`color-${classSlug}`}>{character.class}</span>
+							{`<${character.guild}>`}
 							{character.realm}
 						</small>
 					</div>

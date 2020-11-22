@@ -6,13 +6,20 @@ const httpTrigger: AzureFunction = async function (
 	req: HttpRequest,
 ): Promise<void> {
 	const bracket = context.req.params.bracket;
-	const { page, limit } = context.req.query;
+	let { page, limit, classes, regions, realm, rating } = context.req.query;
 
+	classes = classes ? classes.toLowerCase().replace(/_/g, ' ') : '';
+	classes = regions ? regions.toLowerCase().replace(/_/g, ' ') : '';
+	const ratingNumber: number = isNaN(parseInt(rating)) ? 0 : parseInt(rating);
 	try {
 		const entriesPromise = characterService.getLeaderboards(
 			bracket,
 			parseInt(page),
 			parseInt(limit),
+			classes,
+			regions,
+			realm,
+			ratingNumber,
 		);
 
 		context.res.headers['X-Total-Count'] = await characterService.getTotalCount(

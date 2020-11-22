@@ -59,12 +59,36 @@ async function getLeaderboards(
 	bracket: string,
 	page: number,
 	limit: number,
+	classes: string,
+	regions: string,
+	realm: string,
+	rating: number,
 ): Promise<ICharacter[]> {
 	console.log(`Querying container: Items`);
+	let whereClause = '';
+	if (classes) {
+		whereClause = `${whereClause} WHERE c.class IN (${classes})`;
+	}
+	if (regions) {
+		whereClause = whereClause
+			? `${whereClause} AND c.region IN (${regions})`
+			: `${whereClause} WHERE c.region IN (${regions})`;
+	}
+	if (regions) {
+		whereClause = whereClause
+			? `${whereClause} AND LOWER(c.realm) = ${realm}`
+			: `${whereClause} WHERE LOWER(c.realm) = ${realm}`;
+	}
+	if (rating > 0) {
+		whereClause = whereClause
+			? `${whereClause} AND c.rating > ${rating}`
+			: `${whereClause} WHERE c.rating = ${rating}`;
+	}
 
 	const querySpec = {
 		query: `SELECT c.name, c.current_${bracket}, c.faction, c.realm, c.gender, c.level, c.itemLevel, c.title, c.class, c.spec, c.race, c.id from c
 		 ORDER BY c.current_${bracket}.rating DESC
+		 ${whereClause ? whereClause : ''}
 		 OFFSET ${(page - 1) * limit} LIMIT ${limit}`,
 	};
 

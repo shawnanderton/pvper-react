@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { useParams } from 'react-router-dom';
 import { PVPBRACKETS } from '../../enums/blizzard';
 import ICharacter from '../../interfaces/ICharacter';
@@ -6,29 +6,13 @@ import useFetch from '../../services/useFetch';
 import { usePagination } from '../shared/Pagination/paginationContext';
 import Spinner from '../shared/Spinner';
 import LeaderboardFilter from './LeaderboardFilter/LeaderboardFilter';
-import { useLeaderboardFilter } from './LeaderboardFilter/leaderBoardFilterContext';
 import LeaderboardTable from './LeaderboardTable/LeaderboardTable';
 import LeaderboardTabs from './LeaderboardTabs/LeaderboardTabs';
+import useLeaderboard from './useLeaderboard';
 
 export default function Leaderboard() {
 	const { bracket } = useParams();
-	const { pagination, setPagination } = usePagination();
-	const { filters } = useLeaderboardFilter();
-	const classes = filters.classes.join(',');
-	const regions = filters.regions.join(',');
-	let { data: characters = [], loading, error, total } = useFetch<ICharacter[]>(
-		`/leaderboard/${bracket}?classes=${classes || '0'}&regions=${
-			regions || '0'
-		}&realm=${filters.realm}&rating=${filters.rating}&_page=${
-			pagination.page
-		}&_limit=${pagination.limit}`,
-	);
-
-	useEffect(() => {
-		setPagination((p) => {
-			return { ...p, total };
-		});
-	}, [setPagination, total]);
+	let { characters, loading, error } = useLeaderboard();
 
 	if (error) throw error;
 	if (loading) return <Spinner />;

@@ -3,23 +3,13 @@ import Page from './Page';
 import { usePagination } from './paginationContext';
 
 export default function Pagination() {
-	const { pagination } = usePagination();
-	let totalPages = Math.ceil(pagination.total / pagination.limit);
-	let firstPage = Math.max(
-		1,
-		pagination.page - Math.floor(pagination.range / 2),
-	);
-	let lastPage = Math.min(
-		totalPages,
-		pagination.page + Math.floor(pagination.range / 2),
-	);
-
+	const { totalPages, firstPage, lastPage, page } = usePagination();
 	function getPrevious() {
-		if (pagination.page !== 1) {
+		if (page !== 1) {
 			return (
 				<Page
 					linkClass="pagination-previous"
-					num={pagination.page - 1}
+					num={page - 1}
 					text="Previous"
 					isActive={false}
 					ariaLabel=""
@@ -29,11 +19,11 @@ export default function Pagination() {
 		return;
 	}
 	function getNext() {
-		if (pagination.page !== totalPages) {
+		if (page !== totalPages) {
 			return (
 				<Page
 					linkClass="pagination-next"
-					num={pagination.page + 1}
+					num={page + 1}
 					text="Next"
 					isActive={false}
 					ariaLabel=""
@@ -48,7 +38,7 @@ export default function Pagination() {
 			pages.push(
 				<li key={i}>
 					<Page
-						isActive={i === pagination.page}
+						isActive={i === page}
 						linkClass="pagination-link"
 						text={i + ''}
 						num={i}

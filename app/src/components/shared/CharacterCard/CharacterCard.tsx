@@ -26,7 +26,7 @@ export default function CharacterCard({ character, backgroundColor }: IProps) {
 						<small className="is-6 has-text-white">
 							{character.level} {character.race} {character.spec}{' '}
 							<span className={`color-${classSlug}`}>{character.class}</span>
-							{`<${character.guild}>`}
+							{`<${character.guild ?? ''}>`}
 							{character.realm}
 						</small>
 					</div>

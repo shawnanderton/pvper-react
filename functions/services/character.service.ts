@@ -67,32 +67,31 @@ async function getLeaderboards(
 	console.log(`Querying container: Items`);
 	let whereClause = '';
 	if (classes) {
-		whereClause = `${whereClause} WHERE c.class IN (${classes})`;
+		whereClause = `${whereClause} WHERE LOWER(c.class) IN ('${classes}')`;
 	}
 	if (regions) {
 		whereClause = whereClause
-			? `${whereClause} AND c.region IN (${regions})`
-			: `${whereClause} WHERE c.region IN (${regions})`;
+			? `${whereClause} AND LOWER(c.region) IN ('${regions}')`
+			: `${whereClause} WHERE LOWER(c.region) IN ('${regions}')`;
 	}
-	if (regions) {
+	if (realm) {
 		whereClause = whereClause
-			? `${whereClause} AND LOWER(c.realm) = ${realm}`
-			: `${whereClause} WHERE LOWER(c.realm) = ${realm}`;
+			? `${whereClause} AND LOWER(c.realm) = '${realm}'`
+			: `${whereClause} WHERE LOWER(c.realm) = '${realm}'`;
 	}
 	if (rating > 0) {
 		whereClause = whereClause
 			? `${whereClause} AND c.rating > ${rating}`
-			: `${whereClause} WHERE c.rating = ${rating}`;
+			: `${whereClause} WHERE c.rating > ${rating}`;
 	}
 
 	const querySpec = {
-		query: `SELECT c.name, c.current_${bracket}, c.faction, c.realm, c.gender, c.level, c.itemLevel, c.title, c.class, c.spec, c.race, c.id from c
-		 ORDER BY c.current_${bracket}.rating DESC
-		 ${whereClause ? whereClause : ''}
-		 OFFSET ${(page - 1) * limit} LIMIT ${limit}`,
+		query: `SELECT c.name, c.current_${bracket}, c.faction, c.realm, c.gender, c.level, c.guild, c.itemLevel, c.title, c.class, c.spec, c.race, c.id from c
+		${whereClause ? whereClause : ''}
+		ORDER BY c.current_${bracket}.rating DESC
+		OFFSET ${(page - 1) * limit} LIMIT ${limit}`,
 	};
 
-	// read all items in the Items container
 	const { resources: items } = await container.items
 		.query(querySpec)
 		.fetchAll();

@@ -73,8 +73,8 @@ export default function LeaderboardSearch() {
 		const queryParams = new URLSearchParams(location.search);
 
 		filters.realm
-			? queryParams.set('realms', filters.realm)
-			: queryParams.delete('realms');
+			? queryParams.set('realm', filters.realm)
+			: queryParams.delete('realm');
 		filters.classes.length > 0
 			? queryParams.set('classes', filters.classes.join('_'))
 			: queryParams.delete('classes');

@@ -8,7 +8,9 @@ export default function Select({ options, label, selected, onChange }: IProp) {
 				<div className="control">
 					<div className="select is-small">
 						<select onChange={onChange} value={selected}>
-							<option key="any">Any</option>
+							<option key="any" value="">
+								Any
+							</option>
 							{options?.map((o) => {
 								return (
 									<option key={o.value} value={o.name}>

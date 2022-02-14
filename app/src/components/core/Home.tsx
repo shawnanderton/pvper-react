@@ -12,7 +12,7 @@ export default function Home() {
 			</section>
 
 			<section className="section">
-				<h1 className="subtitle">Checkout The Leaderboards</h1>
+				<h1 className="subtitle">Checkout The Leaderboard</h1>
 
 				<ul className="list">
 					<li className="list-item">
